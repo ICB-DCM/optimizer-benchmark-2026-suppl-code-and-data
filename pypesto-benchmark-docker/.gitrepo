@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:ICB-DCM/pypesto-benchmark-docker.git
+	branch = main
+	commit = 7f8153e34176bf6b6d1ebf4b7eead8cbaecf99d5
+	parent = 91eec3366101ce9c2e744287e8aab472d27d7d10
+	method = merge
+	cmdver = 0.4.8

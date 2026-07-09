@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:ICB-DCM/pyscat-benchmark-docker.git
+	branch = main
+	commit = 1bcb3e08355d301d8b7d61714f7d6f70a723ecd2
+	parent = fdcff45e8174dd2790e270f9547b7df9d66fec34
+	method = merge
+	cmdver = 0.4.8

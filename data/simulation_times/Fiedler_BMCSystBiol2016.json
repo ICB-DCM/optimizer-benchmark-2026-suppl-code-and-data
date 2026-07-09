@@ -1,0 +1,8102 @@
+[
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 0,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0019528320008248556,
+    "fval": 2.4138906058001238e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00047099999999999996,
+      0.000225,
+      0.000243
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 1,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012982199987163767,
+    "fval": 4222305110.8468227,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000115,
+      0.000213,
+      0.000206
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 2,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010562089992163237,
+    "fval": 798852008840.6202,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00011300000000000001,
+      0.00016800000000000002,
+      7.000000000000001e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 3,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017052140028681606,
+    "fval": 22373.05827027549,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00032700000000000003,
+      0.00028000000000000003,
+      0.000406
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 4,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0016649719982524402,
+    "fval": 47879917247662.29,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00035499999999999996,
+      0.000317,
+      0.000311
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 5,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012923730027978308,
+    "fval": 48118.92012650052,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00014399999999999998,
+      0.000251,
+      0.00020999999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 6,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011579050005821045,
+    "fval": 2.5155023870206448e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000116,
+      0.000256,
+      0.000103
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 7,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010857699999178294,
+    "fval": 17926604.80883718,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000158,
+      0.00013700000000000002,
+      0.000102
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 8,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010809640007209964,
+    "fval": 7.473744285361496e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000102,
+      0.00014000000000000001,
+      0.00017199999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 9,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010554559994488955,
+    "fval": 1.6666129447060458e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00013800000000000002,
+      0.00013900000000000002,
+      9.4e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 10,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001128341998992255,
+    "fval": 1791034108102333.2,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000106,
+      0.000116,
+      0.000245
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 11,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001063247000274714,
+    "fval": 1.6648540669665005e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000112,
+      0.00017999999999999998,
+      9.6e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 12,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0018120540007657837,
+    "fval": 2515753104541.793,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000374,
+      0.00034899999999999997,
+      0.000406
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 13,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001596152000274742,
+    "fval": 1832944770.038674,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000331,
+      0.000301,
+      0.00029499999999999996
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 14,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017960509976546746,
+    "fval": 310979351575688.6,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000406,
+      0.000342,
+      0.00037
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 15,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012942460016347468,
+    "fval": 4.1166728272651515e+18,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000189,
+      0.000251,
+      0.00016700000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 16,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0016110719989228528,
+    "fval": 11720601708668.965,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000326,
+      0.000304,
+      0.000289
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 17,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010370169984526,
+    "fval": 901878274.5028733,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00010499999999999999,
+      0.000125,
+      0.000128
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 18,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014266869984567165,
+    "fval": 487485495901.42645,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000249,
+      0.00028000000000000003,
+      0.000205
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 19,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0016539409989491105,
+    "fval": 1954815.2809453828,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00021799999999999999,
+      0.000211,
+      0.0005340000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 20,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0009827789981500246,
+    "fval": 44475512934.52176,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000106,
+      0.000136,
+      7.099999999999999e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 21,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012371800003165845,
+    "fval": 19156598.858205736,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00010499999999999999,
+      0.000357,
+      9.7e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 22,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010095800025737844,
+    "fval": 6649649.224850784,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00011899999999999999,
+      0.00013000000000000002,
+      7.199999999999999e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 23,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010291329999745358,
+    "fval": 5.711073808287476e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000115,
+      0.000163,
+      8e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 24,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00124402899746201,
+    "fval": 31184.81335289226,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000176,
+      0.000179,
+      0.00019600000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 25,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001132837998738978,
+    "fval": 8.965784707785468e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000128,
+      0.000193,
+      0.00011700000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 26,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012283040014153812,
+    "fval": 123045014.14695807,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000112,
+      0.000259,
+      0.00019
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 27,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0018326619974686764,
+    "fval": 6.675353673896147e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00039600000000000003,
+      0.00040300000000000004,
+      0.00034599999999999995
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 28,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013654050017066766,
+    "fval": 5.484730473298743e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00019800000000000002,
+      0.000315,
+      0.000157
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 29,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001680994999333052,
+    "fval": 44431247.2647348,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000306,
+      0.000423,
+      0.000265
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 30,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017605969987926073,
+    "fval": 133620319.36812238,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00039600000000000003,
+      0.00034100000000000005,
+      0.00034300000000000004
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 31,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001120948996685911,
+    "fval": 2163890110436.0398,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00011999999999999999,
+      0.000146,
+      0.000171
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 32,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010689289993024431,
+    "fval": 167402027795366.0,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000106,
+      0.000224,
+      6.8e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 33,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0016627770019113086,
+    "fval": 388709999925.1274,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000121,
+      9.6e-05,
+      8.999999999999999e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 34,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017520619985589292,
+    "fval": 13635951329.86344,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000374,
+      0.000314,
+      0.000297
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 35,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001726371996483067,
+    "fval": 3.2109256631326016e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000383,
+      0.00029499999999999996,
+      0.000332
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 36,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010870879996218719,
+    "fval": 3758.901890010776,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000131,
+      0.00018099999999999998,
+      8e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 37,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00132466899958672,
+    "fval": 3130659417211.848,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000115,
+      0.000299,
+      0.00022700000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 38,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0016123349996632896,
+    "fval": 3105769480.8040094,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000277,
+      0.00026000000000000003,
+      0.00038
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 39,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011141030008730013,
+    "fval": 3290160608.0884852,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00011300000000000001,
+      9.3e-05,
+      0.000212
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 40,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001313308999669971,
+    "fval": 3676729857.2889194,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00020899999999999998,
+      0.000257,
+      0.000163
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 41,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010536869995121378,
+    "fval": 2.1156987064086461e+18,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00011999999999999999,
+      0.000156,
+      8.9e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 42,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010738849996414501,
+    "fval": 297259103039.7236,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00011899999999999999,
+      0.000108,
+      0.000171
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 43,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0015660000026400667,
+    "fval": 1909541695575790.2,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000111,
+      0.00047,
+      0.000296
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 44,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0019974869974248577,
+    "fval": 92043903.996391,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00047,
+      0.000368,
+      0.00046
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 45,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002488881000317633,
+    "fval": 1.5700911881454544e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005639999999999999,
+      0.0006540000000000001,
+      0.000584
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 46,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001133412999479333,
+    "fval": 15408763632578.8,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000114,
+      0.00023999999999999998,
+      8e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 47,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001491645998612512,
+    "fval": 132718.08811265664,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000273,
+      0.000268,
+      0.000236
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 48,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0009720980015117675,
+    "fval": 2963721076.744588,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00010899999999999999,
+      9.4e-05,
+      7.8e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 49,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011267459994996898,
+    "fval": 2575209883834.9805,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000112,
+      0.00023799999999999998,
+      9.2e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 50,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011751519996323623,
+    "fval": 1292103896921606.5,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000114,
+      0.000255,
+      0.00011
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 51,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001123113001085585,
+    "fval": 72830.95157960166,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00015,
+      0.000125,
+      0.000175
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 52,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0024043690027610864,
+    "fval": 2396097875777.402,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00063,
+      0.000571,
+      0.000517
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 53,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0024859600016498007,
+    "fval": 1062716.0186761685,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000624,
+      0.000585,
+      0.00058
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 54,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011513479985296726,
+    "fval": 30214770446103.523,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00015099999999999998,
+      0.000223,
+      0.000102
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 55,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011668620027194265,
+    "fval": 1453514749518653.8,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00017199999999999998,
+      0.000175,
+      0.000126
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 56,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001210364996950375,
+    "fval": 233372330669724.6,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000112,
+      0.000212,
+      0.000213
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 57,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011084819998359308,
+    "fval": 1.9267346296427228e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000121,
+      0.000191,
+      0.000108
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 58,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011021709979104344,
+    "fval": 13812867739264.766,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000148,
+      0.00016,
+      0.000108
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 59,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012026809999952093,
+    "fval": 1.668253551919908e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000125,
+      0.00017999999999999998,
+      0.000236
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 60,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011365069985913578,
+    "fval": 13539248731535.998,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000115,
+      0.00010499999999999999,
+      0.000237
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 61,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001747375001286855,
+    "fval": 30564464.857720554,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00034399999999999996,
+      0.000421,
+      0.00031
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 62,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011034119997930247,
+    "fval": 1411373952319240.0,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000106,
+      0.000126,
+      0.000193
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 63,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012708460017165635,
+    "fval": 59953.60224488387,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000154,
+      0.000162,
+      0.00027400000000000005
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 64,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010735310024756473,
+    "fval": 399120320624368.9,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00011700000000000001,
+      0.000102,
+      0.000177
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 65,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0009958890004782006,
+    "fval": 868.8907724990219,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000135,
+      9.800000000000001e-05,
+      0.00011700000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 66,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0015385589977086056,
+    "fval": 838289922.9162962,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00015900000000000002,
+      0.000467,
+      0.00023799999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 67,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013021779996051919,
+    "fval": 1119315860614.362,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000214,
+      0.000245,
+      0.000184
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 68,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001505100997746922,
+    "fval": 5753924264993084.0,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00025,
+      0.000312,
+      0.00026700000000000004
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 69,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011749129989766516,
+    "fval": 145486287.78162065,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000106,
+      0.00020899999999999998,
+      0.000191
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 70,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0023170539971033577,
+    "fval": 1.5573059235065216e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000553,
+      0.000536,
+      0.0005560000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 71,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017756490015017334,
+    "fval": 2.3085183675991955e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000389,
+      0.000357,
+      0.000342
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 72,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0015190759986580815,
+    "fval": 2.4448846990933504e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000297,
+      0.000279,
+      0.00026900000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 73,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014108100003795698,
+    "fval": 2168384525.2934623,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000115,
+      0.000195,
+      0.000206
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 74,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0033421340012864675,
+    "fval": 258462455652002.78,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000906,
+      0.000928,
+      0.000819
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 75,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001084638999600429,
+    "fval": 27350431.9106027,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000104,
+      0.000189,
+      0.00011999999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 76,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000992137000139337,
+    "fval": 28588398968521.484,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000122,
+      0.000108,
+      9.3e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 77,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0030008479989191983,
+    "fval": 150301512822350.25,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0008259999999999999,
+      0.000747,
+      0.000749
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 78,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001085479001631029,
+    "fval": 12721704.97893847,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00011,
+      0.000193,
+      0.000104
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 79,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0021574480015260633,
+    "fval": 205757874430.61594,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0006039999999999999,
+      0.000322,
+      0.000571
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 80,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001026876998366788,
+    "fval": 3.5200006848237732e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000134,
+      0.000121,
+      0.000106
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 81,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0026044830010505393,
+    "fval": 28744821389.608242,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000579,
+      0.0007920000000000001,
+      0.000559
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 82,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013438220012176316,
+    "fval": 98370566.69683965,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00019,
+      0.000216,
+      0.000256
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 83,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0019296989994472824,
+    "fval": 3304635.148728182,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000381,
+      0.0005430000000000001,
+      0.000342
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 84,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0018092410027747974,
+    "fval": 1301172630873.199,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000415,
+      0.000375,
+      0.00035299999999999996
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 85,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012520479976956267,
+    "fval": 17381384458688.967,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000191,
+      0.000208,
+      0.000174
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 86,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0015966570026648697,
+    "fval": 46810320680.76813,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00017,
+      0.000477,
+      0.000268
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 87,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010479390002728906,
+    "fval": 4981200338822.52,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00010499999999999999,
+      0.000202,
+      6.7e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 88,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001243677001184551,
+    "fval": 773815613176.1692,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00016700000000000002,
+      0.00014399999999999998,
+      0.00027600000000000004
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 89,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012965380010427907,
+    "fval": 17314280180987.521,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000193,
+      0.000223,
+      0.000208
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 90,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010878639986913186,
+    "fval": 463.61040372243235,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00014299999999999998,
+      0.000155,
+      0.000132
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 91,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0021518100002140272,
+    "fval": 701085273.3263819,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000515,
+      0.000467,
+      0.000509
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 92,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011699719980242662,
+    "fval": 1557549403178491.2,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00010499999999999999,
+      0.000135,
+      0.000261
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 93,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010528599996177945,
+    "fval": 144179992672.9815,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000106,
+      0.000188,
+      8.8e-05
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 94,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011066190018027555,
+    "fval": 4822495993755.878,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00011,
+      9.3e-05,
+      0.000255
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 95,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00212593200194533,
+    "fval": 2081724557782.6577,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000505,
+      0.00047099999999999996,
+      0.000483
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 96,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000990772998193279,
+    "fval": 9969210059668490.0,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000102,
+      0.00011899999999999999,
+      0.000115
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 97,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001475359997129999,
+    "fval": 3337.657732414487,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000174,
+      0.000244,
+      0.000397
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 98,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013536229998862837,
+    "fval": 3649453056174.762,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000182,
+      0.000321,
+      0.000178
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 99,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011697610025294125,
+    "fval": 79233.87025332017,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000158,
+      0.00019,
+      0.000163
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 0,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.02422465900235693,
+    "fval": 2.4138906058001238e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006961,
+      0.007607999999999999,
+      0.008085
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 1,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.011759261997212889,
+    "fval": 4222305110.8468227,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00088,
+      0.004556,
+      0.0047009999999999994
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 2,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.008040624001296237,
+    "fval": 798852008840.6217,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001865,
+      0.003032,
+      0.001585
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 3,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.037270365999575006,
+    "fval": 22373.05827079203,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.011139,
+      0.010772,
+      0.013619
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 4,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03456171300058486,
+    "fval": 47879917247662.29,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010273,
+      0.010044,
+      0.012556
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 5,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03017837199877249,
+    "fval": 48118.92013078457,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0083,
+      0.010407,
+      0.009744999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 6,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.014510232998873107,
+    "fval": 2.5155023870206448e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0023290000000000003,
+      0.007213,
+      0.003185
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 7,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.02349059399784892,
+    "fval": 17926604.808238313,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007745,
+      0.007301,
+      0.0066630000000000005
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 8,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.025237392997951247,
+    "fval": 7.473744285361498e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007437999999999999,
+      0.007962,
+      0.007984
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 9,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.021234523999737576,
+    "fval": 1.6666129447061e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006673,
+      0.006219000000000001,
+      0.006497
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 10,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.013314263000211213,
+    "fval": 1791034108102333.8,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0013160000000000001,
+      0.0025800000000000003,
+      0.007575
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 11,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.011221954002394341,
+    "fval": 1.6648540669665926e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001489,
+      0.004508,
+      0.003423
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 12,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.18838268000035896,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.187219,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.423167, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.423167: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 13,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03184846500153071,
+    "fval": 1832944770.038674,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009163000000000001,
+      0.010013,
+      0.01075
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 14,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.21212913299677894,
+    "fval": 310979351575688.6,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.017429,
+      0.103905,
+      0.08887099999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 15,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.040032655000686646,
+    "fval": 4.1166728272651515e+18,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.012934,
+      0.012365000000000001,
+      0.012801
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 16,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04471223799919244,
+    "fval": 11720601708668.965,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013878999999999999,
+      0.014289,
+      0.014765
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 17,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.01885479900010978,
+    "fval": 901878274.5028731,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005757,
+      0.005376000000000001,
+      0.006018
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 18,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.024670080998475896,
+    "fval": 487485495901.4266,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007598,
+      0.007982,
+      0.0074199999999999995
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 19,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1697256040024513,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.16858199999999998,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.658347, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.658347: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 20,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.00762992200179724,
+    "fval": 44475512934.52447,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001961,
+      0.002438,
+      0.001656
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 21,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.20934076099729282,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002373,
+      0.00844,
+      0.197084
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.00583833, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.00583833: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 22,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.008562846000131685,
+    "fval": 6649649.224850784,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001928,
+      0.003367,
+      0.001477
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 23,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.009377668000524864,
+    "fval": 5.711073808287476e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011,
+      0.004752,
+      0.001859
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 24,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04411816299761995,
+    "fval": 31184.81335299804,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013884,
+      0.014029999999999999,
+      0.014501
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 25,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.016691037999407854,
+    "fval": 8.965784707785468e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0050880000000000005,
+      0.005151,
+      0.004799
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 26,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.013692532000277424,
+    "fval": 123045014.14695807,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001994,
+      0.0053620000000000004,
+      0.004713
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 27,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.02977475800071261,
+    "fval": 6.675353673896147e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009226000000000002,
+      0.009394,
+      0.0095
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 28,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09362345200133859,
+    "fval": 5.484730473298648e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037954,
+      0.010872999999999999,
+      0.043072000000000006
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 29,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05460538800252834,
+    "fval": 44431247.2647348,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018567,
+      0.016322,
+      0.017943999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 30,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03718254900013562,
+    "fval": 133620319.36812238,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.012491,
+      0.011097,
+      0.011763
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 31,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.010460858997248579,
+    "fval": 2163890110436.0796,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0016020000000000001,
+      0.003179,
+      0.0038940000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 32,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.017949987999600125,
+    "fval": 167402027795366.0,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004863,
+      0.006613000000000001,
+      0.004668
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 33,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.02132587199957925,
+    "fval": 388709999923.24615,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007452,
+      0.004934999999999999,
+      0.007128
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 34,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03412948299956042,
+    "fval": 13635951329.861536,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009945,
+      0.009859,
+      0.012544000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 35,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04296839800008456,
+    "fval": 3.2109256631326016e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013293,
+      0.014348000000000001,
+      0.013611
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 36,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03807177400085493,
+    "fval": 3758.9018900107935,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.011987,
+      0.012454,
+      0.011954000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 37,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.023020548997010337,
+    "fval": 3130659417211.848,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0060490000000000006,
+      0.008378,
+      0.006939
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 38,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04399229699993157,
+    "fval": 3105769480.8040094,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010667999999999999,
+      0.011644,
+      0.020004
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 39,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.012867737001215573,
+    "fval": 3290160608.0884852,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0027029999999999997,
+      0.0028,
+      0.005725
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 40,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04052489600144327,
+    "fval": 3676729857.2889194,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.012575,
+      0.014137,
+      0.012074
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 41,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.016332052000507247,
+    "fval": 2.1156987064086461e+18,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004785,
+      0.005268,
+      0.0045590000000000006
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 42,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04519780799819273,
+    "fval": 297259103039.7241,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019992,
+      0.003558,
+      0.019798
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 43,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.020650070000556298,
+    "fval": 1909541695575790.2,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001866,
+      0.010398999999999999,
+      0.00651
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 44,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.19988860699959332,
+    "fval": 92043903.99650241,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.089339,
+      0.011366,
+      0.097318
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 45,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06676500899993698,
+    "fval": 1.5700911881454544e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020080999999999998,
+      0.023184,
+      0.02166
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 46,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04335734300184413,
+    "fval": 15408763632578.8,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.012485,
+      0.015147,
+      0.013823
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 47,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04104625700347242,
+    "fval": 132718.08811265667,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013562,
+      0.012461,
+      0.013111000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 48,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.010441033999086358,
+    "fval": 2963721076.744588,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002885,
+      0.002989,
+      0.002769
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 49,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.011861810999107547,
+    "fval": 2575209883834.9805,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0012720000000000001,
+      0.007317000000000001,
+      0.001552
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 50,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.20830316100182245,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.20707499999999998,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 2.47564, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 2.47564: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 51,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.01415119399825926,
+    "fval": 72830.95157960171,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003716,
+      0.0038889999999999997,
+      0.0048330000000000005
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 52,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06638313399889739,
+    "fval": 2396097875765.2705,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020135,
+      0.021525,
+      0.022478
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 53,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06962154099892359,
+    "fval": 1062716.0186761685,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024005,
+      0.0208,
+      0.022975000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 54,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.012618056000064826,
+    "fval": 30214770446104.797,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002476,
+      0.005732,
+      0.0027010000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 55,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.02331998799854773,
+    "fval": 1453514749518653.8,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007339,
+      0.007156,
+      0.007163999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 56,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.041280767996795475,
+    "fval": 233372330669730.78,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009424,
+      0.014469,
+      0.015714
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 57,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.013460483998642303,
+    "fval": 1.9267346296427228e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003336,
+      0.004901,
+      0.0036070000000000004
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 58,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04722844299976714,
+    "fval": 13812867739264.766,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.015317,
+      0.015147,
+      0.015087999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 59,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.01441189799879794,
+    "fval": 1.668253551919908e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001885,
+      0.004972000000000001,
+      0.005888
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 60,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.025238525002350798,
+    "fval": 13539248731535.998,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008322,
+      0.007427,
+      0.007829
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 61,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04816707499776385,
+    "fval": 30564464.857720554,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.01482,
+      0.016475,
+      0.015153
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 62,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.011405130997445667,
+    "fval": 1411373952319239.8,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001632,
+      0.002902,
+      0.005207
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 63,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.02496691499982262,
+    "fval": 59953.60224488387,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006945000000000001,
+      0.006972000000000001,
+      0.009319000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 64,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03470450399981928,
+    "fval": 399120320624368.9,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010645,
+      0.010284000000000001,
+      0.011947
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 65,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04214088700246066,
+    "fval": 868.8907725002906,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013157,
+      0.013256,
+      0.013833999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 66,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.19420726699900115,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.19294399999999998,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.13825, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.13825: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 67,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.034864797999034636,
+    "fval": 1119315860614.367,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010867000000000002,
+      0.011644999999999999,
+      0.010576
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 68,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.045065269001497654,
+    "fval": 5753924264993049.0,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013646,
+      0.012917,
+      0.016582
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 69,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.028665101999649778,
+    "fval": 145486287.78335446,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009576000000000001,
+      0.009228,
+      0.007937
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 70,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1747850629981258,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.173589,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.13457, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.13457: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 71,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.02942042300128378,
+    "fval": 2.3085183675991955e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009210000000000001,
+      0.009241,
+      0.009326000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 72,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.030333570997754578,
+    "fval": 2.4448846990933504e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009626,
+      0.009878,
+      0.009167
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 73,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03454086900092079,
+    "fval": 2168384525.293458,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009961000000000001,
+      0.011294,
+      0.011624
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 74,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08748895199823892,
+    "fval": 258462455651649.8,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028806000000000002,
+      0.027745000000000002,
+      0.029205
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 75,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.009082323998882202,
+    "fval": 27350431.910602633,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000983,
+      0.0033580000000000003,
+      0.003098
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 76,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0298844739991182,
+    "fval": 28588398968541.508,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00919,
+      0.009358,
+      0.009590999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 77,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08416698400105815,
+    "fval": 150301512822350.25,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027841,
+      0.026615,
+      0.027866
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 78,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0328401959995972,
+    "fval": 12721704.97893847,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010026,
+      0.010641999999999999,
+      0.010417
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 79,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05352257899721735,
+    "fval": 205757874430.61594,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019931,
+      0.012106,
+      0.019784
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 80,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.013773287999356398,
+    "fval": 3.5200006848234024e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004394,
+      0.0039049999999999996,
+      0.003826
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 81,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05602614899908076,
+    "fval": 28744821389.608242,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.016784,
+      0.020844,
+      0.016662
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 82,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.043375162000302225,
+    "fval": 98370566.69683965,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013513,
+      0.013453,
+      0.014647
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 83,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.19856763600182603,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.197379,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.0484491, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.0484491: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 84,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.044098199003201444,
+    "fval": 1301172630873.199,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013599,
+      0.014037,
+      0.0147
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 85,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.02030878000005032,
+    "fval": 17381384458686.219,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006526,
+      0.006011,
+      0.006033999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 86,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.40662852199966437,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.15031899999999998,
+      0.018525,
+      0.23634899999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 2.72688, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 2.72688: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 87,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.012872999999672174,
+    "fval": 4981200338822.5205,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00323,
+      0.004621,
+      0.0033410000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 88,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.020214926997141447,
+    "fval": 773815613170.3822,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005439,
+      0.005339,
+      0.007764999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 89,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.030091035998339066,
+    "fval": 17314280180987.516,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0089,
+      0.00906,
+      0.010376
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 90,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.02473042500059819,
+    "fval": 463.61040372243235,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006641,
+      0.007317000000000001,
+      0.009025
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 91,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.18898720099969069,
+    "fval": 701085273.326382,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.077226,
+      0.025786,
+      0.083865
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 92,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.030517858001985587,
+    "fval": 1557549403178491.2,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008631999999999999,
+      0.009368,
+      0.010811999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 93,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.012175731997558614,
+    "fval": 144179992672.9815,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003059,
+      0.004757,
+      0.002755
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 94,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03399084600096103,
+    "fval": 4822495993803.141,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010142,
+      0.009805999999999999,
+      0.012387
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 95,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04780351400040672,
+    "fval": 2081724557782.6577,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.015162,
+      0.015797000000000002,
+      0.015129
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 96,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03243798000039533,
+    "fval": 9969210059668494.0,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002784,
+      0.004692999999999999,
+      0.023208
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 97,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.163739779000025,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.16259200000000001,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.356236, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.356236: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 98,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03045230199859361,
+    "fval": 3649453061159.815,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007965,
+      0.013163000000000001,
+      0.007643
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 99,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.021101900998473866,
+    "fval": 79233.87025332017,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006738,
+      0.0063019999999999994,
+      0.006422
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 0,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.19774815200071316,
+    "fval": 2.4138906058001238e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.163738,
+      0.007203,
+      0.015886
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 1,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06319212299786159,
+    "fval": 4222305110.8468227,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018943,
+      0.017030999999999998,
+      0.017716000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 2,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0252625450011692,
+    "fval": 798852008840.6202,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0062900000000000005,
+      0.006066,
+      0.005946
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 3,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04098288000022876,
+    "fval": 22373.05827027549,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.011787,
+      0.010308,
+      0.011653
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 4,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.032253435001621256,
+    "fval": 47879917247662.29,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008702,
+      0.008213,
+      0.00844
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 5,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.026334532001783373,
+    "fval": 48118.92012650052,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007084,
+      0.005448000000000001,
+      0.006873000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 6,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.10792516299989074,
+    "fval": 2.5155023870206448e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.03744,
+      0.034588,
+      0.026515
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 7,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.024036861999775283,
+    "fval": 17926604.80883718,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006534,
+      0.005547,
+      0.004714
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 8,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0343424229977245,
+    "fval": 7.473744285361496e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010476000000000001,
+      0.006902999999999999,
+      0.008929
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 9,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07812486100010574,
+    "fval": 1.6666129447060458e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.045639000000000006,
+      0.010013999999999999,
+      0.011981
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 10,
+    "sensitivity_method": "asa",
+    "time_obj_s": 2.9417762650009536,
+    "fval": 1791034108102333.2,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010013999999999999,
+      0.006916,
+      2.91584
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 11,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0474862139999459,
+    "fval": 1.6648540669665005e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009516,
+      0.005634,
+      0.023495000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 12,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06193233100202633,
+    "fval": 2515753104541.793,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030011,
+      0.011097,
+      0.010462999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 13,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08794830100305262,
+    "fval": 1832944770.038674,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027458,
+      0.022844999999999997,
+      0.027881
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 14,
+    "sensitivity_method": "asa",
+    "time_obj_s": 6.300712893000309,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027116,
+      0.027547000000000002,
+      6.237353
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 9.84434, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 8.5 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 15,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05346880999786663,
+    "fval": 4.1166728272651515e+18,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020919,
+      0.011835,
+      0.012611
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 16,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09743614900071407,
+    "fval": 11720601708668.965,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.029617,
+      0.026018999999999997,
+      0.032258
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 17,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.053474710999580566,
+    "fval": 901878274.5028733,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.016547999999999997,
+      0.014776,
+      0.012608000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 18,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03703885900176829,
+    "fval": 487485495901.42645,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009471,
+      0.008296,
+      0.011504
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 19,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02713855099864304,
+    "fval": 1954815.2809453828,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008143000000000001,
+      0.0051459999999999995,
+      0.0070350000000000005
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 20,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.021954357998765772,
+    "fval": 44475512934.52176,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0060750000000000005,
+      0.00488,
+      0.004534
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 21,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04372639800203615,
+    "fval": 19156598.858205736,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.011615,
+      0.013172000000000001,
+      0.011468
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 22,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04252344999986235,
+    "fval": 6649649.224850784,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.015423,
+      0.007829,
+      0.011696
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 23,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.10446023500117008,
+    "fval": 5.711073808287476e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.033171,
+      0.032764,
+      0.027600000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 24,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.037388354998256546,
+    "fval": 31184.81335289226,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010428000000000002,
+      0.008792,
+      0.008567
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 25,
+    "sensitivity_method": "asa",
+    "time_obj_s": 1.9555284200032474,
+    "fval": 8.965784707785468e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.103256,
+      0.005035,
+      1.838828
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 26,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.059267011001793435,
+    "fval": 123045014.14695807,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018918,
+      0.016948,
+      0.014686
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 27,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.038280119999399176,
+    "fval": 6.675353673896147e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.011518,
+      0.009229,
+      0.00984
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 28,
+    "sensitivity_method": "asa",
+    "time_obj_s": 6.50189106200196,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      6.498057,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 7.98082, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 7 (check debug logs for details): AMICI failed to integrate the backward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 29,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05472994899901096,
+    "fval": 44431247.2647348,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.017942,
+      0.015408,
+      0.013096
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 30,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.027258086996880593,
+    "fval": 133620319.36812238,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006795,
+      0.005779,
+      0.007644
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 31,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.033963556998060085,
+    "fval": 2163890110436.0398,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009695,
+      0.008532999999999999,
+      0.008237999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 32,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06649778800056083,
+    "fval": 167402027795366.0,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020550000000000002,
+      0.018745,
+      0.017327000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 33,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.13011464300143416,
+    "fval": 388709999925.1274,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020634,
+      0.093042,
+      0.007717
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 34,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03443080599754467,
+    "fval": 13635951329.86344,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008237,
+      0.009231999999999999,
+      0.009242
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 35,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08624538900039624,
+    "fval": 3.2109256631326016e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028686,
+      0.024883,
+      0.022009
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 36,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06174113000088255,
+    "fval": 3758.901890010776,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019861,
+      0.0135,
+      0.017748
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 37,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06625570100004552,
+    "fval": 3130659417211.848,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018479,
+      0.021100999999999998,
+      0.017488
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 38,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04644517000269843,
+    "fval": 3105769480.8040094,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013449,
+      0.012189,
+      0.012727
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 39,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.040487664999091066,
+    "fval": 3290160608.0884852,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.011481,
+      0.010256,
+      0.01073
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 40,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05664949000129127,
+    "fval": 3676729857.2889194,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.014975,
+      0.015571999999999999,
+      0.016762
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 41,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.031108262999623548,
+    "fval": 2.1156987064086461e+18,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009513,
+      0.004885,
+      0.008946999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 42,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.5705045840004459,
+    "fval": 297259103039.7236,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.096871,
+      0.005785,
+      0.457223
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 43,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0815561509989493,
+    "fval": 1909541695575790.2,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019161,
+      0.024912,
+      0.028609000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 44,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05377530400073738,
+    "fval": 92043903.996391,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028474,
+      0.008336,
+      0.009247
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 45,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09753559000091627,
+    "fval": 1.5700911881454544e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030361,
+      0.027703,
+      0.02955
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 46,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05896032000237028,
+    "fval": 15408763632578.8,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018865,
+      0.013876,
+      0.015513
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 47,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.024044052999670384,
+    "fval": 132718.08811265664,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0068,
+      0.005163,
+      0.005017000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 48,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02592349699989427,
+    "fval": 2963721076.744588,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0069770000000000006,
+      0.005925,
+      0.005902
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 49,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.029413129999738885,
+    "fval": 2575209883834.9805,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007619,
+      0.007981,
+      0.006985
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 50,
+    "sensitivity_method": "asa",
+    "time_obj_s": 8.622237790001236,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      2.8259369999999997,
+      0.073598,
+      5.712829
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 9.98, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 8.5 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 51,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.029106637000950286,
+    "fval": 72830.95157960166,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0077080000000000004,
+      0.006595,
+      0.006535999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 52,
+    "sensitivity_method": "asa",
+    "time_obj_s": 5.794511907999549,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      5.789597,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.0389429, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 0 (check debug logs for details): AMICI failed to integrate the backward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 53,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06352640299883205,
+    "fval": 1062716.0186761685,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02253,
+      0.013561,
+      0.016878
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 54,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.047188805998302996,
+    "fval": 30214770446103.523,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009068,
+      0.006684,
+      0.023755
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 55,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04912175899880822,
+    "fval": 1453514749518653.8,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019146,
+      0.010587999999999998,
+      0.010981
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 56,
+    "sensitivity_method": "asa",
+    "time_obj_s": 2.2178689210013545,
+    "fval": 233372330669724.6,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.015479,
+      0.031782,
+      2.1610120000000004
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 57,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03028731100130244,
+    "fval": 1.9267346296427228e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008235,
+      0.007545,
+      0.007327
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 58,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.031130801002291264,
+    "fval": 13812867739264.766,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008207,
+      0.00813,
+      0.007835
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 59,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.043693396997696254,
+    "fval": 1.668253551919908e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020579,
+      0.007444,
+      0.007482
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 60,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04816439799833461,
+    "fval": 13539248731535.998,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.014516999999999999,
+      0.011204,
+      0.013033
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 61,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08130113100196468,
+    "fval": 30564464.857720554,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.025196000000000003,
+      0.023414,
+      0.021563
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 62,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04694657900108723,
+    "fval": 1411373952319240.0,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.01382,
+      0.011971,
+      0.012319
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 63,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04509216199949151,
+    "fval": 59953.60224488387,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.012644,
+      0.011334,
+      0.01298
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 64,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.031066129999089753,
+    "fval": 399120320624368.9,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00912,
+      0.007472,
+      0.007231
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 65,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03037432899873238,
+    "fval": 868.8907724990219,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009397,
+      0.0060869999999999995,
+      0.007843
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 66,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.10615670300103375,
+    "fval": 838289922.9162962,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036439,
+      0.014103999999999998,
+      0.046581000000000004
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 67,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03717254200091702,
+    "fval": 1119315860614.362,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013981,
+      0.007017000000000001,
+      0.007824
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 68,
+    "sensitivity_method": "asa",
+    "time_obj_s": 1.6572129180021875,
+    "fval": 5753924264993084.0,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026533,
+      0.021568999999999998,
+      1.597492
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 69,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02318950200060499,
+    "fval": 145486287.78162065,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005687,
+      0.004974,
+      0.0045060000000000005
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 70,
+    "sensitivity_method": "asa",
+    "time_obj_s": 7.100242653003079,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      7.0954440000000005,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 6.99889, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 5.5 (check debug logs for details): AMICI failed to integrate the backward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 71,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08682424899961916,
+    "fval": 2.3085183675991955e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.025512,
+      0.024548999999999998,
+      0.026598
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 72,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06815759299934143,
+    "fval": 2.4448846990933504e+17,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.022639,
+      0.018996,
+      0.017619
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 73,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06629314000019804,
+    "fval": 2168384525.2934623,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019629,
+      0.017698000000000002,
+      0.020361
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 74,
+    "sensitivity_method": "asa",
+    "time_obj_s": 3.626250199002243,
+    "fval": 258462455652002.78,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.015672000000000002,
+      0.013045,
+      3.589737
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 75,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.036183574000460794,
+    "fval": 27350431.9106027,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009966,
+      0.008754,
+      0.009041
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 76,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02896180999960052,
+    "fval": 28588398968521.484,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005461000000000001,
+      0.004386,
+      0.011366
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 77,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04626188800102682,
+    "fval": 150301512822350.25,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.012234,
+      0.010946999999999998,
+      0.015023
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 78,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.034255345999554265,
+    "fval": 12721704.97893847,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010367000000000001,
+      0.006645,
+      0.009345000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 79,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04436412100039888,
+    "fval": 205757874430.61594,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013676,
+      0.009693,
+      0.012273999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 80,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.5812826640030835,
+    "fval": 3.5200006848237732e+16,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.5561609999999999,
+      0.007343,
+      0.007699
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 81,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05228417100079241,
+    "fval": 28744821389.608242,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.017469000000000002,
+      0.011851,
+      0.013619
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 82,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0454986420008936,
+    "fval": 98370566.69683965,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.012895,
+      0.011764,
+      0.012549
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 83,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04875099999844679,
+    "fval": 3304635.148728182,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.014359,
+      0.013882,
+      0.012631
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 84,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05427416399834328,
+    "fval": 1301172630873.199,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.016466,
+      0.011635,
+      0.017769
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 85,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.027832815998408478,
+    "fval": 17381384458688.967,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007309,
+      0.006739,
+      0.006742
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 86,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06216723100078525,
+    "fval": 46810320680.76813,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035517,
+      0.010154,
+      0.007777999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 87,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07501472600051784,
+    "fval": 4981200338822.52,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.051232999999999994,
+      0.007342,
+      0.006528
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 88,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04936143099985202,
+    "fval": 773815613176.1692,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010789,
+      0.011330999999999999,
+      0.017477
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 89,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08185352299915394,
+    "fval": 17314280180987.521,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.025571,
+      0.023314,
+      0.023507
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 90,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.040406503998383414,
+    "fval": 463.61040372243235,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.012785999999999999,
+      0.010561,
+      0.009691
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 91,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.033716290003212634,
+    "fval": 701085273.3263819,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010433999999999999,
+      0.007245,
+      0.009179
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 92,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03538178999951924,
+    "fval": 1557549403178491.2,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0076100000000000004,
+      0.012271,
+      0.008196
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 93,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.027529594997758977,
+    "fval": 144179992672.9815,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0072640000000000005,
+      0.007032,
+      0.006369
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 94,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.6094537230019341,
+    "fval": 4822495993755.878,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023206,
+      0.5680769999999999,
+      0.008637
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 95,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07321162399966852,
+    "fval": 2081724557782.6577,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024987,
+      0.019779,
+      0.01726
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 96,
+    "sensitivity_method": "asa",
+    "time_obj_s": 2.8936600540000654,
+    "fval": 9969210059668490.0,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.011385999999999999,
+      0.008066,
+      2.864338
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 97,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04766481800106703,
+    "fval": 3337.657732414487,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013373,
+      0.009814999999999999,
+      0.01503
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 98,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.3609256320014538,
+    "fval": 3649453056174.762,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.224108,
+      0.012317,
+      0.115578
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Fiedler_BMCSystBiol2016",
+    "sample_idx": 99,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05783724999855622,
+    "fval": 79233.87025332017,
+    "condition_ids": [
+      "model1_data1",
+      "model1_data2",
+      "model1_data3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.021687,
+      0.013323999999999999,
+      0.014176
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  }
+]

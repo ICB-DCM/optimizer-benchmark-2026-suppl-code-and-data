@@ -1,0 +1,42 @@
+slurm_name,output_dir,optimizer_label,package,objective_impl,is_pysacess,excluded,description,original_id,supports_gradients,supports_hessian,supports_bounds,gradient_based,hessian_based,is_global,is_local,output_dir_ft3,always_fsa,optimizer_color
+SLSQP,SLSQP,MS+scipy.SLSQP,SciPy,pyPESTO,False,False,,,,False,True,True,True,False,True,SLSQP,False,#d502fd
+COBYLA,COBYLA,MS+scipy.COBYLA,SciPy,pyPESTO,False,False,,,,False,True,False,False,False,True,COBYLA,False,#00ff00
+fides,fides,MS+fides,fides,pyPESTO,False,False,,,,True,,True,True,False,True,fides,False,#039bfc
+BFGS,BFGS,MS+scipy.BFGS,SciPy,pyPESTO,False,False,,,,False,False,True,True,False,True,BFGS,False,#ff8000
+dogleg,dogleg,MS+scipy.dogleg,SciPy,pyPESTO,False,False,,,,True,False,True,True,False,True,dogleg,True,#0000ff
+ipopt,ipopt,MS+cyipopt,cyipopt,pyPESTO,False,False,,,,,,True,True,False,True,ipopt,False,#665279
+cmaes,cmaes,MS+CMA-ES,pycma,pyPESTO,False,False,,,,,,False,False,True,False,cmaes,False,#b8fc31
+pyswarm,pyswarm,MS+pyswarm,pyswarm,pyPESTO,False,False,,,,,,False,False,True,False,pyswarm,False,#18ff9c
+L-BFGS-B,L-BFGS-B,MS+scipy.L-BFGS-B,SciPy,pyPESTO,False,False,,,,False,True,True,True,False,True,L-BFGS-B,False,#ef0042
+Nelder-Mead,Nelder-Mead,MS+scipy.nelder-mead,SciPy,pyPESTO,False,False,,,,False,True,False,False,False,True,Nelder-Mead,False,#008000
+cg,cg,MS+scipy.cg,SciPy,pyPESTO,False,False,,,,False,False,True,False,False,True,cg,False,#f881c4
+newton-cg,newton-cg,MS+scipy.newton-cg,SciPy,pyPESTO,False,False,,,,True,False,True,True,False,True,newton-cg,False,#000080
+nlopt_11,nlopt_11,MS+nlopt.LD_LBFGS,NLOpt,pyPESTO,False,False,"Limited-memory BFGS (L-BFGS) (local, derivative-based)",LD_LBFGS,True,False,,True,True,False,True,nlopt_11_LD_LBFGS,False,#85d6e6
+nlopt_12,nlopt_12,MS+nlopt.LN_PRAXIS,NLOpt,pyPESTO,False,False,"Principal-axis, praxis (local, no-derivative)",LN_PRAXIS,False,False,,False,False,False,True,nlopt_12_LN_PRAXIS,False,#8964f1
+nlopt_13,nlopt_13,MS+nlopt.LD_VAR1,NLOpt,pyPESTO,False,False,"Limited-memory variable-metric, rank 1 (local, derivative-based)",LD_VAR1,True,False,,True,True,False,True,nlopt_13_LD_VAR1,False,#994400
+nlopt_14,nlopt_14,MS+nlopt.LD_VAR2,NLOpt,pyPESTO,False,False,"Limited-memory variable-metric, rank 2 (local, derivative-based)",LD_VAR2,True,False,,True,True,False,True,nlopt_14_LD_VAR2,False,#60b552
+nlopt_15,nlopt_15,MS+nlopt.LD_TNEWTON,NLOpt,pyPESTO,False,False,"Truncated Newton (local, derivative-based)",LD_TNEWTON,True,False,,True,True,False,True,nlopt_15_LD_TNEWTON,False,#7306be
+nlopt_16,nlopt_16,MS+nlopt.LD_TNEWTON_R,NLOpt,pyPESTO,False,False,"Truncated Newton with restarting (local, derivative-based)",LD_TNEWTON_RESTART,True,False,,True,True,False,True,nlopt_16_LD_TNEWTON_RESTART,False,#0157b8
+nlopt_18,nlopt_18,MS+nlopt.LD_TNEWTON_PR,NLOpt,pyPESTO,False,False,"Preconditioned truncated Newton with restarting (local, derivative-based)",LD_TNEWTON_PRECOND_RESTART,True,False,,True,True,False,True,nlopt_18_LD_TNEWTON_PRECOND_RESTART,False,#fdda7d
+nlopt_21,nlopt_21,MS+nlopt.GD_MLSL,NLOpt,pyPESTO,False,False,"Multi-level single-linkage (MLSL), random (global, derivative)",GD_MLSL,True,False,,True,True,True,False,nlopt_21_GD_MLSL,False,#00ffff
+nlopt_23,nlopt_23,MS+nlopt.GD_MLSL_LDS,NLOpt,pyPESTO,False,False,"Multi-level single-linkage (MLSL), quasi-random (global, derivative)",GD_MLSL_LDS,True,False,,True,True,True,False,nlopt_23_GD_MLSL_LDS,False,#6f0540
+nlopt_26,nlopt_26,MS+nlopt.LN_NEWUOA,NLOpt,pyPESTO,False,False,"NEWUOA unconstrained optimization via quadratic models (local, no-derivative)",LN_NEWUOA,False,False,,False,False,False,True,nlopt_26_NEWUOA,False,#c08b62
+nlopt_28,nlopt_28,MS+nlopt.LN_NELDERMEAD,NLOpt,pyPESTO,False,False,"Nelder-Mead simplex algorithm (local, no-derivative)",LN_NELDERMEAD,False,False,,False,False,False,True,nlopt_28_LN_NELDERMEAD,False,#cf3199
+nlopt_29,nlopt_29,MS+nlopt.LN_SBPLX,NLOpt,pyPESTO,False,False,"Sbplx variant of Nelder-Mead (re-implementation of Rowan's Subplex) (local, no-derivative)",LN_SBPLX,False,False,,False,False,False,True,nlopt_29_SBPLX,False,#08403e
+nlopt_34,nlopt_34,MS+nlopt.LN_BOBYQA,NLOpt,pyPESTO,False,False,"BOBYQA bound-constrained optimization via quadratic models (local, no-derivative)",LN_BOBYQA,False,False,,False,False,False,True,nlopt_34_LN_BOBYQA,False,#12a295
+nlopt_36,nlopt_36,MS+nlopt.AUGLAG,NLOpt,pyPESTO,False,False,Augmented Lagrangian method (needs sub-algorithm),AUGLAG,True,False,,True,True,False,True,nlopt_36_AUGLAG,False,#97f48d
+nlopt_37,nlopt_37,MS+nlopt.AUGLAG_EQ,NLOpt,pyPESTO,False,False,Augmented Lagrangian method for equality constraints (needs sub-algorithm),AUGLAG_EQ,True,False,,True,True,False,True,nlopt_37_AUGLAG_EQ,False,#9cae00
+nlopt_39,nlopt_39,MS+nlopt.G_MLSL_LDS,NLOpt,pyPESTO,False,True,"Multi-level single-linkage (MLSL), quasi-random (global, needs sub-algorithm)",G_MLSL_LDS,,False,,True,True,True,False,nlopt_39_G_MLSL_LDS,False,#03d345
+nlopt_43,nlopt_43,MS+nlopt.GN_AGS,NLOpt,pyPESTO,False,True,"AGS (global, no-derivative)",GN_AGS,False,False,,,,True,False,,False,#fece0d
+tnc,tnc,MS+scipy.tnc,SciPy,pyPESTO,False,False,,,,False,True,True,True,False,True,tnc,False,#58f72a
+trust-krylov,trust-krylov,MS+scipy.trust-krylov,SciPy,pyPESTO,False,False,,,,True,False,True,True,False,True,trust-krylov,True,#fa4d4b
+trust-ncg,trust-ncg,MS+scipy.trust-ncg,SciPy,pyPESTO,False,False,,,,True,False,True,True,False,True,trust-ncg,True,#7e8ca6
+ls_trf,ls_trf,MS+scipy.ls_trf,SciPy,pyPESTO,False,True,,,,False,False,,,False,True,,False,#d9bff7
+nlopt_40,nlopt_40,MS+nlopt.LD_SLSQP,NLOpt,pyPESTO,False,True,"Sequential Quadratic Programming (SQP) (local, derivative)",LD_SLSQP,True,False,,,,False,True,,False,#5b7728
+sacess.dhc,sacess_dhc,SaCeSS+DHC,SaCeSS,parPE,False,False,,,,,,False,False,True,False,sacess_dhc,False,#f54afe
+sacess.ipopt,sacess_ipopt,SaCeSS+Ipopt,SaCeSS,parPE,False,False,,,,,,True,True,True,False,sacess_ipopt,False,#40b801
+sacess.nls,sacess,SaCeSS,SaCeSS,parPE,False,False,,,,,,False,False,True,False,sacess,False,#3f33e4
+pysacess,pysacess,pySaCeSS,pyscat,pyPESTO,True,False,,,,,,,,True,False,pysacess,False,#33ccd7
+pysacess_ipopt,pysacess_ipopt,pySaCeSS+cyipopt,pyscat,pyPESTO,True,False,,,,,,,,True,False,pysacess_ipopt,False,#df2b03
+pysacess_fides,pysacess_fides,pySaCeSS+fides,pyscat,pyPESTO,True,False,,,,,,,,True,False,pysacess_fides,False,#5f97f5
+pysacess_cmaes,pysacess_cmaes,pySaCeSS+CMA-ES,pyscat,pyPESTO,True,False,,,,,,,,True,False,pysacess_cmaes,False,#bfb5a7

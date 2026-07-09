@@ -1,0 +1,31 @@
+id,short,n_conditions,n_est_parameters,n_observables,n_measurements,error_model_type,initial_condition_type,sensitivity_method,amici_nx_solver,difficulty,walltime_s,n_cores,cputime_s,problem_color
+Armistead_CellDeathDis2024,Armistead,2,14,4,58,parameter- and state-dependent,given,FSA,4,easy,10800,12,129600,#00ff00
+Beer_MolBioSystems2014,Beer,19,72,2,27132,parameter-dependent,analytical,ASA,4,hard,32400,24,777600,#ff00ff
+Bertozzi_PNAS2020,Bertozzi,2,8,2,22,parameter-dependent,analytical,FSA,3,easy,10800,12,129600,#0080ff
+Blasi_CellSystems2016,Blasi,1,9,15,252,parameter-dependent,given,ASA,16,easy,10800,12,129600,#ff8000
+Boehm_JProteomeRes2014,Boehm,1,9,3,48,parameter-dependent,analytical,FSA,8,easy,10800,12,129600,#80bf80
+Borghans_BiophysChem1997,Borghans,1,23,1,111,parameter-dependent,analytical,FSA,3,easy,10800,12,129600,#611c9a
+Brannmark_JBC2010,Brannmark,8,22,3,43,parameter-dependent,non-analytical,ASA,9,easy,10800,12,129600,#e10219
+Bruno_JExpBot2016,Bruno,6,13,5,77,measured,analytical,FSA,7,easy,10800,12,129600,#c276fd
+Chen_MSB2009,Chen,4,155,3,120,measured,given,ASA,500,hard,32400,24,777600,#00ffff
+Crauste_CellSystems2017,Crauste,1,12,4,21,measured,given,FSA,5,easy,10800,12,129600,#ffff00
+Elowitz_Nature2000,Elowitz,1,21,1,58,parameter-dependent,analytical,FSA,8,easy,10800,12,129600,#4f7800
+Fiedler_BMCSystBiol2016,Fiedler,3,22,2,72,parameter-dependent,analytical,FSA,6,easy,10800,12,129600,#0000ff
+Fujita_SciSignal2010,Fujita,6,19,3,144,measured,analytical,FSA,9,hard,32400,24,777600,#00ff80
+Giordano_Nature2020,Giordano,1,50,7,313,parameter-dependent,given,ASA,10,easy,10800,12,129600,#008080
+Isensee_JCB2018,Isensee,123,46,3,687,parameter-dependent,non-analytical,ASA,25,hard,32400,24,777600,#ba5866
+Laske_PLOSComputBiol2019,Laske,3,13,13,42,parameter-dependent,given,FSA,34,easy,10800,12,129600,#8de107
+Lucarelli_CellSystems2018,Lucarelli,16,84,65,1755,mixed,analytical,ASA,33,hard,32400,24,777600,#87e1fd
+Okuonghae_ChaosSolitonsFractals2020,Okuonghae,1,16,2,92,parameter-dependent,analytical,FSA,8,easy,10800,12,129600,#fea398
+Oliveira_NatCommun2021,Oliveira,1,12,2,120,parameter-dependent,analytical,ASA,9,easy,10800,12,129600,#761e15
+Perelson_Science1996,Perelson,1,3,1,16,parameter-dependent,given,FSA,4,easy,10800,12,129600,#ffff80
+Rahman_MBS2016,Rahman,1,9,1,23,measured,given,FSA,7,easy,10800,12,129600,#9616ff
+Raia_CancerResearch2011,Raia,4,39,8,205,parameter- and state-dependent,analytical,FSA,14,easy,10800,12,129600,#0fb42f
+Raimundez_PCB2020,Raimundez,170,136,79,627,measured,non-analytical,ASA,22,hard,32400,24,777600,#21bcbf
+SalazarCavazos_MBoC2020,SalazarCavazos,4,6,3,18,measured,analytical,ASA,75,easy,10800,12,129600,#f2058a
+Schwen_PONE2014,Schwen,19,30,4,286,parameter-dependent,analytical,FSA,11,easy,10800,12,129600,#03245b
+Smith_BMCSystBiol2013,Smith,35,25,9,62,measured,given,ASA,109,easy,10800,12,129600,#626eda
+Sneyd_PNAS2002,Sneyd,9,15,1,135,parameter-dependent,given,FSA,6,easy,10800,12,129600,#dabd36
+Weber_BMC2015,Weber,2,36,8,135,parameter-dependent,non-analytical,ASA,7,easy,10800,12,129600,#fc58ac
+Zhao_QuantBiol2020,Zhao,7,28,1,82,parameter-dependent,analytical,FSA,4,easy,10800,12,129600,#595e58
+Zheng_PNAS2012,Zheng,1,46,15,60,parameter-dependent,non-analytical,ASA,15,hard,32400,24,777600,#013cb5

@@ -7,7 +7,7 @@ Banga, and Jan Hasenauer.
 
 ## Data generation
 
-Information about the optimization runs is provided in the 
+Information about the optimization runs is provided in the
 [`optimizations/` directory](optimizations/).
 
 ## Data
@@ -21,8 +21,21 @@ the [`data/` directory](data/).
 Scripts for generating the figures in the paper are available in the [
 `data_analysis/` directory](data_analysis/).
 
+### Reproducing the analysis
+
+The analysis environment is managed with [uv](https://docs.astral.sh/uv/).
+To reproduce all figures and tables, run:
+
+```sh
+cd data_analysis
+./run_all.sh
+```
+
+This installs the pinned Python environment (`uv sync --frozen`) and then
+runs every notebook and script in the directory, in dependency order,
+writing the generated figures and tables to `data_analysis/out/`.
+
 ## License
 
 Code is licensed under the BSD 3-Clause License (see LICENSE), and data is
 licensed under CC-BY-4.0 (see LICENSE-DATA).
-

@@ -1,0 +1,5702 @@
+[
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 0,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003397945998585783,
+    "fval": 4182608226824.31,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002657
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 1,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0021690739995392505,
+    "fval": 1776485345.3970606,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0016419999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 2,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0018870909989345819,
+    "fval": 55706278334.43017,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0014759999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 3,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0021456909998960327,
+    "fval": 9.093006094951509e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001745
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 4,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00190492100227857,
+    "fval": 60179661.26017511,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001518
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 5,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0020487379988480825,
+    "fval": 14456795351931.818,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001665
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 6,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002654783002071781,
+    "fval": 1.207454580543564e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00226
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 7,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0026515009994909633,
+    "fval": 153319250114.15338,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002202
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 8,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0015404250007122755,
+    "fval": 920039545.0035464,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001099
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 9,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017510480029159226,
+    "fval": 19442209.29021419,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0013440000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 10,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0023481759999413043,
+    "fval": 704455378439136.1,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001946
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 11,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0020522670020000078,
+    "fval": 2.5288809004399948e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001659
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 12,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013370890010264702,
+    "fval": 4957234726.548152,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000934
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 13,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017785460004233755,
+    "fval": 116894358177.54163,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001375
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 14,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0015021060025901534,
+    "fval": 57969.647223005035,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001105
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 15,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0019229179997637402,
+    "fval": 80867661398.79437,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0014299999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 16,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014590850005333778,
+    "fval": 970944954.4744602,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000987
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 17,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0016472600000270177,
+    "fval": 26634.27614224348,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001221
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 18,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0019912770003429614,
+    "fval": 15950521885.174006,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001588
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 19,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002153608998924028,
+    "fval": 246224473111549.62,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0017529999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 20,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0020314620014687534,
+    "fval": 136861093643949.67,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00164
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 21,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017440379997424316,
+    "fval": 347767.31442255026,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001353
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 22,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0020907390025968198,
+    "fval": 1.2788593463573074e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001683
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 23,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014464250016317237,
+    "fval": 25450525.24265492,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0010580000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 24,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0018375250001554377,
+    "fval": 57305824227542.664,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001444
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 25,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0020767630012414884,
+    "fval": 467767289724.1448,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0016870000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 26,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011994790002063382,
+    "fval": 109430705.74087131,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000805
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 27,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0023329410032602027,
+    "fval": 9095708225382024.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001916
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 28,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017074679999495856,
+    "fval": 7965105698.023591,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001303
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 29,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0025389360016561113,
+    "fval": 75159302950.26855,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002139
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 30,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002349451999180019,
+    "fval": 126748962605681.95,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001941
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 31,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0019654619973152876,
+    "fval": 309777363303719.1,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001557
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 32,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0020405389986990485,
+    "fval": 42488840.41549197,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001625
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 33,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0016094370002974756,
+    "fval": 2724077.3064101846,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0012
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 34,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0020959149987902492,
+    "fval": 1799265332456862.8,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001691
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 35,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0018176760022470262,
+    "fval": 257181328.0684864,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001413
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 36,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0021856940002180636,
+    "fval": 61935948872.91331,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001774
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 37,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001960493998922175,
+    "fval": 27995743107.862503,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00155
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 38,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001786310996976681,
+    "fval": 1469236836.0214581,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001367
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 39,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002173896999011049,
+    "fval": 411762331812.46375,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001766
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 40,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0022900269977981225,
+    "fval": 3704870335101713.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001878
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 41,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0015821320012037177,
+    "fval": 58232324.8153992,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011790000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 42,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001746958998410264,
+    "fval": 2402436348.207558,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001355
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 43,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011124110023956746,
+    "fval": 5008985.836929351,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000714
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 44,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0021608019997074734,
+    "fval": 2107128539.5887787,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0017729999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 45,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012399779989209492,
+    "fval": 1956018991.9590237,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000837
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 46,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0018222409998998046,
+    "fval": 356251891.6595271,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001425
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 47,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002138020998245338,
+    "fval": 6491290689489961.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001739
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 48,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001786874003300909,
+    "fval": 690950388.7673813,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0013830000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 49,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0023134429975470994,
+    "fval": 21607345233181.598,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001908
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 50,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017801609974412713,
+    "fval": 387343111.6428284,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00138
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 51,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002254807001008885,
+    "fval": 59874032115065.445,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001849
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 52,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001611215000593802,
+    "fval": 91061169975.54936,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0012050000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 53,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001816093998058932,
+    "fval": 53333163.405798845,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001415
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 54,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0023187400001916103,
+    "fval": 5015415320260.282,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001925
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 55,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001688959000603063,
+    "fval": 133805367.4560422,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001284
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 56,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001479513000958832,
+    "fval": 31791893.74823896,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001072
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 57,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0015251799995894544,
+    "fval": 49764698.63737594,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001107
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 58,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0019260290027887095,
+    "fval": 113425221.6219211,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001538
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 59,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001999872998567298,
+    "fval": 440671320.50738895,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001597
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 60,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002035792000242509,
+    "fval": 5014200.561832107,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001632
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 61,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001188510999782011,
+    "fval": 1349349641.942426,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000776
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 62,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0018746610003290698,
+    "fval": 12563970388095.57,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0014810000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 63,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002461692001816118,
+    "fval": 1.6575358165974184e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002053
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 64,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0026491190001252107,
+    "fval": 47586979469467.414,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002247
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 65,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0022988730015640613,
+    "fval": 1.4143010721406922e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001885
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 66,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0019354430005478207,
+    "fval": 14620408.926757641,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001538
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 67,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002000825999857625,
+    "fval": 6257448129685817.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00159
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 68,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001787144999980228,
+    "fval": 23538339911078.97,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001389
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 69,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00185242199950153,
+    "fval": 9429112248325244.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001449
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 70,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002046544999757316,
+    "fval": 100875701699.44452,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001637
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 71,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001918505000503501,
+    "fval": 384361624.7362601,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001521
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 72,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0021229369995126035,
+    "fval": 658632581931.5648,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001722
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 73,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002500816000974737,
+    "fval": 1492.928079184749,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0013520000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 74,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0021966069980408065,
+    "fval": 6427136602192534.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001778
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 75,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017941660007636528,
+    "fval": 8143489.737815549,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001393
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 76,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0020293329980631825,
+    "fval": 3331443949727.5054,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0016439999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 77,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017531279991089832,
+    "fval": 12993034210134.54,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001355
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 78,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002141683999070665,
+    "fval": 957347554494.7952,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001771
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 79,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001845260998379672,
+    "fval": 14581901148.713375,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001474
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 80,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0019449520004855003,
+    "fval": 628178001362.8347,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00158
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 81,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0018594319990370423,
+    "fval": 11369.610805724478,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001487
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 82,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0020688659969891887,
+    "fval": 485633599493.43463,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001701
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 83,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0015330719979829155,
+    "fval": 29834.284350219827,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011639999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 84,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0018138790001103189,
+    "fval": 135762741.06006882,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001452
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 85,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0019413029986026231,
+    "fval": 20936793094.02787,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001573
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 86,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0018146830007026438,
+    "fval": -945.154566193241,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001454
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 87,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002323904998775106,
+    "fval": 7155834568812569.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001955
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 88,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.002128061001712922,
+    "fval": 757503517.1874608,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0017569999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 89,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017828939999162685,
+    "fval": 46436327593.86075,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001428
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 90,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017389350032317452,
+    "fval": 37507310657630.97,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001368
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 91,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0021556500032602344,
+    "fval": 1303052241740.1765,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001795
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 92,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017147840007964987,
+    "fval": 4715094.797868377,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00135
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 93,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00233942299746559,
+    "fval": 71432460.64049767,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001982
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 94,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0020109800025238656,
+    "fval": 9034739221354.97,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001649
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 95,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011451380014477763,
+    "fval": 60894450811.25147,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00079
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 96,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014881440001772717,
+    "fval": 417011501.3160037,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011330000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 97,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0022333209999487735,
+    "fval": 1402393132.0186064,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001879
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 98,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0021355270000640303,
+    "fval": 1186533752.283364,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0017749999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 99,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0021591169970633928,
+    "fval": 27300709848594.41,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001799
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 0,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.11929204999978538,
+    "fval": 4182608312024.436,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.11790099999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 1,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07461676099774195,
+    "fval": 1775562634.460771,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.072952
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 2,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08447743700162391,
+    "fval": 55706267987.888535,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08287699999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 3,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09235045900277328,
+    "fval": 9.093005993722467e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.090905
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 4,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07704346299942699,
+    "fval": 60179659.06791344,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.075531
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 5,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08400690400230815,
+    "fval": 14456795398975.367,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.082342
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 6,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.108303775999957,
+    "fval": 1.2074545694856608e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.106839
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 7,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.10654162100036046,
+    "fval": 153319249957.083,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.10507999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 8,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05039131699959398,
+    "fval": 920039544.9979253,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.048803
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 9,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06304765199820395,
+    "fval": 19442195.247070476,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.061328
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 10,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1046529939994798,
+    "fval": 704455420557254.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.103135
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 11,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08414709899807349,
+    "fval": 2.5288807752147116e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.082704
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 12,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03475088900086121,
+    "fval": 4957234726.548691,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.033379
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 13,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07735195499844849,
+    "fval": 116894358078.87354,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.075857
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 14,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04666741199980606,
+    "fval": 57969.6472252077,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.045014000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 15,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.062090965002425946,
+    "fval": 80867661594.65587,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.060645000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 16,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.039952233997610165,
+    "fval": 970944954.4696991,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.038508
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 17,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0654589779987873,
+    "fval": 26634.268823780596,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06394899999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 18,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0736130969999067,
+    "fval": 15950521894.635944,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.071953
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 19,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08616815699861036,
+    "fval": 246224470821089.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08464
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 20,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07614730299974326,
+    "fval": 136861090507408.81,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.074761
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 21,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06447733899767627,
+    "fval": 347767.3147035379,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.063088
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 22,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08647826100059319,
+    "fval": 1.2788593460460234e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.085084
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 23,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04676898099933169,
+    "fval": 25450525.2431545,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.045262000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 24,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09109243800048716,
+    "fval": 57305824648289.32,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.089489
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 25,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08034815700011677,
+    "fval": 467767287313.92377,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07887999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 26,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03218818499954068,
+    "fval": 109430705.7406395,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030829000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 27,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08805978499731282,
+    "fval": 9095708032597250.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08664100000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 28,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05868987599751563,
+    "fval": 7965105725.509858,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.057356000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 29,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08918145200004801,
+    "fval": 75153554120.44377,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.087592
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 30,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09252319499864825,
+    "fval": 126748939575821.06,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.090825
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 31,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09387708199938061,
+    "fval": 309777360839284.9,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.092514
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 32,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07747802800076897,
+    "fval": 42488839.1127936,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07599500000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 33,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.058188211001834134,
+    "fval": 2724077.328082679,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.056587000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 34,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08335077500305488,
+    "fval": 1799264780909452.8,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08181699999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 35,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06521848500051419,
+    "fval": 257181665.4124827,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.063898
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 36,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08621011699869996,
+    "fval": 61935948770.616325,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08479900000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 37,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09266967100120382,
+    "fval": 27995741690.443066,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09099299999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 38,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05987610999727622,
+    "fval": 1469236836.0347214,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.058209000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 39,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09577974100102438,
+    "fval": 411762311544.2747,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.094369
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 40,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08748376799849211,
+    "fval": 3704870335464777.5,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.085712
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 41,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0536228899982234,
+    "fval": 58232324.81533588,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.052158
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 42,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.059511945000849664,
+    "fval": 2402436348.6417584,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.058069
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 43,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.026388787999167107,
+    "fval": 5008985.836929926,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024870999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 44,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08154201599973021,
+    "fval": 2107125954.0416136,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07998999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 45,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03002090899826726,
+    "fval": 1956018991.9591,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028547
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 46,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.061306929997954285,
+    "fval": 356251891.4824968,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.059872999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 47,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09277159100020071,
+    "fval": 6491290721749921.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09133100000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 48,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06258605800030637,
+    "fval": 690950397.4276594,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.061106
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 49,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0978253279972705,
+    "fval": 21607344818694.418,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.096421
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 50,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05959871199956979,
+    "fval": 387343111.6433105,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.058071
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 51,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1011435110012826,
+    "fval": 59874029593983.35,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09969599999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 52,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05859633200088865,
+    "fval": 91061169975.16046,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.057121000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 53,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06754284199996619,
+    "fval": 53333163.406006806,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.066048
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 54,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09263416599787888,
+    "fval": 5015415164657.079,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.090962
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 55,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05728282700147247,
+    "fval": 133805367.47458299,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.055738
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 56,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.043889379001484485,
+    "fval": 31791893.755097833,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.042474
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 57,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.048185835003096145,
+    "fval": 49764698.63724753,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.046824
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 58,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08560908399886102,
+    "fval": 113425180.49134427,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08419
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 59,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07740842099883594,
+    "fval": 440671300.0972083,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07578
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 60,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07495907100019394,
+    "fval": 5014195.872474365,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.073462
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 61,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.027024277002055896,
+    "fval": 1349349641.942425,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.025649
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 62,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08021428099891637,
+    "fval": 12563968208403.281,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07856199999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 63,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.10399910599880968,
+    "fval": 1.6575358564093006e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.102475
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 64,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.10156579699832946,
+    "fval": 47586977950962.7,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.10015500000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 65,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08979722000003676,
+    "fval": 1.4143010539118706e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.088247
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 66,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06797442199967918,
+    "fval": 14620408.934796799,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.066432
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 67,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09156159400299657,
+    "fval": 6257448108500128.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09011799999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 68,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06509711100079585,
+    "fval": 23538339325964.56,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.063658
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 69,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09007940100127598,
+    "fval": 9429111736678440.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08855500000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 70,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07709199199962313,
+    "fval": 100875573801.06306,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07545099999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 71,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08050557299793581,
+    "fval": 384362475.7256081,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.078849
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 72,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08586261500022374,
+    "fval": 658632569155.3779,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.084426
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 73,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05466585300018778,
+    "fval": 1492.9280805312799,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.053269
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 74,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0855128719995264,
+    "fval": 6427136607111953.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08386
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 75,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06485909600087325,
+    "fval": 8143489.739666404,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.063266
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 76,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08650151100300718,
+    "fval": 3331444722295.4336,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.085103
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 77,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06891320000067935,
+    "fval": 12993017949725.43,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.067497
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 78,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09000447300059022,
+    "fval": 957347550516.0916,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.088367
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 79,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07237124999664957,
+    "fval": 14581895697.5858,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07090099999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 80,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09703084699867759,
+    "fval": 628177947988.1495,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09561700000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 81,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.062362688997382065,
+    "fval": 11369.610831682869,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06089
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 82,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08723113499945612,
+    "fval": 485633612996.65924,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.085445
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 83,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.051141193998773815,
+    "fval": 29834.26787939416,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.049415999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 84,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07353778800097643,
+    "fval": 135762712.75988507,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07178
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 85,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09016120800151839,
+    "fval": 20936793327.866722,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.088755
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 86,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06719298800089746,
+    "fval": -945.1545657735862,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.065785
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 87,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09585580600105459,
+    "fval": 7155834518049330.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.094163
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 88,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09143708299961872,
+    "fval": 757503967.3220199,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 89,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07012286300232518,
+    "fval": 46436330505.16254,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.068684
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 90,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07601702500323881,
+    "fval": 37507304522242.88,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.074355
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 91,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09770224900057656,
+    "fval": 1303052252732.8481,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.096005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 92,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.060321404998830985,
+    "fval": 4715094.796968472,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.05885
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 93,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09325253900169628,
+    "fval": 71432468.8566427,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.091934
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 94,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08466039999984787,
+    "fval": 9034738063859.695,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08324899999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 95,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.029899353001383133,
+    "fval": 60894450811.186516,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02842
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 96,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05021919200225966,
+    "fval": 417011486.1527107,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.048531
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 97,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09776852700088057,
+    "fval": 1402392306.7388206,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.096125
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 98,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08513617499920656,
+    "fval": 1186532791.32314,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08374200000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 99,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.10006026900009601,
+    "fval": 27300709100342.977,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.098641
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 0,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05516916099804803,
+    "fval": 4182608226824.31,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.050879
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 1,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04450658499990823,
+    "fval": 1776485345.3970606,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039992
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 2,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05839750999803073,
+    "fval": 55706278334.43017,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.054810000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 3,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04855255399888847,
+    "fval": 9.093006094951509e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.045201
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 4,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03447067300294293,
+    "fval": 60179661.26017511,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030792
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 5,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.034547368002677104,
+    "fval": 14456795351931.818,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031277
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 6,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05605196299802628,
+    "fval": 1.207454580543564e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.05225
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 7,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04776030100038042,
+    "fval": 153319250114.15338,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.044338
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 8,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.028026128002238693,
+    "fval": 920039545.0035464,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02444
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 9,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.043393866002588766,
+    "fval": 19442209.29021419,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039329
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 10,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.052095549002842745,
+    "fval": 704455378439136.1,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.048767000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 11,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03474607300086063,
+    "fval": 2.5288809004399948e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031171
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 12,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04809209000086412,
+    "fval": 4957234726.548152,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.044357999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 13,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.047784001002582954,
+    "fval": 116894358177.54163,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.043855
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 14,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03596629599996959,
+    "fval": 57969.647223005035,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031838
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 15,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03776265700071235,
+    "fval": 80867661398.79437,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.033280000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 16,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03879930000039167,
+    "fval": 970944954.4744602,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034209
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 17,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04160083400347503,
+    "fval": 26634.27614224348,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.038056
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 18,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.040263519000291126,
+    "fval": 15950521885.174006,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037107999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 19,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03601412900025025,
+    "fval": 246224473111549.62,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.032526000000000006
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 20,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.037901327003055485,
+    "fval": 136861093643949.67,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034149
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 21,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.032698819999495754,
+    "fval": 347767.31442255026,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028718
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 22,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.038498622001498006,
+    "fval": 1.2788593463573074e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034483
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 23,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03270292200249969,
+    "fval": 25450525.24265492,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028192000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 24,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.036153666998870904,
+    "fval": 57305824227542.664,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.032238
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 25,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.051010564999160124,
+    "fval": 467767289724.1448,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.047523
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 26,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04955944099856424,
+    "fval": 109430705.74087131,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.046206000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 27,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05116641799759236,
+    "fval": 9095708225382024.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.047617
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 28,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03691837500082329,
+    "fval": 7965105698.023591,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.033373
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 29,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06787890900159255,
+    "fval": 75159302950.26855,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.063412
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 30,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04176670900051249,
+    "fval": 126748962605681.95,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037340000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 31,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05543156400017324,
+    "fval": 309777363303719.1,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.051881000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 32,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.037546876999840606,
+    "fval": 42488840.41549197,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.03406
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 33,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03487472800043179,
+    "fval": 2724077.3064101846,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.03162
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 34,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03681910399973276,
+    "fval": 1799265332456862.8,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.033404
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 35,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03561894199810922,
+    "fval": 257181328.0684864,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031867
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 36,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0714262659967062,
+    "fval": 61935948872.91331,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.066973
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 37,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04069903700292343,
+    "fval": 27995743107.862503,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036796999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 38,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0363604630001646,
+    "fval": 1469236836.0214581,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.032733
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 39,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.042016105999209685,
+    "fval": 411762331812.46375,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.038534
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 40,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03658876899862662,
+    "fval": 3704870335101713.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.033170000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 41,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04053750900129671,
+    "fval": 58232324.8153992,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037103000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 42,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.043191949000174645,
+    "fval": 2402436348.207558,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039612
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 43,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.047544413999276,
+    "fval": 5008985.836929351,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.043717
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 44,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04665611200107378,
+    "fval": 2107128539.5887787,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.042451
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 45,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0442640620021848,
+    "fval": 1956018991.9590237,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039628000000000003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 46,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.035413200999755645,
+    "fval": 356251891.6595271,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031668
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 47,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.043388092002714984,
+    "fval": 6491290689489961.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.04011
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 48,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0342127990006702,
+    "fval": 690950388.7673813,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030753
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 49,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03548689300077967,
+    "fval": 21607345233181.598,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031920000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 50,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03052412399847526,
+    "fval": 387343111.6428284,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026728000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 51,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06270898200091324,
+    "fval": 59874032115065.445,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.058103999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 52,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04384613500224077,
+    "fval": 91061169975.54936,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039140999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 53,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04109901199990418,
+    "fval": 53333163.405798845,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 54,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04043414199986728,
+    "fval": 5015415320260.282,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036752
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 55,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.047005249001813354,
+    "fval": 133805367.4560422,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.043415
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 56,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03805119100070442,
+    "fval": 31791893.74823896,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034681
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 57,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.027809020000859164,
+    "fval": 49764698.63737594,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024271
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 58,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03120204000151716,
+    "fval": 113425221.6219211,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027739
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 59,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.040187182999943616,
+    "fval": 440671320.50738895,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036395000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 60,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04340244099876145,
+    "fval": 5014200.561832107,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039149
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 61,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.048995084998750826,
+    "fval": 1349349641.942426,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.044993000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 62,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04767201999857207,
+    "fval": 12563970388095.57,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.043981
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 63,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.042752675002702745,
+    "fval": 1.6575358165974184e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039483
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 64,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04987004799841088,
+    "fval": 47586979469467.414,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.046372
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 65,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04038321900225128,
+    "fval": 1.4143010721406922e+16,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036755
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 66,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03681228500136058,
+    "fval": 14620408.926757641,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.032917
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 67,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.043910070999118034,
+    "fval": 6257448129685817.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039691000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 68,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.051051832000666764,
+    "fval": 23538339911078.97,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.045917
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 69,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04135924499860266,
+    "fval": 9429112248325244.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036844
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 70,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03303109599801246,
+    "fval": 100875701699.44452,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.029385
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 71,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0471576140007528,
+    "fval": 384361624.7362601,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.04396
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 72,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.037623855998390354,
+    "fval": 658632581931.5648,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034143
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 73,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03393761700135656,
+    "fval": 1492.928079184749,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030329000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 74,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.031698951999715064,
+    "fval": 6427136602192534.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027885
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 75,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04775525099830702,
+    "fval": 8143489.737815549,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.04366
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 76,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.039455289999750676,
+    "fval": 3331443949727.5054,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035582
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 77,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.031397455000842456,
+    "fval": 12993034210134.54,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027876
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 78,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04329704500196385,
+    "fval": 957347554494.7952,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039955
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 79,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03140371799963759,
+    "fval": 14581901148.713375,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028054
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 80,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.038249467997957254,
+    "fval": 628178001362.8347,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034741999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 81,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.035056304001045646,
+    "fval": 11369.610805724478,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.03156
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 82,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05109840699878987,
+    "fval": 485633599493.43463,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.047027
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 83,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04334168400237104,
+    "fval": 29834.284350219827,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.038884
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 84,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.048755170002550585,
+    "fval": 135762741.06006882,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.044186
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 85,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03576402199905715,
+    "fval": 20936793094.02787,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031473
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 86,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04215257699979702,
+    "fval": -945.154566193241,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037655
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 87,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.041428325999731896,
+    "fval": 7155834568812569.0,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037545
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 88,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.035992418001114856,
+    "fval": 757503517.1874608,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.032500999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 89,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05889520999699016,
+    "fval": 46436327593.86075,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.055356
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 90,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08983529900069698,
+    "fval": 37507310657630.97,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.086409
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 91,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04037434799829498,
+    "fval": 1303052241740.1765,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036833
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 92,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03746195000348962,
+    "fval": 4715094.797868377,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.033731000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 93,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04165283700058353,
+    "fval": 71432460.64049767,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037818
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 94,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04119564199936576,
+    "fval": 9034739221354.97,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037137
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 95,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04993756600015331,
+    "fval": 60894450811.25147,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.045274
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 96,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05062337400158867,
+    "fval": 417011501.3160037,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.046036
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 97,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03898900399872218,
+    "fval": 1402393132.0186064,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035622999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 98,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04771304400128429,
+    "fval": 1186533752.283364,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.044296999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Giordano_Nature2020",
+    "sample_idx": 99,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0375681479999912,
+    "fval": 27300709848594.41,
+    "condition_ids": [
+      "pred1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034079
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  }
+]

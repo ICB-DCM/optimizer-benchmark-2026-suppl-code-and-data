@@ -1,0 +1,5702 @@
+[
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 0,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00177135800186079,
+    "fval": 16947.27321347337,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001247
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 1,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012717919998976868,
+    "fval": 48799.451740847944,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0009419999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 2,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013993720021971967,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0009180000000000001
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[4] (X_mRNA) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[12] (flux_v13_v_12) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 3,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0015060740006447304,
+    "fval": 335483.0666987896,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0012
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 4,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014649160002591088,
+    "fval": 442.5269323045242,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011799999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 5,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011052519985241815,
+    "fval": 450.92813627705664,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0008349999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 6,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001217259999975795,
+    "fval": 219.77658843241875,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0009559999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 7,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012765220017172396,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0008209999999999999
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 8,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001290693999180803,
+    "fval": 8253894722.5975,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 9,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012172159986221232,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000795
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[6] (Z_mRNA) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[14] (flux_v15_v_14) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 10,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0009645900026953313,
+    "fval": 5302.737023574146,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000674
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 11,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010907800024142489,
+    "fval": 7010.998285002154,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000812
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 12,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010527180020289961,
+    "fval": 248.5494288005431,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0007920000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 13,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011763590009650216,
+    "fval": 389.8117403166943,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000916
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 14,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0016067000033217482,
+    "fval": 5428703628.660071,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00134
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 15,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0016930799974943511,
+    "fval": 311.6831214576735,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001432
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 16,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001402036999934353,
+    "fval": 415.659070509728,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001142
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 17,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001223777999257436,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000791
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[12] (flux_v13_v_12) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 18,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012770590001309756,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_CONV_FAILURE"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000775
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=3.36778e-11\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=8.41944e-12\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=2.10486e-12\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=5.26215e-13\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=1.31554e-13\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=3.28884e-14\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=8.22211e-15\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=2.05553e-15\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=5.13882e-16\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=1.28471e-16\"}, {\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:CONV_FAILURE\", \"message\": \"At t = 0 and h = 1.28471e-16, the corrector convergence test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 19,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001460529998439597,
+    "fval": 548348678046.7687,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001171
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 20,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010114100005012006,
+    "fval": 1438470788770.2488,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000736
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 21,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013767860000371002,
+    "fval": 130681638.00116338,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001111
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 22,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011077960007241927,
+    "fval": 1935386194903.0718,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000841
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 23,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014336530002765357,
+    "fval": 41059635.86290732,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001176
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 24,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011059850003221072,
+    "fval": 2847085.000988465,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0008539999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 25,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010935930004052352,
+    "fval": 411.6866189036046,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000829
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 26,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010060770000563934,
+    "fval": 330598.90481537365,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000746
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 27,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012319240013312083,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0008070000000000001
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 28,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012218439987918828,
+    "fval": 5335.321842750685,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000924
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 29,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.010204070000327192,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009756
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.0466849, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.0466849: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 30,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013759769972239155,
+    "fval": 720288663.3783333,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001052
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 31,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011208599971723743,
+    "fval": 204.72787625168124,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0008349999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 32,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014848700011498295,
+    "fval": 302.9974708925542,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001217
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 33,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012319900015427265,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0008070000000000001
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 34,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013481909991241992,
+    "fval": 344.2063693746918,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001044
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 35,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0016233899987128098,
+    "fval": 1815110.8260859922,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0013369999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 36,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013189500023145229,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_CONV_FAILURE"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0008020000000000001
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.03744e-08\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=2.5936e-09\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=6.48401e-10\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.621e-10\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=4.0525e-11\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.01313e-11\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=2.53281e-12\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=6.33204e-13\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.58301e-13\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=3.95752e-14\"}, {\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:CONV_FAILURE\", \"message\": \"At t = 0 and h = 3.95752e-14, the corrector convergence test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 37,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011007499997504056,
+    "fval": 17659593322.8141,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00079
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 38,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001338852001936175,
+    "fval": 352812599.80468076,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0010580000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 39,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010988739995809738,
+    "fval": 430.54002859335833,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000834
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 40,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011825509973277804,
+    "fval": 24572941.524700478,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000925
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 41,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013709990016650409,
+    "fval": 362.2413728204456,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001101
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 42,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012075939994247165,
+    "fval": 344.26838954718374,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000949
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 43,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013596489989140537,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_CONV_FAILURE"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000803
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.17033e-11\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=2.92583e-12\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=7.31457e-13\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.82864e-13\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=4.57161e-14\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.1429e-14\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=2.85725e-15\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=7.14314e-16\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.78578e-16\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=4.46446e-17\"}, {\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:CONV_FAILURE\", \"message\": \"At t = 0 and h = 4.46446e-17, the corrector convergence test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 44,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011966169986408204,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000781
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 45,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001561258002766408,
+    "fval": 332.6743081972978,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001251
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 46,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012765339997713454,
+    "fval": 189.362520815106,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000984
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 47,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013614030031021684,
+    "fval": 2758941219.2119036,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001091
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 48,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0016220659999817144,
+    "fval": 1721745.4664318133,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001353
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 49,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011490209981275257,
+    "fval": 1666573647.7990427,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000883
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 50,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001362079998216359,
+    "fval": 45069.38464972291,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001103
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 51,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013485110030160286,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_CONV_FAILURE"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000823
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=8.07514e-08\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=2.01878e-08\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=5.04696e-09\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=1.26174e-09\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=3.15435e-10\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=7.88588e-11\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=1.97147e-11\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=4.92867e-12\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=1.23217e-12\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=3.08042e-13\"}, {\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:CONV_FAILURE\", \"message\": \"At t = 0 and h = 3.08042e-13, the corrector convergence test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 52,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0015137440022954252,
+    "fval": 44806648.87157218,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001201
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 53,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010473729998921044,
+    "fval": 470174710.1579136,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000759
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 54,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000903639000171097,
+    "fval": 137.96817929593925,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000629
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 55,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012232749977556523,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000778
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[6] (Z_mRNA) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[14] (flux_v15_v_14) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 56,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0015131010004552081,
+    "fval": 325.85179092009656,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001214
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 57,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014173399977153167,
+    "fval": 2102922.719213924,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00113
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 58,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014692900003865361,
+    "fval": 319.19668084592143,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011970000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 59,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012870229984400794,
+    "fval": 358518628545.2424,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001024
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 60,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010039049993793014,
+    "fval": 5439.257373850288,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000749
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 61,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014143309999781195,
+    "fval": 315.05277249380833,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011639999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 62,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014518399984808639,
+    "fval": 444.21885038564943,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011870000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 63,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001070913000148721,
+    "fval": 870246867610.1726,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000816
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 64,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011412009989726357,
+    "fval": 2750111.1304509314,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000876
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 65,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014643909998994786,
+    "fval": 1800716592.352654,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001193
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 66,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011702330011758022,
+    "fval": 173975987285.23764,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000906
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 67,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011806000002252404,
+    "fval": 32975930999.14363,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000916
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 68,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0018116179999196902,
+    "fval": 6747.944197707673,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001552
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 69,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.010619730997859733,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010137
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 446.467, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 446.467: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 70,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001406879000569461,
+    "fval": 169380996.30094656,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001085
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 71,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0015157080015342217,
+    "fval": 250.35905493340167,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001246
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 72,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0020630680010071956,
+    "fval": 339194.3372294391,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001203
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 73,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014398329985851888,
+    "fval": 25264835.697457414,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001141
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 74,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0017718400013109203,
+    "fval": 38.028876572451495,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001489
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 75,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012491109991970006,
+    "fval": 6292881.106390821,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000971
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 76,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011693039996316656,
+    "fval": 144.1808123131784,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000905
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 77,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001666999000008218,
+    "fval": 6979.359230878359,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001406
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 78,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010890900011872873,
+    "fval": 955.4719924301501,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000824
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 79,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013599510020867456,
+    "fval": 72782.59443848481,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011040000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 80,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0016704820009181276,
+    "fval": 49494289.50214829,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001415
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 81,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013929779997852165,
+    "fval": 19011284786.88667,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011240000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 82,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.010924712998530595,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010467
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 10.9763, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 10.9763: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 83,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012857269975938834,
+    "fval": 255.20343486659638,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0009809999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 84,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013432539999485016,
+    "fval": 394.96787516124584,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001059
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 85,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001374697996652685,
+    "fval": 974624191.6343045,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001108
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 86,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0013984059987706132,
+    "fval": 389.76170770598026,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001137
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 87,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001103443999454612,
+    "fval": 392.53748204658274,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000839
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 88,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0009916189992509317,
+    "fval": 2120551.004097719,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000734
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 89,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000835806000395678,
+    "fval": 86441961.05299135,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000588
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 90,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012700219995167572,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0008259999999999999
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 91,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011466680007288232,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000752
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[12] (flux_v13_v_12) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 92,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0014932989979570266,
+    "fval": 35879.51143486274,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0012050000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 93,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011943979989155196,
+    "fval": 715169488.6387794,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00092
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 94,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012405449997459073,
+    "fval": 404.9558373985894,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000982
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 95,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0016614599990134593,
+    "fval": 71474.11530283987,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001405
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 96,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012437189980119001,
+    "fval": 422.6281337357147,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000978
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 97,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001096312000299804,
+    "fval": 386.12493809235866,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0008399999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 98,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0012010020000161603,
+    "fval": 1641.5024135332476,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0009519999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 99,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0009410550010215957,
+    "fval": 426.6707477975542,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0007
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 0,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.17571165800109156,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.175084
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.0469585, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.0469585: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 1,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03387113500139094,
+    "fval": 48799.451741582685,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.032932
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 2,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0016802229984023143,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001045
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[4] (X_mRNA) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[12] (flux_v13_v_12) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 3,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.027253939002548577,
+    "fval": 335483.067328388,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026332
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 4,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04453310200187843,
+    "fval": 442.52693228844265,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.043518
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 5,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.056279846001416445,
+    "fval": 450.928136277057,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.055122
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 6,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1414291669971135,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.14068899999999998
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 13.2991, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 13.2991: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 7,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0014907149998180103,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000964
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 8,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.23640319500191254,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.235687
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.0818053, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.0818053: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 9,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0016148790018633008,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001036
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[6] (Z_mRNA) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[14] (flux_v15_v_14) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 10,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.26547013800154673,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.264855
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 23.3568, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 23.3568: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 11,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1515141659983783,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.150792
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 103.674, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 103.674: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 12,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.025092473999393405,
+    "fval": 248.5494288005431,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024059
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 13,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.26873153899941826,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.26804700000000004
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 7.37754, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 7.37754: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 14,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03864924499794142,
+    "fval": 5428703628.726258,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037766
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 15,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05009190700002364,
+    "fval": 311.68312145767436,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.049189
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 16,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2381161779994727,
+    "fval": 415.659070509728,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.237183
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 17,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.001627569003176177,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0010249999999999999
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[12] (flux_v13_v_12) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 18,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0013676710004801862,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_SRHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000923
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for sxdot[4] (4) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_SRHSFUNC_ERR\", \"message\": \"The sensitivity right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 19,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.02988308999920264,
+    "fval": 548348679682.3883,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.029056000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 20,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.033398154002497904,
+    "fval": 1438470788759.3308,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.032493
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 21,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0290576939987659,
+    "fval": 130681637.99320349,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028154
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 22,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.019279159998404793,
+    "fval": 1935386194931.2202,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018329
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 23,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.044997746001172345,
+    "fval": 41059635.86288165,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.043963999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 24,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08723171299789101,
+    "fval": 2847085.001055903,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.086135
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 25,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.15991735300121945,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.15920099999999998
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 43.7245, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 43.7245: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 26,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.16563375700206961,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.16495500000000002
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 24.0423, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 24.0423: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 27,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0015713940010755323,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000999
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 28,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.056051548999676015,
+    "fval": 5335.321842752121,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.054988
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 29,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.152679282000463,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.15191300000000002
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.0205943, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.0205943: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 30,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03194381300272653,
+    "fval": 720288663.9182314,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031027000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 31,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03691777499989257,
+    "fval": 204.72787625168124,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036079
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 32,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04027718100041966,
+    "fval": 302.997470892553,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039408
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 33,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0016094320017145947,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0010129999999999998
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 34,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.034718887000053655,
+    "fval": 344.2063693746919,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0339
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 35,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1862383689986018,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.18551499999999999
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 8.88876, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 8.88876: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 36,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0015537469989794772,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_SRHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001001
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for sxdot[3] (3) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_SRHSFUNC_ERR\", \"message\": \"The sensitivity right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 37,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.34843108399945777,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.347685
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 244.399, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 244.399: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 38,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1845267339995189,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.183802
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 1.34402, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 1.34402: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 39,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.02841682299913373,
+    "fval": 430.5400285933598,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027376
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 40,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.032339416997274384,
+    "fval": 24572941.524707258,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031309000000000003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 41,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1315449930007162,
+    "fval": 362.24137282043995,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.130602
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 42,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1523130380010116,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.151452
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 172.304, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 172.304: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 43,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0016403399968112353,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_SRHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001045
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for sxdot[3] (3) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_SRHSFUNC_ERR\", \"message\": \"The sensitivity right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 44,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0015309070004150271,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000963
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 45,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03393910099839559,
+    "fval": 332.6743081972978,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.032358
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 46,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.026242298001307063,
+    "fval": 189.3625208141895,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.025253
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 47,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2075099190005858,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.206824
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.29943, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.29943: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 48,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.15548828600003617,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.15473900000000002
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 7.26072, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 7.26072: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 49,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.032027355999161955,
+    "fval": 1666573647.7982717,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030959
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 50,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03375915700235055,
+    "fval": 45069.38465808969,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.032848
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 51,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0016292830005113501,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_SRHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001024
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for sxdot[4] (4) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_SRHSFUNC_ERR\", \"message\": \"The sensitivity right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 52,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.040397128999757115,
+    "fval": 44806648.87152141,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039589
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 53,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.022416866002458846,
+    "fval": 470174710.41371506,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.021584
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 54,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.022277557000052184,
+    "fval": 137.96817914533636,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.021462
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 55,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0015984890014806297,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001003
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[6] (Z_mRNA) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[14] (flux_v15_v_14) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 56,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03534674800175708,
+    "fval": 325.8517909200966,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034505
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 57,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03816971299966099,
+    "fval": 2102922.719213924,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.03731
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 58,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03125936099968385,
+    "fval": 319.1966812486806,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030368
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 59,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03675965400179848,
+    "fval": 358518628545.2424,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035773000000000006
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 60,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.14845453200177872,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.14772300000000002
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 6.26196, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 6.26196: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 61,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.24092293200010317,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.240215
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 1.19584, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 1.19584: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 62,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1817694900018978,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.181089
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 4.183, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 4.183: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 63,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.024073756001598667,
+    "fval": 870246867787.7999,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023188
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 64,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.143647864999366,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.143006
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 5.79584, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 5.79584: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 65,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.16792911300217384,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.167201
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.52956, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.52956: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 66,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.030532094002410304,
+    "fval": 173975987278.0265,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02947
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 67,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03015912900082185,
+    "fval": 32975930992.250427,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.029144
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 68,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04311811099978513,
+    "fval": 6747.944198493015,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.042116999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 69,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1604601430008188,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.159727
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 125.351, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 125.351: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 70,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.029636942999786697,
+    "fval": 169380996.90610307,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02875
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 71,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.16571304299941403,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.164938
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 59.4085, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 59.4085: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 72,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.15146939099940937,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.150704
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 127.636, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 127.636: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 73,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.028990421000344213,
+    "fval": 25264835.697398152,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028114999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 74,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03679321500021615,
+    "fval": 38.028876572451495,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035956
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 75,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.030387695001991233,
+    "fval": 6292881.106385714,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.029558
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 76,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.02454614500311436,
+    "fval": 144.1808123131784,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023719999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 77,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03702847399836173,
+    "fval": 6979.359230961556,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036176
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 78,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.14485183999931905,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.144114
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.70102, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.70102: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 79,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1789787229972717,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.178254
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 2.29293, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 2.29293: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 80,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04779146099826903,
+    "fval": 49494289.507319815,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.046881
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 81,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03900501500174869,
+    "fval": 19011284786.893814,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.038171
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 82,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.16190336900035618,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.161244
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 6.63022, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 6.63022: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 83,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.20439762500245706,
+    "fval": 255.20343490100223,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.203241
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 84,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.03493616299965652,
+    "fval": 394.96787516124584,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.033854
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 85,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.035360154000954935,
+    "fval": 974624191.6355442,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034396
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 86,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.040833946000930155,
+    "fval": 389.76170770598026,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039918
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 87,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.028332866000710055,
+    "fval": 392.5374820465837,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027478000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 88,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.017001820997393224,
+    "fval": 2120551.0042756167,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.016183
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 89,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.020386283002153505,
+    "fval": 86441961.05299151,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019562
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 90,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0016130340009112842,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001024
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 91,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0013783110007352661,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000911
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[12] (flux_v13_v_12) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 92,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04047178700056975,
+    "fval": 35879.51143486309,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039678
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 93,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04271465499914484,
+    "fval": 715169488.6387784,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.041839
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 94,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.035566792997997254,
+    "fval": 404.9558373985894,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034647
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 95,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06142474899752415,
+    "fval": 71474.11530235081,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.060487
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 96,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.028698114001599606,
+    "fval": 422.6281337357147,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027649
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 97,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0281621219983208,
+    "fval": 386.1249381977956,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027098
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 98,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.030386685000848956,
+    "fval": 1641.502413533238,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.029341000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 99,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.01901657100097509,
+    "fval": 426.6707477975327,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018029
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 0,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.056503353000152856,
+    "fval": 16947.27321347337,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.052592
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 1,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.34536787099932553,
+    "fval": 48799.451740847944,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.341302
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 2,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005917742000747239,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00289
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[4] (X_mRNA) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[12] (flux_v13_v_12) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 3,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.028716142998746363,
+    "fval": 335483.0666987896,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024719
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 4,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09168222800144576,
+    "fval": 442.5269323045242,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.088556
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 5,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.017807551001169486,
+    "fval": 450.92813627705664,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.014896000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 6,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.20676855700003216,
+    "fval": 219.77658843241875,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.203412
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 7,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004988529999536695,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002595
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 8,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.37812456500250846,
+    "fval": 8253894722.5975,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.374867
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 9,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004957900997396791,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0025670000000000003
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[6] (Z_mRNA) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[14] (flux_v15_v_14) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 10,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09370642000067164,
+    "fval": 5302.737023574146,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.090489
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 11,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08489663000000292,
+    "fval": 7010.998285002154,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.081197
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 12,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07925834400157328,
+    "fval": 248.5494288005431,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.075376
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 13,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08951433299807832,
+    "fval": 389.8117403166943,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08602
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 14,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.15849742100181174,
+    "fval": 5428703628.660071,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.155296
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 15,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.18629659799989895,
+    "fval": 311.6831214576735,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.183008
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 16,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1769978659976914,
+    "fval": 415.659070509728,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.173674
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 17,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005184075998840854,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00262
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[12] (flux_v13_v_12) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 18,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.00513113700071699,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_CONV_FAILURE"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0025440000000000003
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=3.36778e-11\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=8.41944e-12\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=2.10486e-12\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=5.26215e-13\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=1.31554e-13\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=3.28884e-14\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=8.22211e-15\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=2.05553e-15\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=5.13882e-16\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[4] (6 Z_mRNA, 1 Y_protein) at t=1.28471e-16\"}, {\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:CONV_FAILURE\", \"message\": \"At t = 0 and h = 1.28471e-16, the corrector convergence test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 19,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07274458900064928,
+    "fval": 548348678046.7687,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06938599999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 20,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.26114053999845055,
+    "fval": 1438470788770.2488,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.257368
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 21,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09690316599881044,
+    "fval": 130681638.00116338,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09271299999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 22,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03003344899843796,
+    "fval": 1935386194903.0718,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026172
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 23,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.3097186819977651,
+    "fval": 41059635.86290732,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.305908
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 24,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09966942800019751,
+    "fval": 2847085.000988465,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09655200000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 25,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.043575669998972444,
+    "fval": 411.6866189036046,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.040521999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 26,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.19996892500057584,
+    "fval": 330598.90481537365,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.196236
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 27,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005316679998941254,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002679
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 28,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.27167564499904984,
+    "fval": 5335.321842750685,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.26814499999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 29,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.015554531000816496,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.012727
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodea:CVodeF:TOO_MUCH_WORK\", \"message\": \"At t = 0.0466849, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0.0466849: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 30,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11597223499848042,
+    "fval": 720288663.3783333,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.11176
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 31,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12283924000075785,
+    "fval": 204.72787625168124,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.119782
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 32,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03603074800048489,
+    "fval": 302.9974708925542,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.032943
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 33,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.00490733500191709,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002553
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 34,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06642430799911381,
+    "fval": 344.2063693746918,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.063335
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 35,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.407985916997859,
+    "fval": 1815110.8260859922,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.404549
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 36,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005099514000903582,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_CONV_FAILURE"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0026829999999999996
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.03744e-08\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=2.5936e-09\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=6.48401e-10\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.621e-10\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=4.0525e-11\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.01313e-11\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=2.53281e-12\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=6.33204e-13\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.58301e-13\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=3.95752e-14\"}, {\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:CONV_FAILURE\", \"message\": \"At t = 0 and h = 3.95752e-14, the corrector convergence test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 37,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.5739063850014645,
+    "fval": 17659593322.8141,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.570484
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 38,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.16667425100240507,
+    "fval": 352812599.80468076,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.163188
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 39,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02209560600022087,
+    "fval": 430.54002859335833,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018518
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 40,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.2566229000003659,
+    "fval": 24572941.524700478,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.253272
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 41,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.10421543500342523,
+    "fval": 362.2413728204456,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.100047
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 42,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06118683299791883,
+    "fval": 344.26838954718374,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.057963
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 43,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005021654000302078,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_CONV_FAILURE"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0025859999999999998
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.17033e-11\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=2.92583e-12\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=7.31457e-13\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.82864e-13\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=4.57161e-14\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.1429e-14\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=2.85725e-15\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=7.14314e-16\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=1.78578e-16\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[1] (5 Y_mRNA, 0 X_protein) at t=4.46446e-17\"}, {\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:CONV_FAILURE\", \"message\": \"At t = 0 and h = 4.46446e-17, the corrector convergence test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 44,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004653276002500206,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0023940000000000003
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 45,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12202498700207798,
+    "fval": 332.6743081972978,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.118573
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 46,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.24644475600143778,
+    "fval": 189.362520815106,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.243114
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 47,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05321685299713863,
+    "fval": 2758941219.2119036,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.050163
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 48,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09469390300000669,
+    "fval": 1721745.4664318133,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09149800000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 49,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.3106636190022982,
+    "fval": 1666573647.7990427,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.307315
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 50,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.19582241999887628,
+    "fval": 45069.38464972291,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.192789
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 51,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005078744001366431,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_CONV_FAILURE"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002595
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=8.07514e-08\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=2.01878e-08\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=5.04696e-09\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=1.26174e-09\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=3.15435e-10\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=7.88588e-11\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=1.97147e-11\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=4.92867e-12\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=1.23217e-12\"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for J[6] (4 X_mRNA, 2 Z_protein) at t=3.08042e-13\"}, {\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:CONV_FAILURE\", \"message\": \"At t = 0 and h = 3.08042e-13, the corrector convergence test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 52,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.5419220849980775,
+    "fval": 44806648.87157218,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.5377770000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 53,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.038316840000334196,
+    "fval": 470174710.1579136,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034256999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 54,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05602880500009633,
+    "fval": 137.96817929593925,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.052664
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 55,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0050687280017882586,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002584
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[6] (Z_mRNA) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[14] (flux_v15_v_14) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 56,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.2509266369997931,
+    "fval": 325.85179092009656,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.247297
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 57,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.37312947399914265,
+    "fval": 2102922.719213924,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.369047
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 58,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.034741355000733165,
+    "fval": 319.19668084592143,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.03083
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 59,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.7213106679992052,
+    "fval": 358518628545.2424,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.7178519999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 60,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.2441385120000632,
+    "fval": 5439.257373850288,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.240231
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 61,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.10558831200251007,
+    "fval": 315.05277249380833,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.101945
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 62,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05756069800190744,
+    "fval": 444.21885038564943,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.054463
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 63,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03190396299760323,
+    "fval": 870246867610.1726,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028853999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 64,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.45376280799973756,
+    "fval": 2750111.1304509314,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.45061599999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 65,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.3674764499992307,
+    "fval": 1800716592.352654,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.36429300000000003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 66,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12037356799919507,
+    "fval": 173975987285.23764,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.11690900000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 67,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.3348651439991954,
+    "fval": 32975930999.14363,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.33140800000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 68,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.3096509610004432,
+    "fval": 6747.944197707673,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.305695
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 69,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.016415894002420828,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013276
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodea:CVodeF:TOO_MUCH_WORK\", \"message\": \"At t = 446.467, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 446.467: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 70,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07830033999925945,
+    "fval": 169380996.30094656,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07489
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 71,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06335795500126551,
+    "fval": 250.35905493340167,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.060231
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 72,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.21517487399978563,
+    "fval": 339194.3372294391,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.211968
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 73,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11324766600228031,
+    "fval": 25264835.697457414,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.11010500000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 74,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.10473896699841134,
+    "fval": 38.028876572451495,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.100948
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 75,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.16487033299927134,
+    "fval": 6292881.106390821,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.161684
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 76,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08467132800069521,
+    "fval": 144.1808123131784,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.080498
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 77,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.4038794459993369,
+    "fval": 6979.359230878359,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.400137
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 78,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06356894599957741,
+    "fval": 955.4719924301501,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.060304
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 79,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1833495099999709,
+    "fval": 72782.59443848481,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.180173
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 80,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06269011900076293,
+    "fval": 49494289.50214829,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.059186
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 81,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.34259941300115315,
+    "fval": 19011284786.88667,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.339437
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 82,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.015254990001267288,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.01284
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodea:CVodeF:TOO_MUCH_WORK\", \"message\": \"At t = 10.9763, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 10.9763: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 83,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.049965517999225995,
+    "fval": 255.20343486659638,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.04686
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 84,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11462977900009719,
+    "fval": 394.96787516124584,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.111244
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 85,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03424378699855879,
+    "fval": 974624191.6343045,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030131
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 86,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.13562225500209024,
+    "fval": 389.76170770598026,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.132221
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 87,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.048157450000871904,
+    "fval": 392.53748204658274,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.045109
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 88,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.051835628000844736,
+    "fval": 2120551.004097719,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.048783
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 89,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.21406552900225506,
+    "fval": 86441961.05299135,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.21007
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 90,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005844816001626896,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002794
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[13] (flux_v14_v_13) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 91,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005543773997487733,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002605
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xdot[3] (GFP) at t=0.000000 \"}, {\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for w[12] (flux_v13_v_12) at t=0.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 0: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 92,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.2904391769989161,
+    "fval": 35879.51143486274,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.287162
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 93,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.22818174900021404,
+    "fval": 715169488.6387794,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.22407
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 94,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05458014000032563,
+    "fval": 404.9558373985894,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.050444
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 95,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.027332387002388714,
+    "fval": 71474.11530283987,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023608
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 96,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.15982963900023606,
+    "fval": 422.6281337357147,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.156661
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 97,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.023268231998372357,
+    "fval": 386.12493809235866,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02018
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 98,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.35632267499750014,
+    "fval": 1641.5024135332476,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.352948
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Elowitz_Nature2000",
+    "sample_idx": 99,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.028431208000256447,
+    "fval": 426.6707477975542,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.025241
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  }
+]

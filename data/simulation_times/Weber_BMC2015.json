@@ -1,0 +1,6902 @@
+[
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 0,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006209707000380149,
+    "fval": 6.38586544119613e+16,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002698,
+      0.00266
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 1,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004889610001555411,
+    "fval": 3878331333732544.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002137,
+      0.00209
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 2,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0041641040006652474,
+    "fval": 3379142045029.5464,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0018919999999999998,
+      0.001684
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 3,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00448098099877825,
+    "fval": 6.775227129977403e+16,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00211,
+      0.001812
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 4,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005992536000121618,
+    "fval": 9.271336325275392e+23,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0028039999999999996,
+      0.0026230000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 5,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005415125000581611,
+    "fval": 30951288321262.008,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0024140000000000003,
+      0.002444
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 6,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0053307980015233625,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0020819999999999996,
+      0.002545
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 7,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0028691719999187626,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0022429999999999998,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 8,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005111999998916872,
+    "fval": 1.9691208847960752e+17,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002314,
+      0.002214
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 9,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004876418999629095,
+    "fval": 80484062.42545117,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002157,
+      0.0021509999999999997
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 10,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005432008001662325,
+    "fval": 2856008502732425.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002334,
+      0.002536
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 11,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004328797000198392,
+    "fval": 227215486335898.56,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0015840000000000001,
+      0.002191
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 12,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0049351309971825685,
+    "fval": 249896131210906.38,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0023,
+      0.002076
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 13,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005549713001528289,
+    "fval": 70390063995.01964,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0023929999999999997,
+      0.0025830000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 14,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004842098998778965,
+    "fval": 1.0443029291752957e+17,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002189,
+      0.002079
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 15,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005050184001447633,
+    "fval": 166633873868.17645,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002221,
+      0.002262
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 16,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005390663001890061,
+    "fval": 345962619748.2762,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00237,
+      0.0024590000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 17,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005215183999098372,
+    "fval": 9156012240867.441,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002468,
+      0.002175
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 18,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004375577998871449,
+    "fval": 9356856171146946.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001896,
+      0.001897
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 19,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004593043002387276,
+    "fval": 3.30854479677265e+20,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002127,
+      0.001887
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 20,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006986657001107233,
+    "fval": 540349175.0959492,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003313,
+      0.003089
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 21,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.007499134000681806,
+    "fval": 317061.5225877055,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00391,
+      0.002983
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 22,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005830351001350209,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002366,
+      0.002725
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 23,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004764137000165647,
+    "fval": 8906892370.548687,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002186,
+      0.001946
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 24,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0034474880012567155,
+    "fval": 7750891882.539406,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001471,
+      0.001375
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 25,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0036737970003741793,
+    "fval": 1.935873625576778e+19,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00159,
+      0.001494
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 26,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00499054600004456,
+    "fval": 1.1476286812398452e+23,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002351,
+      0.002049
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 27,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004162131997873075,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0034649999999999998,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 28,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0051759110028797295,
+    "fval": 4067842306858350.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002463,
+      0.002079
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 29,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006428148000850342,
+    "fval": 1.230088718263218e+17,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0030729999999999998,
+      0.002738
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 30,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004612832002749201,
+    "fval": 3802013446151.7603,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002075,
+      0.001935
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 31,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005097533998196013,
+    "fval": 121077861587.3063,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002313,
+      0.002185
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 32,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004818469999008812,
+    "fval": 23150018903.772346,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002078,
+      0.0021509999999999997
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 33,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004000610999355558,
+    "fval": 111583670806.82758,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0017230000000000001,
+      0.001682
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 34,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004583813999488484,
+    "fval": 4469.421747280279,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002059,
+      0.001951
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 35,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003031668002222432,
+    "fval": 2.383221500190216e+24,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0013289999999999999,
+      0.001125
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 36,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004379115998744965,
+    "fval": 7621382421647.446,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001851,
+      0.001961
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 37,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004166555998381227,
+    "fval": 7206626949446.165,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001674,
+      0.001928
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 38,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004677417997299926,
+    "fval": 2.101030372627507e+16,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002153,
+      0.001961
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 39,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004566506999253761,
+    "fval": 3.258465406597424e+17,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0018939999999999999,
+      0.002108
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 40,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005233283998677507,
+    "fval": 35868990388.201225,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002284,
+      0.00239
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 41,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005905369001993677,
+    "fval": 514027540123531.56,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002689,
+      0.002655
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 42,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005424411003332352,
+    "fval": 4.357526304751746e+17,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002509,
+      0.002351
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 43,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004890915999567369,
+    "fval": 210149649927.93524,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002241,
+      0.00209
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 44,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004978451997885713,
+    "fval": 6.388644653678892e+27,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002319,
+      0.002101
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 45,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0038417510004364885,
+    "fval": 55462723935037.95,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001619,
+      0.001675
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 46,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004600476997438818,
+    "fval": 43769.71530596922,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001803,
+      0.00225
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 47,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0052402720029931515,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0021509999999999997,
+      0.002421
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 48,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00426671700188308,
+    "fval": 5.458393624758352e+18,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001655,
+      0.002032
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 49,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005315344002156053,
+    "fval": 2389707059131346.5,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002323,
+      0.002441
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 50,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004556132997095119,
+    "fval": 8297296673220256.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0019950000000000002,
+      0.002019
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 51,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004461315998923965,
+    "fval": 67968444302.0022,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0020710000000000004,
+      0.001843
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 52,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0046590029996878,
+    "fval": 52524907.13184242,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0017330000000000002,
+      0.001684
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 53,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0036621689978346694,
+    "fval": 1.5023328576493747e+17,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0016799999999999999,
+      0.001408
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 54,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005396937998739304,
+    "fval": 1741238.2582060618,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002236,
+      0.002615
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 55,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004557477997877868,
+    "fval": 2629243.2594521763,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002047,
+      0.001964
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 56,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0052426790025492664,
+    "fval": 73259.41339277208,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002246,
+      0.002451
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 57,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0035698569990927354,
+    "fval": 351314062737290.1,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001613,
+      0.0014010000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 58,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004141885998251382,
+    "fval": 12324748862137.469,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001716,
+      0.001879
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 59,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004846487998293014,
+    "fval": 857036.4552975657,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00217,
+      0.002132
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 60,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004246536998834927,
+    "fval": 2.2221133903863005e+19,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0017929999999999999,
+      0.001918
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 61,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004717136998806382,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001906,
+      0.002137
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 62,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004389996000099927,
+    "fval": 629369896534918.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0020800000000000003,
+      0.001729
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 63,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004021025000838563,
+    "fval": 1321529791626656.2,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002061,
+      0.0014119999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 64,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006302942001639167,
+    "fval": 75033.56669874393,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002921,
+      0.002834
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 65,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004302485001971945,
+    "fval": 6.520741171722332e+20,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001881,
+      0.001877
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 66,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006948562000616221,
+    "fval": 56230122.434118584,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003231,
+      0.003173
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 67,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00601690400071675,
+    "fval": 1208061831343412.8,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0027930000000000003,
+      0.002666
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 68,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0046963550012151245,
+    "fval": 23256.659358311477,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002061,
+      0.002084
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 69,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004485654000745853,
+    "fval": 48299422736.51304,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002004,
+      0.001939
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 70,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004508141999394866,
+    "fval": 13205.292845360738,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002024,
+      0.001935
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 71,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004643352000130108,
+    "fval": 7714607728.063038,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002063,
+      0.002036
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 72,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0037772759969811887,
+    "fval": 4.60086867062897e+16,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001573,
+      0.001657
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 73,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00336192099712207,
+    "fval": 3314392027145.2837,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001471,
+      0.0013520000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 74,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00450601099873893,
+    "fval": 5472873446069538.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002163,
+      0.0017980000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 75,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004929512000671821,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0018,
+      0.002443
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 76,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003922401996533154,
+    "fval": 361779.47657101747,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001656,
+      0.001674
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 77,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00491469700136804,
+    "fval": 795836546724.9823,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002028,
+      0.0023290000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 78,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00642584199886187,
+    "fval": 1625200.8809727642,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0029089999999999997,
+      0.0029460000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 79,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006267990000196733,
+    "fval": 3508007.710554364,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0027930000000000003,
+      0.0028959999999999997
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 80,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006610423002712196,
+    "fval": 2374065858551.9517,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003048,
+      0.002983
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 81,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004487390000576852,
+    "fval": 2.410867669287743e+22,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001909,
+      0.001997
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 82,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0049542289998498745,
+    "fval": 576418.7180134647,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002331,
+      0.0020440000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 83,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006101414997829124,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002545,
+      0.0028250000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 84,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005071815001429059,
+    "fval": 1349270835367268.2,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002156,
+      0.0022919999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 85,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005273050999676343,
+    "fval": 86706.57122658004,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002367,
+      0.002311
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 86,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004882462999376003,
+    "fval": 530243475131.53064,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002041,
+      0.0022559999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 87,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004025713002192788,
+    "fval": 1.5809498982207927e+20,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0016690000000000001,
+      0.0017749999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 88,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006516304998513078,
+    "fval": 340476724926.9918,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0031509999999999997,
+      0.00277
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 89,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0056011039996519685,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002231,
+      0.0026230000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 90,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005399820998718496,
+    "fval": 2.6837092444951233e+19,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0023799999999999997,
+      0.002369
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 91,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006820861999585759,
+    "fval": 187005037145.71512,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003143,
+      0.0030670000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 92,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004530099999101367,
+    "fval": 12933.122550012098,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0019950000000000002,
+      0.001936
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 93,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004118523000215646,
+    "fval": 5.855038958548064e+19,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0018700000000000001,
+      0.001653
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 94,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004981395999493543,
+    "fval": 4404310060.995049,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0021669999999999997,
+      0.0022299999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 95,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004813691000890685,
+    "fval": 4153957638250.5176,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002284,
+      0.001957
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 96,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005768348000856349,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0021739999999999997,
+      0.002882
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 97,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005614844998490298,
+    "fval": 195775.2686964437,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002306,
+      0.002697
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 98,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005039769999712007,
+    "fval": 39282528830489.71,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002212,
+      0.0022530000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 99,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.01006855000014184,
+    "fval": 1037425.5050568759,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0051589999999999995,
+      0.0043360000000000004
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 0,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0709214249982324,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.069993,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 9.34381e-18 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 1,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06939343699923484,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.068383,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 3.63388e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 2,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.23861991600278998,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.237594,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=1424.44.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 3,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1290624699977343,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.12803399999999998,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 8.09657e-19 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 4,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09832814300170867,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09712,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 2.155e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 5,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09580182200079435,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.094374,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 5.36806e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 6,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.13143026900070254,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.130267,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 6.43801e-19 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 7,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.3287669340024877,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.32760300000000003,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=56.821.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 8,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09382013199865469,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.092769,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.08918e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 9,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.054148483999597374,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.053069000000000005,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:ERR_FAILURE\", \"message\": \"At t = 20.1077 and h = 3.30466e-06, the error test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 2, \"identifier\": \"OTHER\", \"message\": \"AMICI equilibration failed at t=20.1077.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 10,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.14235161499891547,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.14116599999999999,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 5.67035e-18 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 11,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07738597900242894,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.076295,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 2.22964e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 12,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07207162899794639,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.071006,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 8.40172e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 13,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1645621090028726,
+    "fval": 70390067405.4173,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.077485,
+      0.08557
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 14,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.10382211000251118,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.102541,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 2.42315e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 15,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08352366499821073,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.082416,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.72226e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 16,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06738362699979916,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.066366,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 2.79461e-18 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 17,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08374877299866057,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08266899999999999,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.35836e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 18,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.4237029670002812,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.422649,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=429.959.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 19,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.3649326539998583,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.36378,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 4.50096e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 20,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.3411838690008153,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.34006400000000003,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=76.1341.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 21,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.33978853200096637,
+    "fval": 317061.522217496,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.197965,
+      0.14028100000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 22,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2502076290002151,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.24912299999999998,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=4.13146.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 23,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07017746400015312,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.069028,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.24035e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 24,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05123708000246552,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.050066,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 3.71398e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 25,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.5809166879989789,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.30473500000000003,
+      0.274895
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.51789e-15 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 26,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09906674100056989,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.097926,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 4.46874e-18 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 27,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.19755735999933677,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.196352,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 4.44806e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 28,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07652900199900614,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.075426,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 2.44038e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 29,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08741409999856842,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.086362,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 6.67446e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 30,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.22759056400172994,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.226413,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=75.0782.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 31,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.13982508600020083,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.138741,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 2.31518e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 32,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.22796803700111923,
+    "fval": 23150018902.160404,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.11844299999999999,
+      0.10805100000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 33,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.10315136500139488,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.10194199999999999,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.28553e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 34,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06629369499933091,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.065229,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.21239e-15 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 35,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04526015500232461,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.044245,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.28865e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 36,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08757713500017417,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.086559,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 9.5027e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 37,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.15283942200039746,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.151636,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.08637e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 38,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06280056700052228,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.061552,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.40092e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 39,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.8122486249994836,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      0.34883600000000003,
+      0.462084
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 2.27613, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 2.27613: AMICI failed to integrate the forward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 40,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1503477579972241,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.085987,
+      0.06309000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 8.6927e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 41,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06963293500302825,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06841599999999999,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:ERR_FAILURE\", \"message\": \"At t = 4928.98 and h = 0.00116357, the error test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 2, \"identifier\": \"OTHER\", \"message\": \"AMICI equilibration failed at t=4928.98.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 42,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09521714800212067,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.093918,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 7.26737e-18 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 43,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06704528800037224,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.065871,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.86699e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 44,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2657521420005651,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.264623,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=175.281.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 45,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.11831366199839977,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.117205,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 3.24402e-19 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 46,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.11212537299797987,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.111027,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 6.44082e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 47,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.392775068001356,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.39146499999999995,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=62.6905.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 48,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07645110000157729,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.075306,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.41279e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 49,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2795780479973473,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.278477,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=385.328.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 50,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.36248429100305657,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.36144400000000004,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=6137.6.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 51,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.17455704799795058,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.173352,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 7.62287e-18 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 52,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.060880051998537965,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.059635,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 6.02282e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 53,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2518432729993947,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.250739,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=449.588.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 54,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1429637979999825,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.141745,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.18582e-15 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 55,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.16789203099688166,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.16677799999999998,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:ERR_FAILURE\", \"message\": \"At t = 5197.28 and h = 0.000196943, the error test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 2, \"identifier\": \"OTHER\", \"message\": \"AMICI equilibration failed at t=5197.28.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 56,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07186985700172954,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.070855,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.12447e-15 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 57,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06530278699938208,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.064236,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.93808e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 58,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.45200585500060697,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.450347,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 3.01254e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 59,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07126893700115033,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07015,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.1887e-15 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 60,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.14429483599815285,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.143254,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 6.68095e-18 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 61,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.13757509300194215,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.136418,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:ERR_FAILURE\", \"message\": \"At t = 379.136 and h = 3.99594e-05, the error test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 2, \"identifier\": \"OTHER\", \"message\": \"AMICI equilibration failed at t=379.136.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 62,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08927053599836654,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.088213,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 5.5764e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 63,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.35537195700089796,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.35429700000000003,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 5.47134e-18 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 64,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.11142932700022357,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.110306,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 7.20307e-18 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 65,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.26130716300031054,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.260164,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=0.15288.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 66,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1140857309983403,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.11302200000000001,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 2.93699e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 67,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2565433669988124,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.255502,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=8.82725.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 68,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2520035240013385,
+    "fval": 23260.26096913079,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.13292400000000001,
+      0.117596
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 69,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.35870707999856677,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.357489,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=5.43653.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 70,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.12426249300187919,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07096899999999999,
+      0.052035
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.56216e-15 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 71,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07115137099754065,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.070035,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 3.80645e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 72,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08718654699987383,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08598,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 5.12392e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 73,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07156866600053036,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.070429,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 8.6592e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 74,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08494986699952278,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08390600000000001,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 2.10939e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 75,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2539682679998805,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.252785,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=5.83459.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 76,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.20148331500240602,
+    "fval": 361779.46519869624,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.104117,
+      0.095946
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 77,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.14141539200136322,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.14034200000000002,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.31796e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 78,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.21642749400052708,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.119208,
+      0.09598000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 79,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.21083586500026286,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.113596,
+      0.09598999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 7.20565e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 80,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05055423699741368,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.049404,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:ERR_FAILURE\", \"message\": \"At t = 1.47319 and h = 6.83189e-07, the error test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 2, \"identifier\": \"OTHER\", \"message\": \"AMICI equilibration failed at t=1.47319.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 81,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1539403470014804,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.152801,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 7.53692e-19 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 82,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06819700499909231,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06718099999999999,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 2.22663e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 83,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.15794300199922873,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.088733,
+      0.067883
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 8.40371e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 84,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09477771000092616,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.093692,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 5.91211e-18 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 85,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0962078830016253,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.095165,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 3.72251e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 86,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05391518900069059,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.052797,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 2.30385e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 87,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0866054370017082,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08540099999999999,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.42241e-15 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 88,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2747984199995699,
+    "fval": 340476686252.11676,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.148988,
+      0.124345
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 89,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.4897394930012524,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.488679,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=22.8618.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 90,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.21054080199974123,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.209248,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:ERR_FAILURE\", \"message\": \"At t = 66.4789 and h = 5.52506e-06, the error test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 2, \"identifier\": \"OTHER\", \"message\": \"AMICI equilibration failed at t=66.4789.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 91,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09999729800256318,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09886400000000001,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 3.17299e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 92,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.07951160700031323,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.078486,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 5.16283e-17 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 93,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.11152652999953716,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.110503,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 7.88875e-18 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 94,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08701290499811876,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.085801,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 4.21302e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 95,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.24074923599982867,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.239657,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"EQUILIBRATION_FAILURE\", \"message\": \"AMICI equilibration exceeded maximum number of integration steps at t=4086.26.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: Steady state computation failed. Simulation to steady state failed: No convergence was achieved.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 96,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.16405669999949168,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.088402,
+      0.074267
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.23575e-15 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 97,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.097239743998216,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09608499999999999,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.33885e-16 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 98,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08221347200014861,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.081149,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 2.03174e-18 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 99,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.471689015001175,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.269396,
+      0.20106200000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:WARNING\", \"message\": \"Internal t = 24 and h = 1.02904e-15 are such that t + h = t on the next step. The solver will continue anyway.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 0,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05289829300090787,
+    "fval": 6.38586544119613e+16,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.021800999999999997,
+      0.025054
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 1,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06385347000104957,
+    "fval": 3878331333732544.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028655999999999997,
+      0.02847
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 2,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.10539289599910262,
+    "fval": 3379142045029.5464,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.046924,
+      0.051151
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 3,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06802242100093281,
+    "fval": 6.775227129977403e+16,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026113,
+      0.035728
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 4,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07859558700147318,
+    "fval": 9.271336325275392e+23,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030422,
+      0.042018
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 5,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0800956179991772,
+    "fval": 30951288321262.008,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035823,
+      0.036896
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 6,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03742126100041787,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.025842,
+      0.0047279999999999996
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 7,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.007729455999651691,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0043490000000000004,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 8,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06015778900109581,
+    "fval": 1.9691208847960752e+17,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.021553,
+      0.030979
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 9,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07106792699778453,
+    "fval": 80484062.42545117,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.040667999999999996,
+      0.024325
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 10,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06824916699770256,
+    "fval": 2856008502732425.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026678999999999998,
+      0.035479
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 11,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06644832500023767,
+    "fval": 227215486335898.56,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026633,
+      0.033378
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 12,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08033433099990361,
+    "fval": 249896131210906.38,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028946000000000003,
+      0.044033
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 13,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05092464699919219,
+    "fval": 70390063995.01964,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.022509,
+      0.020535
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 14,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.056171165000705514,
+    "fval": 1.0443029291752957e+17,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02029,
+      0.028121
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 15,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07446279500072706,
+    "fval": 166633873868.17645,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.032365000000000005,
+      0.035805
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 16,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05198106199895847,
+    "fval": 345962619748.2762,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024420999999999998,
+      0.021662
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 17,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11863117000029888,
+    "fval": 9156012240867.441,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.064372,
+      0.047434
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 18,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06029699699865887,
+    "fval": 9356856171146946.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030640999999999998,
+      0.022878
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 19,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07196304700119072,
+    "fval": 3.30854479677265e+20,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028698,
+      0.037240999999999996
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 20,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0964054110008874,
+    "fval": 540349175.0959492,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.040834,
+      0.048972
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 21,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09445116099959705,
+    "fval": 317061.5225877055,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.04259,
+      0.043665
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 22,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04223182699934114,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030709,
+      0.004941
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 23,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04667783900003997,
+    "fval": 8906892370.548687,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019301,
+      0.02067
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 24,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04844993700316991,
+    "fval": 7750891882.539406,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023148,
+      0.019208
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 25,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07665260400244733,
+    "fval": 1.935873625576778e+19,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034616999999999995,
+      0.035546
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 26,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06120498899690574,
+    "fval": 1.1476286812398452e+23,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020272,
+      0.034974
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 27,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.008023904996662168,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005383,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 28,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07298948799871141,
+    "fval": 4067842306858350.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024127,
+      0.04245
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 29,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05107552499976009,
+    "fval": 1.230088718263218e+17,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.021965,
+      0.021834
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 30,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08249549199899775,
+    "fval": 3802013446151.7603,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037433,
+      0.036897
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 31,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0827252140006749,
+    "fval": 121077861587.3063,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.050372999999999994,
+      0.025681000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 32,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06111216199860792,
+    "fval": 23150018903.772346,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027576,
+      0.027249
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 33,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.060375376997399144,
+    "fval": 111583670806.82758,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030076000000000002,
+      0.024192
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 34,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06608328500078642,
+    "fval": 4469.421747280279,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028608,
+      0.031195
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 35,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.044593426002393244,
+    "fval": 2.383221500190216e+24,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.016878,
+      0.021297
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 36,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08174733700070647,
+    "fval": 7621382421647.446,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.033933,
+      0.039750999999999995
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 37,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.054943228999036364,
+    "fval": 7206626949446.165,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018736999999999997,
+      0.029015999999999997
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 38,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04785993400219013,
+    "fval": 2.101030372627507e+16,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018510000000000002,
+      0.023226
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 39,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07037526500062086,
+    "fval": 3.258465406597424e+17,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034715,
+      0.029518999999999997
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 40,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08910465900044073,
+    "fval": 35868990388.201225,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037088,
+      0.04505
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 41,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11806213700037915,
+    "fval": 514027540123531.56,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.046777,
+      0.06375
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 42,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06563799500145251,
+    "fval": 4.357526304751746e+17,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027248,
+      0.032127
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 43,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06473760900189518,
+    "fval": 210149649927.93524,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030771999999999997,
+      0.02786
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 44,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.082265125001868,
+    "fval": 6.388644653678892e+27,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.041608,
+      0.033906
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 45,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09484921100010979,
+    "fval": 55462723935037.95,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.038401000000000005,
+      0.049302
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 46,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.057646817000204464,
+    "fval": 43769.71530596922,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024257,
+      0.027260000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 47,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.043716829000914004,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034211,
+      0.0043479999999999994
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 48,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06509500300307991,
+    "fval": 5.458393624758352e+18,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018353,
+      0.04019
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 49,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0814986939985829,
+    "fval": 2389707059131346.5,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031119,
+      0.043143
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 50,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.055206719000125304,
+    "fval": 8297296673220256.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02496,
+      0.022629
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 51,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.10039785000117263,
+    "fval": 67968444302.0022,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.049455,
+      0.043729
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 52,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06097331099954317,
+    "fval": 52524907.13184242,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023917,
+      0.030515999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 53,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.051165307999326615,
+    "fval": 1.5023328576493747e+17,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020572,
+      0.024353000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 54,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07125289299801807,
+    "fval": 1741238.2582060618,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031688,
+      0.032819
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 55,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07297314100287622,
+    "fval": 2629243.2594521763,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028388,
+      0.036994
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 56,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05432236400156398,
+    "fval": 73259.41339277208,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026456,
+      0.021149
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 57,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04683446800117963,
+    "fval": 351314062737290.1,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02323,
+      0.017482
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 58,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11386497999774292,
+    "fval": 12324748862137.469,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.052183999999999994,
+      0.055149000000000004
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 59,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09734576400296646,
+    "fval": 857036.4552975657,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.041614,
+      0.048237999999999996
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 60,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0693537010010914,
+    "fval": 2.2221133903863005e+19,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.025058,
+      0.03649
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 61,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04515911500129732,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035142,
+      0.004141
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 62,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07890705500176409,
+    "fval": 629369896534918.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035546999999999995,
+      0.036976999999999996
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 63,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07666307000181405,
+    "fval": 1321529791626656.2,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037353000000000004,
+      0.033278
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 64,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11285987699739053,
+    "fval": 75033.56669874393,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.057415,
+      0.049011000000000006
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 65,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07395455299774767,
+    "fval": 6.520741171722332e+20,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.033999,
+      0.03208
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 66,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07671069299976807,
+    "fval": 56230122.434118584,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037277,
+      0.031348
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 67,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1108243910020974,
+    "fval": 1208061831343412.8,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.043252000000000006,
+      0.061045999999999996
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 68,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06957213100031368,
+    "fval": 23256.659358311477,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034104,
+      0.029334
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 69,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06239368100068532,
+    "fval": 48299422736.51304,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026553999999999998,
+      0.029687
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 70,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06774157600011677,
+    "fval": 13205.292845360738,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026835,
+      0.034381999999999996
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 71,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0883345959991857,
+    "fval": 7714607728.063038,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.047036,
+      0.033167
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 72,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06087190600010217,
+    "fval": 4.60086867062897e+16,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018098,
+      0.035982999999999994
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 73,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03905276300065452,
+    "fval": 3314392027145.2837,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.015941,
+      0.017032
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 74,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06285476299672155,
+    "fval": 5472873446069538.0,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035344,
+      0.021547999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 75,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.055491995000920724,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.045798,
+      0.004367
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 76,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.050314709998929175,
+    "fval": 361779.47657101747,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019364999999999997,
+      0.024550000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 77,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09971299700191594,
+    "fval": 795836546724.9823,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.042244,
+      0.049331
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 78,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07584438000048976,
+    "fval": 1625200.8809727642,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035225,
+      0.033377000000000004
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 79,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0631804539989389,
+    "fval": 3508007.710554364,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024342,
+      0.032835
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 80,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07633046199771343,
+    "fval": 2374065858551.9517,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031575,
+      0.038603
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 81,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06594452100034687,
+    "fval": 2.410867669287743e+22,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023714,
+      0.035220999999999995
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 82,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06207723600164172,
+    "fval": 576418.7180134647,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028121,
+      0.027244
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 83,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04314309300025343,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.033109,
+      0.0047220000000000005
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 84,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08512750999943819,
+    "fval": 1349270835367268.2,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036284,
+      0.042631999999999996
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 85,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0662264509992383,
+    "fval": 86706.57122658004,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.029201,
+      0.029953
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 86,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.082718769001076,
+    "fval": 530243475131.53064,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031835,
+      0.043564
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 87,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.055657840999629116,
+    "fval": 1.5809498982207927e+20,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.022443,
+      0.026832
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 88,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03487892399789416,
+    "fval": 340476724926.9918,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.015604,
+      0.013812
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 89,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.043925026002398226,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034201,
+      0.0045320000000000004
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 90,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06716331400093623,
+    "fval": 2.6837092444951233e+19,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027420000000000003,
+      0.033606000000000004
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 91,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07457577799868886,
+    "fval": 187005037145.71512,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036974,
+      0.030843
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 92,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05189604000042891,
+    "fval": 12933.122550012098,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023222,
+      0.021084
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 93,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.10706844400192495,
+    "fval": 5.855038958548064e+19,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.055295000000000004,
+      0.044306
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 94,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.10587586499968893,
+    "fval": 4404310060.995049,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.052453,
+      0.047202
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 95,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09008611100216513,
+    "fval": 4153957638250.5176,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.045475,
+      0.037805
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 96,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.049838034003187204,
+    "fval": Infinity,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.038077,
+      0.0050999999999999995
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine CVode returned a root after reinitialization. The initial step-size after the event or Heaviside function is too small. To fix this, increase absolute and relative tolerances! failed with error code 2. \"}]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 97,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06131379399812431,
+    "fval": 195775.2686964437,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.017937,
+      0.035796
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 98,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06850628900065203,
+    "fval": 39282528830489.71,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02797,
+      0.033991
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Weber_BMC2015",
+    "sample_idx": 99,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07104586499917787,
+    "fval": 1037425.5050568759,
+    "condition_ids": [
+      "model1_data2+model1_data1",
+      "model1_data3+model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.041165999999999994,
+      0.024018
+    ],
+    "amici_messages": [
+      "[]",
+      "[]"
+    ]
+  }
+]

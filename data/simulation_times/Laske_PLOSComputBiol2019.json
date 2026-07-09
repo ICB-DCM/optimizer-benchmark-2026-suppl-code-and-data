@@ -1,0 +1,8102 @@
+[
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 0,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.011308478002320044,
+    "fval": 6695023.488556004,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004956,
+      0.00421,
+      0.000857
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 1,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.011979954000707949,
+    "fval": 1307480.7357493178,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005912,
+      0.0040999999999999995,
+      0.0008129999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 2,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0040190569998230785,
+    "fval": 744237304.8489527,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001289,
+      0.001165,
+      0.000656
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 3,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005758789000537945,
+    "fval": 41246.658121127504,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002729,
+      0.0015,
+      0.0006860000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 4,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0042870700017374475,
+    "fval": 21450436.38066012,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001482,
+      0.0013340000000000001,
+      0.000641
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 5,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006752877998223994,
+    "fval": 2086334.566305597,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003535,
+      0.001758,
+      0.0006490000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 6,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0038685180006723385,
+    "fval": 2309107599468977.0,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0012909999999999998,
+      0.001138,
+      0.000621
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 7,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.009398795999004506,
+    "fval": 13400585.020058481,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004167,
+      0.003695,
+      0.000703
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 8,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.011156984000990633,
+    "fval": 67323970.15516338,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005457,
+      0.004025,
+      0.0008
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 9,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.013824935002048733,
+    "fval": 7073944250.015216,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006666,
+      0.005359,
+      0.00086
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 10,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003880979998939438,
+    "fval": 847825580.9087735,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001219,
+      0.0011690000000000001,
+      0.00064
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 11,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0079642460004834,
+    "fval": 1023416603.8771635,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0032519999999999997,
+      0.003018,
+      0.000864
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 12,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00750213200080907,
+    "fval": 3290947645.528429,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003156,
+      0.0028,
+      0.000691
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 13,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.013368706000619568,
+    "fval": 4029601.759615137,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006899,
+      0.004926,
+      0.000683
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 14,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003937828998459736,
+    "fval": 222990848455.2342,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001287,
+      0.0011870000000000001,
+      0.000602
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 15,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.009265761000278872,
+    "fval": 20442668.58563529,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004171,
+      0.003474,
+      0.000787
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 16,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.02146255100160488,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020358,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 5.50375, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 5.50375: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 17,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.015951926001434913,
+    "fval": 3827467.1348630404,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007567,
+      0.006486,
+      0.000892
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 18,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004562705998978345,
+    "fval": 52657228.73840131,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001629,
+      0.0013340000000000001,
+      0.000704
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 19,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003800710997893475,
+    "fval": 9229569719.990559,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001204,
+      0.001119,
+      0.000612
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 20,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003989820001152111,
+    "fval": 96650852.73758236,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001217,
+      0.001267,
+      0.000679
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 21,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0038945950000197627,
+    "fval": 8.272966007146739e+18,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011979999999999998,
+      0.0012259999999999999,
+      0.000641
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 22,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0039048239996191114,
+    "fval": 172447145.57928666,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001327,
+      0.001135,
+      0.000628
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 23,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0061883019989181776,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002318,
+      0.0022170000000000002,
+      0.000815
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 24,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0089099789984175,
+    "fval": 514125.6219484689,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00385,
+      0.0034860000000000004,
+      0.000712
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 25,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.009000938996905461,
+    "fval": 168627972.63711622,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00414,
+      0.003218,
+      0.000758
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 26,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003754002998903161,
+    "fval": 1092008005569322.5,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00122,
+      0.0010609999999999999,
+      0.000601
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 27,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004395478001242736,
+    "fval": 262713906.85632977,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001608,
+      0.001312,
+      0.000641
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 28,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004176225000264822,
+    "fval": 138696635478.69507,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0015149999999999999,
+      0.0011690000000000001,
+      0.000665
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 29,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006795066001359373,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002754,
+      0.002469,
+      0.000718
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 30,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0037471450013981666,
+    "fval": 820504519.424853,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001132,
+      0.0011790000000000001,
+      0.000608
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 31,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.014736339999217307,
+    "fval": 65445.07047657497,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006005,
+      0.0070739999999999996,
+      0.00079
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 32,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.011380386000382714,
+    "fval": 2.912211324326841e+17,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0057729999999999995,
+      0.004027,
+      0.000717
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 33,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00416399999812711,
+    "fval": 4314084.360731456,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001471,
+      0.0012070000000000002,
+      0.0006720000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 34,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.018332999003177974,
+    "fval": 58498071.167013094,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010499000000000001,
+      0.006212,
+      0.000786
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 35,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003779691000090679,
+    "fval": 680560209.2658356,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001251,
+      0.001092,
+      0.000641
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 36,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.026994474999810336,
+    "fval": 2.147554791439914e+21,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.015002000000000001,
+      0.010391,
+      0.000751
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 37,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0040535640000598505,
+    "fval": 8141017.165694798,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001392,
+      0.001121,
+      0.000744
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 38,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0043043020014010835,
+    "fval": 90751935593266.06,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001631,
+      0.0013089999999999998,
+      0.0005819999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 39,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.011444677998952102,
+    "fval": 864709962.5081494,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005036,
+      0.004553,
+      0.000736
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 40,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.01046076000056928,
+    "fval": 1.6649722783962807e+23,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00536,
+      0.003634,
+      0.000646
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 41,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006982689999858849,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002899,
+      0.0024860000000000004,
+      0.000803
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 42,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003758374001336051,
+    "fval": 770829509.6990585,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001259,
+      0.0011220000000000002,
+      0.000607
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 43,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0037380419998953585,
+    "fval": 19847532514812.152,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0012050000000000001,
+      0.0011339999999999998,
+      0.00065
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 44,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005932891999691492,
+    "fval": 64702124.498512805,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002784,
+      0.0017829999999999999,
+      0.000608
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 45,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.009433015002286993,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004070000000000001,
+      0.003875,
+      0.000712
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 46,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006984972998907324,
+    "fval": 5626198543530.227,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002817,
+      0.002749,
+      0.000628
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 47,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.020955317002517404,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020024999999999998,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 4.97656, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 4.97656: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 48,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003872008001053473,
+    "fval": 1093244144.945113,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001201,
+      0.00116,
+      0.00068
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 49,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003978114000346977,
+    "fval": 134929208601007.64,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00138,
+      0.001165,
+      0.0006730000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 50,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0037285959988366812,
+    "fval": 213045724.1393715,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011899999999999999,
+      0.0012250000000000002,
+      0.0005629999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 51,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.011500517000968102,
+    "fval": 477.9219294846589,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004751,
+      0.005051,
+      0.0009310000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 52,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006273268998484127,
+    "fval": 1253734411608055.2,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002828,
+      0.002016,
+      0.000631
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 53,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.009948076000000583,
+    "fval": 8.466745108010847e+19,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004385,
+      0.0040490000000000005,
+      0.000732
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 54,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.007120858997950563,
+    "fval": 1949526484.7464077,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00268,
+      0.0029140000000000004,
+      0.000741
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 55,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0038200679991859943,
+    "fval": 230288994.13957608,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001256,
+      0.00116,
+      0.00063
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 56,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.008583326001826208,
+    "fval": 2280656.2097836784,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003513,
+      0.00352,
+      0.000761
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 57,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003681551999761723,
+    "fval": 13574493.858225241,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011279999999999999,
+      0.001178,
+      0.0006039999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 58,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.012633833997824695,
+    "fval": 3208220.1928109233,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005476,
+      0.005476,
+      0.00087
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 59,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.020429239000804955,
+    "fval": 1375971.004441491,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008831,
+      0.009891,
+      0.000852
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 60,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003911603998858482,
+    "fval": 10229585017.878963,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001286,
+      0.001185,
+      0.000596
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 61,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.009612334000848932,
+    "fval": 3.6433499795145236e+18,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0041849999999999995,
+      0.0038650000000000004,
+      0.000733
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 62,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.012171062997367699,
+    "fval": 12405193.484582808,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005685,
+      0.004756,
+      0.000846
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 63,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.013705801000469364,
+    "fval": 5648.223132579666,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00611,
+      0.005946,
+      0.000757
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 64,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004147469000599813,
+    "fval": 4208353948.262203,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001417,
+      0.001217,
+      0.000648
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 65,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00394300799962366,
+    "fval": 869202817.7596004,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001269,
+      0.001153,
+      0.0006670000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 66,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.009496293998381589,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004179,
+      0.003669,
+      0.000778
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 67,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004440675002115313,
+    "fval": 812916.6582601484,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0015580000000000001,
+      0.001332,
+      0.000703
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 68,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0073155710015271325,
+    "fval": 3.910287975228229e+16,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00387,
+      0.001964,
+      0.000628
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 69,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005284349001158262,
+    "fval": 33888099.73870343,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002214,
+      0.0014810000000000001,
+      0.000756
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 70,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.007747797997581074,
+    "fval": 4.196278803861266e+16,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003095,
+      0.003154,
+      0.0006540000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 71,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.007524699001805857,
+    "fval": 103873370493.57114,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0038239999999999997,
+      0.00222,
+      0.000648
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 72,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0038018739978724625,
+    "fval": 423402847114.9283,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001224,
+      0.001175,
+      0.000574
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 73,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.004525683998508612,
+    "fval": 258080510.37309724,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001659,
+      0.001348,
+      0.0007009999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 74,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.011867331999383168,
+    "fval": 1040368.1391154322,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005723,
+      0.004462,
+      0.000829
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 75,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0038215710010263138,
+    "fval": 344223701.9136073,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0012629999999999998,
+      0.001108,
+      0.000621
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 76,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.015277005000825739,
+    "fval": 99799859.21275845,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008187,
+      0.005492,
+      0.000718
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 77,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.008545344000594923,
+    "fval": 350600019.7316093,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00359,
+      0.003392,
+      0.000683
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 78,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0043292449990985915,
+    "fval": 14519536081.896067,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001356,
+      0.001121,
+      0.0007199999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 79,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0064034719980554655,
+    "fval": 8491228.050793096,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002569,
+      0.002267,
+      0.00078
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 80,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.013311085000168532,
+    "fval": 7025643.389637196,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006543,
+      0.005212,
+      0.000734
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 81,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.008480871001665946,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0035819999999999997,
+      0.003254,
+      0.000834
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 82,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.01040988400200149,
+    "fval": 2726833.4817350167,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004974999999999999,
+      0.003862,
+      0.000762
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 83,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.005903822002437664,
+    "fval": 6.324414159328359e+20,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0026230000000000003,
+      0.001895,
+      0.000614
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 84,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0036217100023350213,
+    "fval": 551911.739565065,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001219,
+      0.0010500000000000002,
+      0.000603
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 85,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.010202118999586673,
+    "fval": 34755.82777876579,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0053159999999999995,
+      0.003399,
+      0.000717
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 86,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003980408000643365,
+    "fval": 37781457037422.79,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001341,
+      0.0012070000000000002,
+      0.0006490000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 87,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00881231099992874,
+    "fval": 12402997118.273638,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004539,
+      0.002764,
+      0.000734
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 88,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.006629305000387831,
+    "fval": 67926250.61803497,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002913,
+      0.002154,
+      0.0007920000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 89,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0699207399993611,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.015481,
+      0.053394,
+      0.0
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 16.9754, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 16.9754: AMICI failed to integrate the forward problem\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 90,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.003977184001996648,
+    "fval": 2292325.4913245644,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001217,
+      0.001174,
+      0.000646
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 91,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00869932700152276,
+    "fval": 28984783.359535135,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003921,
+      0.0031720000000000003,
+      0.000752
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 92,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.007199553998361807,
+    "fval": 76527.65901355255,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0033959999999999997,
+      0.002229,
+      0.000732
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 93,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.010463906997756567,
+    "fval": 70863245.91904101,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004399,
+      0.004395,
+      0.000829
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 94,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.009049622000020463,
+    "fval": 665.0886735982873,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003853,
+      0.0035710000000000004,
+      0.000756
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 95,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.007705432002694579,
+    "fval": 35033522905546.258,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003124,
+      0.003024,
+      0.000719
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 96,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.008426516000326956,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0036269999999999996,
+      0.0032559999999999998,
+      0.000684
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 97,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00833089599836967,
+    "fval": 51266695.21778897,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003342,
+      0.003432,
+      0.000691
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 98,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0040238950023194775,
+    "fval": 586075.7921320071,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001271,
+      0.0012079999999999999,
+      0.000695
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 99,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.012073317000613315,
+    "fval": 3473421777685281.0,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005416000000000001,
+      0.004951,
+      0.0008539999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 0,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1710041859987541,
+    "fval": 6695023.503856259,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.085175,
+      0.06579399999999999,
+      0.018413
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 1,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1859753879980417,
+    "fval": 1307480.6691744537,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09769199999999999,
+      0.064638,
+      0.021902
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 2,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08867411699975492,
+    "fval": 744237304.6054261,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.040227,
+      0.026204,
+      0.02045
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 3,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09852441399925738,
+    "fval": 41246.663643877284,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.04852,
+      0.031298,
+      0.017064
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 4,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08043144600014784,
+    "fval": 21450436.28704545,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034637999999999995,
+      0.026843,
+      0.017335
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 5,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.4024437609987217,
+    "fval": 2086334.5667014446,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.343932,
+      0.041106000000000004,
+      0.015792999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 6,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.056593874000100186,
+    "fval": 2309107599468821.0,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02136,
+      0.017193,
+      0.016440999999999997
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 7,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.21188438500030315,
+    "fval": 13400584.985534722,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.10574800000000001,
+      0.087103,
+      0.017428000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 8,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.24142322300031083,
+    "fval": 67323970.25248179,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.13441999999999998,
+      0.085063,
+      0.020166
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 9,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.3593515469983686,
+    "fval": 7073944248.031599,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.198838,
+      0.137906,
+      0.020735
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 10,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05041393300052732,
+    "fval": 847825582.9959054,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018404,
+      0.015340999999999999,
+      0.014788
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 11,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.15909821899913368,
+    "fval": 1126479702.4490764,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.071463,
+      0.060124000000000004,
+      0.025768
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 12,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.13622183299958124,
+    "fval": 3290947598.855598,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.066263,
+      0.050559,
+      0.017530999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 13,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2526201159998891,
+    "fval": 4029601.789799166,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.153661,
+      0.08239700000000001,
+      0.014861000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 14,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05244700100229238,
+    "fval": 222991205710.32477,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019549,
+      0.015669,
+      0.015207
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 15,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1788760169984016,
+    "fval": 20442668.458153836,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.092605,
+      0.060005,
+      0.024517
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 16,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.35616440199737553,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.35467200000000004,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 2.22609, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 2.22609: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 17,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.41641090900156996,
+    "fval": 3827466.3836863567,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.227186,
+      0.165436,
+      0.021995999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 18,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08006885099894134,
+    "fval": 52657228.73864323,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034118,
+      0.026157,
+      0.017904
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 19,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.052270664997195126,
+    "fval": 9229702746.405033,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019496,
+      0.016137000000000002,
+      0.014766
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 20,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05259675999695901,
+    "fval": 96650852.59757622,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018831,
+      0.015719,
+      0.016184999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 21,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05105591999745229,
+    "fval": 8.272966007146749e+18,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018687000000000002,
+      0.015822,
+      0.014863
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 22,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05171206899831304,
+    "fval": 172447146.48229444,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019306999999999998,
+      0.016148,
+      0.014664
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 23,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.11648697100099525,
+    "fval": 33839246237885.234,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.052548000000000004,
+      0.030011,
+      0.032335
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 24,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.18340877199807437,
+    "fval": 514125.6225974726,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.088953,
+      0.076344,
+      0.016252
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 25,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.16778621200137422,
+    "fval": 168627972.63729638,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.090957,
+      0.057866,
+      0.017263999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 26,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.051630418998684036,
+    "fval": 1092008005572410.9,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019169000000000002,
+      0.015210000000000001,
+      0.015667
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 27,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0815017170025385,
+    "fval": 262713906.8563227,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035479,
+      0.024663,
+      0.019764
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 28,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06053644900021027,
+    "fval": 138698354004.44336,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.021218,
+      0.019468,
+      0.018177
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 29,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.12268598399896291,
+    "fval": 643632272942186.0,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.059437,
+      0.044268999999999996,
+      0.01711
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 30,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.052837290000752546,
+    "fval": 820521971.2493562,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019532,
+      0.015331,
+      0.016096
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 31,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.5788214380008867,
+    "fval": 65445.07053381437,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.301965,
+      0.25616500000000003,
+      0.018959
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 32,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2087601889979851,
+    "fval": 2.912211324326841e+17,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.118166,
+      0.072093,
+      0.016804
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 33,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05991258900030516,
+    "fval": 4314084.375874624,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024166,
+      0.018134,
+      0.015830999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 34,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.3484943969997403,
+    "fval": 58498071.172977135,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.223256,
+      0.096133,
+      0.027424
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 35,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.055099130997405155,
+    "fval": 680579964.3484948,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019887000000000002,
+      0.016306,
+      0.017261
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 36,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.508019183002034,
+    "fval": 2.147554791439909e+21,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.318179,
+      0.164797,
+      0.023321
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 37,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.057631535000837175,
+    "fval": 8141017.164642161,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023986999999999998,
+      0.015256,
+      0.016597999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 38,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08076468299987027,
+    "fval": 90751935593266.17,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036704,
+      0.025367999999999998,
+      0.017005
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 39,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2443130210012896,
+    "fval": 864709987.7174369,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.135488,
+      0.08555,
+      0.021579
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 40,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.19776996099972166,
+    "fval": 1.664972278396281e+23,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.122299,
+      0.058597,
+      0.014981
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 41,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.12407493000137038,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.056484,
+      0.042744,
+      0.023355
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 42,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.054793754999991506,
+    "fval": 770834565.0230486,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020649999999999998,
+      0.016417,
+      0.016127
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 43,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.051622413000586675,
+    "fval": 19847532514812.13,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019474,
+      0.015090999999999999,
+      0.015467
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 44,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.10344239800178912,
+    "fval": 64702124.84328573,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.052508000000000006,
+      0.031704,
+      0.01742
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 45,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.15289938999922015,
+    "fval": 23738215977577.277,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.078719,
+      0.057263,
+      0.015262000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 46,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.12049407100130338,
+    "fval": 5626198543541.223,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.059802999999999995,
+      0.043973,
+      0.014977
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 47,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.4232240109995473,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.421922,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 1.6716, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 1.6716: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 48,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0584273079984996,
+    "fval": 1093244144.9406054,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.022962,
+      0.017300999999999997,
+      0.016568000000000003
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 49,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06332118199861725,
+    "fval": 134929208601422.11,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023944,
+      0.01833,
+      0.019208
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 50,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.052008429000125034,
+    "fval": 213053041.3587873,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019513000000000003,
+      0.016158000000000002,
+      0.014737
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 51,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2083001270002569,
+    "fval": 477.9219292887598,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.093399,
+      0.08489000000000001,
+      0.028184
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 52,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2243781979996129,
+    "fval": 1253734411608055.2,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.127577,
+      0.07964,
+      0.015439999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 53,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.15355072099919198,
+    "fval": 8.466745108010847e+19,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07419100000000001,
+      0.057362,
+      0.020127
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 54,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.11234119400251075,
+    "fval": 1949526483.107612,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.051888,
+      0.043015,
+      0.015747999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 55,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06902637900202535,
+    "fval": 230288994.1833128,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02734,
+      0.021597,
+      0.0185
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 56,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1488782580017869,
+    "fval": 2286399.4894963466,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.073754,
+      0.055248,
+      0.01804
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 57,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05434789300124976,
+    "fval": 13575135.35901888,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020056,
+      0.016442000000000002,
+      0.016184999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 58,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2983839389999048,
+    "fval": 3208220.188811089,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.159169,
+      0.116038,
+      0.021454
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 59,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.536476416997175,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.26331299999999996,
+      0.27172500000000005,
+      0.0
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 18.5641, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 18.5641: AMICI failed to integrate the forward problem\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 60,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05945889400027227,
+    "fval": 10229711675.508379,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.021661,
+      0.018416000000000002,
+      0.01774
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 61,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.17241811599888024,
+    "fval": 3.6433499795145236e+18,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.096016,
+      0.056351,
+      0.018185
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 62,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.24838558699775604,
+    "fval": 12405193.495220127,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.13062,
+      0.09094100000000001,
+      0.025122
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 63,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.30849853700055974,
+    "fval": 5648.223132239837,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.144677,
+      0.144363,
+      0.017737
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 64,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06370148399946629,
+    "fval": 4208364395.833795,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.022817,
+      0.020736,
+      0.018318
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 65,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05283321699971566,
+    "fval": 869202817.7470785,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019457000000000002,
+      0.016488,
+      0.015238
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 66,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.19676619800156914,
+    "fval": 18752890.284203894,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.099229,
+      0.07355500000000001,
+      0.022121
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 67,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06571483600055217,
+    "fval": 812916.6604465422,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027542,
+      0.020312,
+      0.015997
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 68,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.12181574599890155,
+    "fval": 3.91028797523479e+16,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0767,
+      0.028652,
+      0.014797000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 69,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.08612724400154548,
+    "fval": 33888099.73790197,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.041354,
+      0.024695,
+      0.018455
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 70,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.13708865499938838,
+    "fval": 4.1962788038703864e+16,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.065217,
+      0.055173,
+      0.014848
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 71,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.14950383999894257,
+    "fval": 103873370493.57117,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08539400000000001,
+      0.044575000000000004,
+      0.017883
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 72,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.054913118001422845,
+    "fval": 423402847795.023,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019885,
+      0.016538,
+      0.016872
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 73,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06479081400175346,
+    "fval": 258080509.26879954,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.029027,
+      0.01774,
+      0.016284
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 74,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.19351196000206983,
+    "fval": 1040368.144497213,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.098755,
+      0.07281900000000001,
+      0.020231000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 75,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.06832368400137057,
+    "fval": 344223702.7109603,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028198,
+      0.020552,
+      0.017951
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 76,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.31187849400157575,
+    "fval": 99799859.14529712,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.190949,
+      0.10371,
+      0.015525
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 77,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1297084440011531,
+    "fval": 350593582.11879736,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.064997,
+      0.047923,
+      0.015128
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 78,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.061436894997314084,
+    "fval": 14519535961.843517,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020550000000000002,
+      0.016045999999999998,
+      0.02308
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 79,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.10680462999880547,
+    "fval": 8491228.470375568,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.044274,
+      0.03463,
+      0.026212
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 80,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.28751606500009075,
+    "fval": 7025643.391220963,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.169473,
+      0.098274,
+      0.018059000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 81,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.15798467300191987,
+    "fval": 2.1701841414722226e+22,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.077682,
+      0.054494999999999995,
+      0.023992
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 82,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.19969212200157926,
+    "fval": 2726833.4858398098,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.11033,
+      0.065182,
+      0.022511
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 83,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.09846394599662744,
+    "fval": 6.324414159328376e+20,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.051287,
+      0.030837,
+      0.014655
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 84,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.04877230399870314,
+    "fval": 551911.7660540186,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.017655,
+      0.01431,
+      0.014717000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 85,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.1930724369995005,
+    "fval": 34755.82781318616,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.114077,
+      0.060995,
+      0.016328
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 86,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05207940899708774,
+    "fval": 37781457038787.84,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019327,
+      0.015234,
+      0.015857
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 87,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.18687912599853007,
+    "fval": 12402997117.138956,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.108541,
+      0.05937,
+      0.017047
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 88,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.10675684599846136,
+    "fval": 67926250.57747003,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.05113,
+      0.030732,
+      0.023204
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 89,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.21595937500023865,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERR_FAILURE",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.214703,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:ERR_FAILURE\", \"message\": \"At t = 2.94788 and h = 5.94592e-08, the error test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 2.94788: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 90,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.05386724900017725,
+    "fval": 2292325.491332925,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020015,
+      0.016550000000000002,
+      0.015712
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 91,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.15043646800040733,
+    "fval": 28984783.466001246,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.075009,
+      0.057603,
+      0.01602
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 92,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.11751636600092752,
+    "fval": 76527.65898063907,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.062764,
+      0.037099,
+      0.015976
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 93,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.21984306999729597,
+    "fval": 70863245.91975445,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.11465399999999999,
+      0.083134,
+      0.020187999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 94,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.17455138600053033,
+    "fval": 665.0886737827943,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.085991,
+      0.069402,
+      0.017432
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 95,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.15488829700188944,
+    "fval": 35033522905546.258,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07012099999999999,
+      0.064094,
+      0.018843
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 96,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.15388506400267943,
+    "fval": 51725236.02197417,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.079768,
+      0.057908,
+      0.014452999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 97,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.13831511899843463,
+    "fval": 51266695.31832657,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.068398,
+      0.051287,
+      0.016980000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 98,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.072735936002573,
+    "fval": 586075.7920748249,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.029553999999999997,
+      0.021617,
+      0.019902999999999997
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 99,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.2898834910010919,
+    "fval": 3473421777685421.0,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.143166,
+      0.12059,
+      0.024347999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 0,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.7827179619998788,
+    "fval": 6695023.488556004,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.077396,
+      0.681761,
+      0.01263
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 1,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.16297863499858067,
+    "fval": 1307480.7357493178,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.063565,
+      0.052892,
+      0.034652
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 2,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08974521999698482,
+    "fval": 744237304.8489527,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.052003999999999995,
+      0.016316,
+      0.009077
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 3,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12616820700350218,
+    "fval": 41246.658121127504,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07669799999999999,
+      0.026318,
+      0.01134
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 4,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08000443499986432,
+    "fval": 21450436.38066012,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035762999999999996,
+      0.021985,
+      0.012025000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 5,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1406542119984806,
+    "fval": 2086334.566305597,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.094748,
+      0.028359000000000002,
+      0.0069180000000000005
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 6,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11324471400075709,
+    "fval": 2309107599468977.0,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06597599999999999,
+      0.020167,
+      0.013503
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 7,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09624126199923921,
+    "fval": 13400585.020058481,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.049652999999999996,
+      0.022884,
+      0.012728999999999999
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 8,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1603394150006352,
+    "fval": 67323970.15516338,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.092065,
+      0.043758000000000005,
+      0.013287
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 9,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1428664140003093,
+    "fval": 7073944250.015216,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.079765,
+      0.037939999999999995,
+      0.013752
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 10,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12811684999905992,
+    "fval": 847825580.9087735,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.084506,
+      0.018191,
+      0.01427
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 11,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.44075015599810285,
+    "fval": 1023416603.8771635,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06579600000000001,
+      0.32280000000000003,
+      0.039398
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 12,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1360668720008107,
+    "fval": 3290947645.528429,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08239,
+      0.034261,
+      0.008262
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 13,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1755837819982844,
+    "fval": 4029601.759615137,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.087505,
+      0.042917000000000004,
+      0.034243
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 14,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12853674999860232,
+    "fval": 222990848455.2342,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.078011,
+      0.024989,
+      0.012177
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 15,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12545747499825666,
+    "fval": 20442668.58563529,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.053104,
+      0.029635,
+      0.03195
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 16,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02804696299790521,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024045999999999998,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodea:CVodeF:TOO_MUCH_WORK\", \"message\": \"At t = 5.50375, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 5.50375: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 17,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.19479396099995938,
+    "fval": 3827467.1348630404,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.114274,
+      0.050143,
+      0.016407
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 18,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12480705000052694,
+    "fval": 52657228.73840131,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08589100000000001,
+      0.016954999999999998,
+      0.011379
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 19,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.13203041899760137,
+    "fval": 9229569719.990559,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.087249,
+      0.022636,
+      0.011404
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 20,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.149304555998242,
+    "fval": 96650852.73758236,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08335899999999999,
+      0.018617,
+      0.033771
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 21,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.14773890400101664,
+    "fval": 8.272966007146739e+18,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.083247,
+      0.017735,
+      0.035912
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 22,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1239450159991975,
+    "fval": 172447145.57928666,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.083348,
+      0.017976,
+      0.012127
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 23,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06314629500047886,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_FIRST_RHSFUNC_ERR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.049704,
+      0.0057350000000000005,
+      0.0
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (V_ex) at t=28.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:FIRST_RHSFUNC_ERR\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 24 (check debug logs for details): AMICI failed to integrate the backward problem\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 24,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.15347554000254604,
+    "fval": 514125.6219484689,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06954300000000001,
+      0.036473,
+      0.034349
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 25,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.17014183300125296,
+    "fval": 168627972.63711622,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.081231,
+      0.041854,
+      0.034473
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 26,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12760657200124115,
+    "fval": 1092008005569322.5,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.083523,
+      0.019896,
+      0.013063
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 27,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12797872699957225,
+    "fval": 262713906.85632977,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08624599999999999,
+      0.016407,
+      0.013132
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 28,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11432570300166844,
+    "fval": 138696635478.69507,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06261,
+      0.030302,
+      0.011084
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 29,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.16943904599975212,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.054526000000000005,
+      0.105842,
+      0.0
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (V_ex) at t=20.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine reInitPostProcess failed with error code -9. tout: 0, t: 20.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 30,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12776603199745296,
+    "fval": 820504519.424853,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08583299999999999,
+      0.020581,
+      0.010757
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 31,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.17140534599820967,
+    "fval": 65445.07047657497,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.091101,
+      0.053847,
+      0.013313
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 32,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1802776439981244,
+    "fval": 2.912211324326841e+17,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08730500000000001,
+      0.045737,
+      0.036223
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 33,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11230168099791626,
+    "fval": 4314084.360731456,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.072318,
+      0.015119,
+      0.013842
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 34,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.24005284099985147,
+    "fval": 58498071.167013094,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.116821,
+      0.07731199999999999,
+      0.032555
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 35,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12505130699719302,
+    "fval": 680560209.2658356,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08120699999999999,
+      0.021842,
+      0.011380000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 36,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.3168557429999055,
+    "fval": 2.147554791439914e+21,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.18146,
+      0.090821,
+      0.032548
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 37,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12410880699826521,
+    "fval": 8141017.165694798,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.056799999999999996,
+      0.019843,
+      0.034391
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 38,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1309987300010107,
+    "fval": 90751935593266.06,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.086602,
+      0.021577000000000002,
+      0.012527
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 39,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.18619113100066897,
+    "fval": 864709962.5081494,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06692100000000001,
+      0.072066,
+      0.034104999999999996
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 40,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.16745089800315327,
+    "fval": 1.6649722783962807e+23,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.079958,
+      0.039850000000000003,
+      0.037055
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 41,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05437769899799605,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_FIRST_RHSFUNC_ERR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.04218,
+      0.005562999999999999,
+      0.0
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (V_ex) at t=28.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:FIRST_RHSFUNC_ERR\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 24 (check debug logs for details): AMICI failed to integrate the backward problem\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 42,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1266290140010824,
+    "fval": 770829509.6990585,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07769,
+      0.022348,
+      0.013769
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 43,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.142096635998314,
+    "fval": 19847532514812.152,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.079524,
+      0.014173,
+      0.034470999999999995
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 44,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.31784969699947396,
+    "fval": 64702124.498512805,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07981300000000001,
+      0.217743,
+      0.008403
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 45,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08419666700137896,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_FIRST_RHSFUNC_ERR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.069176,
+      0.007299000000000001,
+      0.0
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (V_ex) at t=28.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:FIRST_RHSFUNC_ERR\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 24 (check debug logs for details): AMICI failed to integrate the backward problem\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 46,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.17866371199852438,
+    "fval": 5626198543530.227,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.088605,
+      0.043744,
+      0.035637
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 47,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.027785092999693006,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023661,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodea:CVodeF:TOO_MUCH_WORK\", \"message\": \"At t = 4.97656, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 4.97656: AMICI failed to integrate the forward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 48,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09395189700080664,
+    "fval": 1093244144.945113,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.049546999999999994,
+      0.019034,
+      0.013034
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 49,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1335502779984381,
+    "fval": 134929208601007.64,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.081783,
+      0.027901,
+      0.012972
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 50,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1197330389986746,
+    "fval": 213045724.1393715,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.080072,
+      0.022763000000000002,
+      0.006617
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 51,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.19549436499801232,
+    "fval": 477.9219294846589,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.100413,
+      0.047256,
+      0.03506
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 52,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1376319560004049,
+    "fval": 1253734411608055.2,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08059999999999999,
+      0.031651,
+      0.013703
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 53,
+    "sensitivity_method": "asa",
+    "time_obj_s": 2.673750811998616,
+    "fval": 8.466745108010847e+19,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.100396,
+      1.96779,
+      0.5913780000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 54,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.16005352399952244,
+    "fval": 1949526484.7464077,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.085538,
+      0.049211,
+      0.013196
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 55,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11339079800018226,
+    "fval": 230288994.13957608,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07926000000000001,
+      0.013662,
+      0.010392
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 56,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.21139675499944133,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERR_FAILURE",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.077685,
+      0.125049,
+      0.0
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:ERR_FAILURE\", \"message\": \"At t = 0.0986417 and h = -6.90937e-08, the error test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:ERR_FAILURE\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 0 (check debug logs for details): AMICI failed to integrate the backward problem\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 57,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.10728547899998375,
+    "fval": 13574493.858225241,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.065192,
+      0.020092,
+      0.011865
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 58,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.2072560960004921,
+    "fval": 3208220.1928109233,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.12197799999999999,
+      0.049568,
+      0.023167
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 59,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.2792218430004141,
+    "fval": 1375971.004441491,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.107959,
+      0.1279,
+      0.031466
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 60,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.13014586699864594,
+    "fval": 10229585017.878963,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08243500000000001,
+      0.025807,
+      0.011144
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 61,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.16634912900190102,
+    "fval": 3.6433499795145236e+18,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.081997,
+      0.038932,
+      0.033006999999999995
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 62,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.17854351699861581,
+    "fval": 12405193.484582808,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08706100000000001,
+      0.047579,
+      0.032000999999999995
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 63,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.15386705199853168,
+    "fval": 5648.223132579666,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07739,
+      0.05094,
+      0.013409
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 64,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12401088399928994,
+    "fval": 4208353948.262203,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08503100000000001,
+      0.022414,
+      0.006756
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 65,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.10347749900029157,
+    "fval": 869202817.7596004,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06155,
+      0.016328,
+      0.014124000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 66,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11787503999948967,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERROR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.063774,
+      0.044325,
+      0.0
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (V_ex) at t=24.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 0, \"identifier\": \"OTHER\", \"message\": \"AMICI simulation failed: CVODE routine reInitPostProcess failed with error code -9. tout: 20, t: 24.\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 67,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09123425500001758,
+    "fval": 812916.6582601484,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.046416,
+      0.019975,
+      0.012438000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 68,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.13560046899874578,
+    "fval": 3.910287975228229e+16,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.061380000000000004,
+      0.027579999999999997,
+      0.036137999999999997
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 69,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08440794399939477,
+    "fval": 33888099.73870343,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037321,
+      0.015329,
+      0.020685
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 70,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.19641551099994103,
+    "fval": 4.196278803861266e+16,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.083329,
+      0.064928,
+      0.035371
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 71,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11446978199819569,
+    "fval": 103873370493.57114,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.051018,
+      0.038589,
+      0.013018
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 72,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.128957871998864,
+    "fval": 423402847114.9283,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.085228,
+      0.020087,
+      0.012944
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 73,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1346017630021379,
+    "fval": 258080510.37309724,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06909,
+      0.018184000000000002,
+      0.034796999999999995
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 74,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.10742977799964137,
+    "fval": 1040368.1391154322,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036795,
+      0.046981999999999996,
+      0.013129
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 75,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08870322000075248,
+    "fval": 344223701.9136073,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.043268,
+      0.019907,
+      0.013752
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 76,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.20483130700085894,
+    "fval": 99799859.21275845,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.095881,
+      0.06091,
+      0.036106
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 77,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.17014831100095762,
+    "fval": 350600019.7316093,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.076445,
+      0.067782,
+      0.013619999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 78,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.14526965899858624,
+    "fval": 14519536081.896067,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.072103,
+      0.027843,
+      0.03331
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 79,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1382585850005853,
+    "fval": 8491228.050793096,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030355,
+      0.063071,
+      0.033654
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 80,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1854458399975556,
+    "fval": 7025643.389637196,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.08648099999999999,
+      0.051392,
+      0.035809
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 81,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05881573000078788,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_FIRST_RHSFUNC_ERR",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.04309,
+      0.007051,
+      0.0
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (V_ex) at t=28.000000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:FIRST_RHSFUNC_ERR\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 24 (check debug logs for details): AMICI failed to integrate the backward problem\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 82,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.20520517099794233,
+    "fval": 2726833.4817350167,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.116895,
+      0.044745,
+      0.032948
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 83,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.17042337100065197,
+    "fval": 6.324414159328359e+20,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.088867,
+      0.055774000000000004,
+      0.013318
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 84,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1168021100020269,
+    "fval": 551911.739565065,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07819799999999999,
+      0.016309999999999998,
+      0.011793
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 85,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1766797839991341,
+    "fval": 34755.82777876579,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.09249800000000001,
+      0.035363,
+      0.03641
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 86,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09319325199976447,
+    "fval": 37781457037422.79,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.048672,
+      0.020689,
+      0.013149
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 87,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.18648582700188854,
+    "fval": 12402997118.273638,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.089408,
+      0.047955,
+      0.035734
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 88,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.1398234100015543,
+    "fval": 67926250.61803497,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06937099999999999,
+      0.028777,
+      0.030431999999999997
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 89,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.46471357500195154,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_TOO_MUCH_WORK",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.39830200000000004,
+      0.056722999999999996,
+      0.0
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodea:CVodeF:TOO_MUCH_WORK\", \"message\": \"At t = 16.9754, mxstep steps taken before reaching tout.\"}, {\"severity\": 0, \"identifier\": \"FORWARD_FAILURE\", \"message\": \"AMICI forward simulation failed at t = 16.9754: AMICI failed to integrate the forward problem\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 90,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11230193099981989,
+    "fval": 2292325.4913245644,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.07292799999999999,
+      0.015766,
+      0.012601000000000001
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 91,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08484861100077978,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERR_FAILURE",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.080476,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:ERR_FAILURE\", \"message\": \"At t = 0.00821187 and h = -1.34088e-08, the error test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:ERR_FAILURE\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 0 (check debug logs for details): AMICI failed to integrate the backward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 92,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09563894299935782,
+    "fval": 76527.65901355255,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.043398000000000006,
+      0.026809,
+      0.013459
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 93,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.12585682300050394,
+    "fval": 70863245.91904101,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.056292999999999996,
+      0.035326,
+      0.020708999999999998
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 94,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.11000898600104847,
+    "fval": 665.0886735982873,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.058876,
+      0.027907,
+      0.011856
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 95,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.2788860719992954,
+    "fval": 35033522905546.258,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.099163,
+      0.034553,
+      0.133596
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 96,
+    "sensitivity_method": "asa",
+    "time_obj_s": 1.914341231000435,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_ERR_FAILURE",
+      "AMICI_NOT_RUN",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      1.909799,
+      0.0,
+      0.0
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:ERR_FAILURE\", \"message\": \"At t = 0.0343796 and h = -3.5673e-08, the error test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:ERR_FAILURE\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 0 (check debug logs for details): AMICI failed to integrate the backward problem\"}]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 97,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.17063807500016992,
+    "fval": Infinity,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      ""
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_ERR_FAILURE",
+      "AMICI_NOT_RUN"
+    ],
+    "amici_cpu_times_total_s": [
+      0.100733,
+      0.060878,
+      0.0
+    ],
+    "amici_messages": [
+      "[]",
+      "[{\"severity\": 2, \"identifier\": \"cvodes:cvHandleFailure:ERR_FAILURE\", \"message\": \"At t = 0.17843 and h = -2.03232e-07, the error test failed repeatedly or with |h| = hmin.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:ERR_FAILURE\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 0 (check debug logs for details): AMICI failed to integrate the backward problem\"}]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 98,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.08999598499940475,
+    "fval": 586075.7921320071,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.057802,
+      0.0154,
+      0.0067
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Laske_PLOSComputBiol2019",
+    "sample_idx": 99,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.17051790799814626,
+    "fval": 3473421777685281.0,
+    "condition_ids": [
+      "virus_infection",
+      "virus_infection_2",
+      "virus_infection_3"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS",
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.073438,
+      0.056967,
+      0.027367000000000002
+    ],
+    "amici_messages": [
+      "[]",
+      "[]",
+      "[]"
+    ]
+  }
+]

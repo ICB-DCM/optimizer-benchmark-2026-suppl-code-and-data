@@ -1,0 +1,5702 @@
+[
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 0,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0009620139999242383,
+    "fval": 450233043124.2157,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00055
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 1,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007061109999995097,
+    "fval": 6917831087.910647,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000453
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 2,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005021540000598179,
+    "fval": 10909204632311.352,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00028199999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 3,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006704640001089501,
+    "fval": 10422966649.03406,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000435
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 4,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005543440000792543,
+    "fval": 28374606607.455666,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000317
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 5,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006373460000759223,
+    "fval": 345620.4687004814,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000426
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 6,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005583309999792618,
+    "fval": 27443256.094462052,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000356
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 7,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004786580000200047,
+    "fval": 786469.2426797524,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00028199999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 8,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007873089999748117,
+    "fval": 364057766.60603577,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005819999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 9,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006213890000026367,
+    "fval": 864375824.3161792,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00041299999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 10,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006208969999761393,
+    "fval": 16807608556133.467,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00041799999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 11,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006012989999817364,
+    "fval": 265844.8091061919,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00040500000000000003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 12,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00047115300003497396,
+    "fval": 133419121.6336161,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000262
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 13,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00048294199996234966,
+    "fval": 4490225.134677966,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000283
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 14,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005322880000449004,
+    "fval": 1006151673130.3663,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00033600000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 15,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007294650000631009,
+    "fval": 10141531016.936771,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000536
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 16,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008016279999765175,
+    "fval": 282973686286.14325,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000593
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 17,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005662280000251485,
+    "fval": 80110998250.74507,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000367
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 18,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005489229999966483,
+    "fval": 1016916.6046351523,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00035299999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 19,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0009124419999579914,
+    "fval": 604293721507.2673,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000718
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 20,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006823360000680623,
+    "fval": 516790963882.4764,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000491
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 21,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006561120000014853,
+    "fval": 270954798.32061,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000453
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 22,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006283289999373665,
+    "fval": 16513535666.754427,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000433
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 23,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005169990000695179,
+    "fval": 890209762.8038075,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000324
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 24,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007463990000360354,
+    "fval": 123141.50597260399,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005570000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 25,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00041759999999158026,
+    "fval": 27150833761.401726,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000222
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 26,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00037760999998681655,
+    "fval": 2481763.0702310405,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00017
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 27,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00044244600007914414,
+    "fval": 13825254689780.291,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000242
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 28,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005467359999329346,
+    "fval": 1156.0513540963132,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00035099999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 29,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007297550000657793,
+    "fval": 827.6190318605696,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00046800000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 30,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007928350000838691,
+    "fval": 104161890.36346142,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000535
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 31,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007023890000255051,
+    "fval": 33979342271.252186,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000482
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 32,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008985580000171467,
+    "fval": 12645821837.08738,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000678
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 33,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0009136470000612462,
+    "fval": 34981268340.06736,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0007059999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 34,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010490770000615157,
+    "fval": 1879.2599773890254,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000847
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 35,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005323969999153633,
+    "fval": 29841791439533.836,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000335
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 36,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007246390000545944,
+    "fval": 6633511309.744533,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000528
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 37,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006814349999331171,
+    "fval": 63593372964.42911,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00047299999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 38,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005015369999910035,
+    "fval": 5661648.105183219,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000294
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 39,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005574979999209972,
+    "fval": 182757281121418.47,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00035999999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 40,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007109580000133064,
+    "fval": 11144650667072.393,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000517
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 41,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006002100000159771,
+    "fval": 7348958515439.499,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00041
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 42,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006040399999847068,
+    "fval": 295896044.90525216,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00040899999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 43,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005511599999863392,
+    "fval": 11172.598122050736,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000339
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 44,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004684609999685563,
+    "fval": 174481253561464.78,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000268
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 45,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005308280000235754,
+    "fval": 1012020448673.6516,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00033400000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 46,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007970590000923039,
+    "fval": 33062136211.355213,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000605
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 47,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006837169999016623,
+    "fval": 13363077308670.373,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000481
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 48,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008699420000084501,
+    "fval": 1163540885.2674038,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000662
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 49,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0003437749999193329,
+    "fval": 2651100424.179656,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00014299999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 50,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00044485000000804575,
+    "fval": 32219475.835455965,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000253
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 51,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007326490000423291,
+    "fval": 3611467895065.704,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000544
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 52,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006881000000475979,
+    "fval": 360.05642269574633,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000484
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 53,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005185029999665858,
+    "fval": 3378299373431.0293,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000319
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 54,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005935679999993226,
+    "fval": 51356.39720127527,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00040300000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 55,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005540579999205875,
+    "fval": 127399140692.372,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00036199999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 56,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008313189999853421,
+    "fval": 1121154.193185479,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000622
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 57,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005595689999609021,
+    "fval": 52634693835429.234,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000365
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 58,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007992289999947388,
+    "fval": 29272633591.721542,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000605
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 59,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005021549999355557,
+    "fval": 71827913763.84096,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 60,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00037781000003178633,
+    "fval": 42608593234.83804,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000186
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 61,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006887609999921551,
+    "fval": 13691.7593465392,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 62,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008978160000197022,
+    "fval": 446247752483.4966,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000708
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 63,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005119290000266119,
+    "fval": 2245639495377.8574,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000314
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 64,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005704469999727735,
+    "fval": 362859222637.6819,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000377
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 65,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00073521100000562,
+    "fval": 137489656937272.78,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005470000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 66,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000656151000043792,
+    "fval": 319.8025415427086,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00046600000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 67,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0009050400000205627,
+    "fval": 73827004259.71692,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0007
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 68,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008206910000581047,
+    "fval": 1607006255089.267,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000618
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 69,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004923059999555335,
+    "fval": 179023521789870.06,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00029099999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 70,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000641161999965334,
+    "fval": 2760109926301.266,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000447
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 71,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005209600000171122,
+    "fval": 653901455.5881622,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000333
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 72,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0009616459999506333,
+    "fval": 771410.1729588322,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00045900000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 73,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010753929999509637,
+    "fval": 224204065352.24786,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00085
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 74,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007676559999936217,
+    "fval": 264.3430949900597,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000558
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 75,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005532500000526852,
+    "fval": 3508291938735.2188,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00035099999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 76,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005300100000340535,
+    "fval": 1381718253.74836,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000326
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 77,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007177679999585962,
+    "fval": 375709357888966.75,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000503
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 78,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007033310000679194,
+    "fval": 1769470.9753809313,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000498
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 79,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006522749999930966,
+    "fval": 3909815039.3293595,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000451
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 80,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007726000000047861,
+    "fval": 2764260.6903287023,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000579
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 81,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006039080000164176,
+    "fval": 5456745306.082047,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000395
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 82,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010140159999991738,
+    "fval": 103310691.48399219,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000812
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 83,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005403540000088469,
+    "fval": 4934574.412249613,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00034300000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 84,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00052111699994839,
+    "fval": 4190787.282757762,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00032900000000000003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 85,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005980399999998554,
+    "fval": 8298607.666040513,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000399
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 86,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008062210000616687,
+    "fval": 1176.883157100516,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0006
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 87,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005650939999668481,
+    "fval": 8531005921688.532,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000352
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 88,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005619639999849824,
+    "fval": 2402196573.5137963,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000356
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 89,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008545059999960358,
+    "fval": 3074036.4399215123,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000657
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 90,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004955079999717782,
+    "fval": 385573822470827.75,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 91,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008112790000041059,
+    "fval": 18700692.854049377,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000616
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 92,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008715090000350756,
+    "fval": 63475373.30487849,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000665
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 93,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005223110000542874,
+    "fval": 7279451693.677723,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000324
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 94,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006390159999227762,
+    "fval": 1711399893620.1562,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000443
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 95,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00047878500004117086,
+    "fval": 17489319387.117695,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000272
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 96,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004606219999914174,
+    "fval": 731245688.2444749,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000263
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 97,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006184789999679197,
+    "fval": 3952.0889369373585,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00042699999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 98,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005172449999690798,
+    "fval": 52225.98025381105,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000322
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 99,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000517160000072181,
+    "fval": 823212041.6387429,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000317
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 0,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006021257000043079,
+    "fval": 450233043124.2157,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005585
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 1,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0070974530000285085,
+    "fval": 6917831087.910677,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006698000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 2,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.003361042999927122,
+    "fval": 10909204632314.148,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002985
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 3,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004703941999991912,
+    "fval": 10422966649.03406,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00434
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 4,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005143805999978213,
+    "fval": 28374606606.156673,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004772
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 5,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006689635000043381,
+    "fval": 345620.4687004534,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006324
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 6,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.00536663499997303,
+    "fval": 27443254.27661907,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 7,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004164427999967302,
+    "fval": 786469.2426797384,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0038079999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 8,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.018238742999983515,
+    "fval": 364057767.06223273,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.017838
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 9,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005635353000002397,
+    "fval": 864375824.3161769,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005254
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 10,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005151221000005535,
+    "fval": 16807608555779.873,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004771
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 11,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005091777999950864,
+    "fval": 265844.8091061918,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004732
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 12,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0032351580000522517,
+    "fval": 133419121.63361599,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002867
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 13,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004070055999932265,
+    "fval": 4490225.134677951,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003716
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 14,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0039989630000718535,
+    "fval": 1006151675607.0502,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003626
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 15,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006540849999964848,
+    "fval": 10141531016.936813,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00618
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 16,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.00690416500003721,
+    "fval": 282973686286.14325,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0065439999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 17,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005500551000068299,
+    "fval": 80110998250.74521,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00513
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 18,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004071788000032939,
+    "fval": 1016916.6047629734,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0037040000000000003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 19,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.01981118800006243,
+    "fval": 604293721525.0936,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019403
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 20,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006471370999975079,
+    "fval": 516790963870.5168,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0060609999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 21,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005336570000054053,
+    "fval": 270954798.32061034,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004956
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 22,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005357751000019562,
+    "fval": 16513535704.751604,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00497
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 23,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0040134379999017256,
+    "fval": 890209761.4834479,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003642
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 24,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0064949459999752435,
+    "fval": 123141.50597260405,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006096
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 25,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004548620000036863,
+    "fval": 27150833761.401726,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004169
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 26,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.002696203999903446,
+    "fval": 2481763.0702310316,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002312
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 27,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004220718999931705,
+    "fval": 13825254689780.285,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0038309999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 28,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0077801319999935,
+    "fval": 1156.0513540923967,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007396
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 29,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005656478999981118,
+    "fval": 827.6190318605696,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005261999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 30,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.007497783000076197,
+    "fval": 104161890.46793222,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007091999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 31,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.007738503000041419,
+    "fval": 33979342271.252186,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007326
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 32,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.00857737499995892,
+    "fval": 12645821836.8819,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008162
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 33,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.008722268999918015,
+    "fval": 34981268340.65121,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008308
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 34,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.010316557999999532,
+    "fval": 1879.2599773889008,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009883
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 35,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005978181000045879,
+    "fval": 29841791422878.453,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005566
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 36,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006379905000017061,
+    "fval": 6633511309.763851,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005971
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 37,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006330962999982148,
+    "fval": 63593372964.42911,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00591
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 38,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004787845000009838,
+    "fval": 5661648.105183219,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004396
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 39,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004932828000050904,
+    "fval": 182757281121418.3,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004313
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 40,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005996256000003086,
+    "fval": 11144650667072.393,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005586000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 41,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004824869999993098,
+    "fval": 7348958515435.048,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004429000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 42,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.007998681000003671,
+    "fval": 295896044.90442765,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0076029999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 43,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.003630851000025359,
+    "fval": 11172.59812205073,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0032440000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 44,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0038173290000713678,
+    "fval": 174481253561464.75,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003433
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 45,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006580570999972224,
+    "fval": 1012020448673.6516,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006196
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 46,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006688761999953385,
+    "fval": 33062136211.355213,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006299000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 47,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006217784999989817,
+    "fval": 13363077308670.375,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00584
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 48,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.01725050300001385,
+    "fval": 1163540883.8808112,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.016823
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 49,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0018695180000349865,
+    "fval": 2651100424.179584,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001488
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 50,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0031610610000143424,
+    "fval": 32219475.835456282,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0027890000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 51,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006051349000017581,
+    "fval": 3611467895065.704,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005682
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 52,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006351800999937041,
+    "fval": 360.05642269235733,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0059770000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 53,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004063384999994923,
+    "fval": 3378299373569.2744,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003691
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 54,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005896332000020266,
+    "fval": 51356.39720127531,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005526
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 55,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005992384999899514,
+    "fval": 127399140692.18127,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00561
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 56,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006629417999988618,
+    "fval": 1121154.193185479,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006252
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 57,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006139612999959354,
+    "fval": 52634693821206.01,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005757
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 58,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.007311580000077811,
+    "fval": 29272633591.56286,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006936
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 59,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005337697999948432,
+    "fval": 71827913763.84094,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004959
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 60,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0025866569999379863,
+    "fval": 42608593234.838066,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002225
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 61,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005914490999998634,
+    "fval": 13691.75934684412,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005552
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 62,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.007769931999973778,
+    "fval": 446247752478.9314,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0074
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 63,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005921092999983557,
+    "fval": 2245639495377.859,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005552
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 64,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004727067999965584,
+    "fval": 362859222637.68164,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004359
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 65,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0068021270000144796,
+    "fval": 137489656931933.06,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006429000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 66,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005208014000004368,
+    "fval": 319.80254154270847,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004835
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 67,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.010244920999980422,
+    "fval": 73827003531.10406,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009826
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 68,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.007286880000037854,
+    "fval": 1607006255089.2727,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006859
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 69,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.003906508999989455,
+    "fval": 179023521789869.97,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003523
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 70,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005552397999963432,
+    "fval": 2760109926301.282,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005182
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 71,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005763462000004438,
+    "fval": 653901444.0223242,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005386999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 72,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006855283000049894,
+    "fval": 771410.1692419419,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006467
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 73,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.01050938799994583,
+    "fval": 224204065352.25043,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010119999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 74,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.007111893999990571,
+    "fval": 264.3430950128444,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006728
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 75,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006669911000017237,
+    "fval": 3508291940280.45,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006297
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 76,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.00531598899999608,
+    "fval": 1381718253.74836,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004946
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 77,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006371028999978989,
+    "fval": 375709357889046.2,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00601
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 78,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0057751379999899655,
+    "fval": 1769470.9753801003,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005413
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 79,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005693702999906236,
+    "fval": 3909815039.329354,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005335
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 80,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.007948265999971227,
+    "fval": 2764260.6903255703,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007572
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 81,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006106755000018893,
+    "fval": 5456745306.081997,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005744
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 82,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.009285481000006257,
+    "fval": 103310691.4839922,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008909
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 83,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0041220890000204236,
+    "fval": 4934574.412248417,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003748
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 84,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0050691260000803595,
+    "fval": 4190787.2793420246,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004696
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 85,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004599155000050814,
+    "fval": 8298607.666040513,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004226
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 86,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.009892071999956897,
+    "fval": 1176.8831569666806,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009521
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 87,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004583096999908776,
+    "fval": 8531005921688.53,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004193
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 88,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0052173269999684635,
+    "fval": 2402196573.5137963,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004844
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 89,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.009868092000033357,
+    "fval": 3074036.4399199593,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009474
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 90,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004380207000053815,
+    "fval": 385573822470825.56,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0040030000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 91,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006504552999899715,
+    "fval": 18700692.854049377,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006115000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 92,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.008932758000014474,
+    "fval": 63475373.269514844,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008536
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 93,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004096848000017417,
+    "fval": 7279451693.677644,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003709
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 94,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005987827000012658,
+    "fval": 1711399893620.1714,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005599
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 95,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0037824150000460577,
+    "fval": 17489319387.117695,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003406
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 96,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.00466552699992917,
+    "fval": 731245688.2444749,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004286
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 97,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005154059000005873,
+    "fval": 3952.0889369373626,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004777
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 98,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0046846939999340975,
+    "fval": 52225.98025381105,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00431
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 99,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004896179000070333,
+    "fval": 823212041.6387427,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0045179999999999994
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 0,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.09091246899993166,
+    "fval": 450233043124.2157,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.088323
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 1,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.026693623999904048,
+    "fval": 6917831087.910647,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023827
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 2,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03313388499998382,
+    "fval": 10909204632311.352,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030311
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 3,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06020429099999092,
+    "fval": 10422966649.03406,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.057104999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 4,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0201906570000574,
+    "fval": 28374606607.455666,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.017233000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 5,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04835163300003842,
+    "fval": 345620.4687004814,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.044714
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 6,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.014253348000011101,
+    "fval": 27443256.094462052,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.011323999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 7,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.020389249000004384,
+    "fval": 786469.2426797524,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.017147
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 8,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0323281279999037,
+    "fval": 364057766.60603577,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.029288
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 9,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.019791952000105084,
+    "fval": 864375824.3161792,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.017032
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 10,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02364578899994285,
+    "fval": 16807608556133.467,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020783000000000003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 11,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.033078906000014285,
+    "fval": 265844.8091061919,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030195
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 12,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04269790800003648,
+    "fval": 133419121.6336161,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039993
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 13,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.019016082999996797,
+    "fval": 4490225.134677966,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.016669
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 14,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02192643599994426,
+    "fval": 1006151673130.3663,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.019216
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 15,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.020350506999989193,
+    "fval": 10141531016.936771,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.017638
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 16,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04876166999997622,
+    "fval": 282973686286.14325,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.046036
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 17,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.019465308999997433,
+    "fval": 80110998250.74507,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.016791
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 18,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.023699508000049718,
+    "fval": 1016916.6046351523,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020849
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 19,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04801121499997407,
+    "fval": 604293721507.2673,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.045204999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 20,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.012076146999902448,
+    "fval": 516790963882.4764,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.009506
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 21,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02354026000000431,
+    "fval": 270954798.32061,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02056
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 22,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.007465883000008944,
+    "fval": 16513535666.754427,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005083
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 23,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.01589330899992092,
+    "fval": 890209762.8038075,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013412
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 24,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02165237999997771,
+    "fval": 123141.50597260399,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018896
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 25,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02590969599998516,
+    "fval": 27150833761.401726,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023156
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 26,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.013106295000056889,
+    "fval": 2481763.0702310405,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010772
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 27,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02718633500001033,
+    "fval": 13825254689780.291,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024433
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 28,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02914649299998473,
+    "fval": 1156.0513540963132,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026449999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 29,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04138996400001815,
+    "fval": 827.6190318605696,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.03847
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 30,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.015730310000094505,
+    "fval": 104161890.36346142,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013102
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 31,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05237801700002365,
+    "fval": 33979342271.252186,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.048909999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 32,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.021957471999940026,
+    "fval": 12645821837.08738,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.01908
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 33,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.019973900000081812,
+    "fval": 34981268340.06736,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.01701
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 34,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.021235107000052267,
+    "fval": 1879.2599773890254,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018614000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 35,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.01521864699998332,
+    "fval": 29841791439533.836,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.012781
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 36,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.027436949999923854,
+    "fval": 6633511309.744533,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024668
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 37,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.039795392000087304,
+    "fval": 63593372964.42911,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.037083
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 38,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.029254305999984354,
+    "fval": 5661648.105183219,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026535
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 39,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03772606999996242,
+    "fval": 182757281121418.47,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034939
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 40,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.038462781000021096,
+    "fval": 11144650667072.393,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035635
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 41,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.032518860999971366,
+    "fval": 7348958515439.499,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.029663000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 42,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.029642423000041163,
+    "fval": 295896044.90525216,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026887
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 43,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.037764085999924646,
+    "fval": 11172.598122050736,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034631
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 44,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03520797999999559,
+    "fval": 174481253561464.78,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.032243
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 45,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.05702846999997746,
+    "fval": 1012020448673.6516,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.054235
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 46,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.06535440800007564,
+    "fval": 33062136211.355213,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.062622
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 47,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.038884753999923305,
+    "fval": 13363077308670.373,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.03606
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 48,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0256973980000339,
+    "fval": 1163540885.2674038,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.022869
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 49,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.01427977599996666,
+    "fval": 2651100424.179656,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.011601
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 50,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03305412099996374,
+    "fval": 32219475.835455965,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.029698
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 51,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07931223900004625,
+    "fval": 3611467895065.704,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.076107
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 52,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.023395348999997623,
+    "fval": 360.05642269574633,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020659
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 53,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.018510421999963,
+    "fval": 3378299373431.0293,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.015891
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 54,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.024142506999965008,
+    "fval": 51356.39720127527,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.021467
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 55,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03174873600005412,
+    "fval": 127399140692.372,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028957999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 56,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07500659799995901,
+    "fval": 1121154.193185479,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.072229
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 57,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.019367003999946064,
+    "fval": 52634693835429.234,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.016951
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 58,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02378105200000391,
+    "fval": 29272633591.721542,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.020927
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 59,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.050563135000061266,
+    "fval": 71827913763.84096,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.047744
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 60,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.014927624000051765,
+    "fval": 42608593234.83804,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.012333
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 61,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0200608379999494,
+    "fval": 13691.7593465392,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.017463
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 62,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03598685600002227,
+    "fval": 446247752483.4966,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.033177
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 63,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03908649599998171,
+    "fval": 2245639495377.8574,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.036162
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 64,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.052061725000044135,
+    "fval": 362859222637.6819,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.049271
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 65,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03244356899995182,
+    "fval": 137489656937272.78,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.029744
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 66,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.029968724000013935,
+    "fval": 319.8025415427086,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.027084
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 67,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.01952302100005454,
+    "fval": 73827004259.71692,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.016651
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 68,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.019362726000053954,
+    "fval": 1607006255089.267,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.016260999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 69,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0159759530000656,
+    "fval": 179023521789870.06,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013361000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 70,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.018443296999976155,
+    "fval": 2760109926301.266,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.01576
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 71,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.01636774600001445,
+    "fval": 653901455.5881622,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013899
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 72,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.017121911999993245,
+    "fval": 771410.1729588322,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.014401
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 73,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02390025899990178,
+    "fval": 224204065352.24786,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02116
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 74,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.022933287000000746,
+    "fval": 264.3430949900597,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02028
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 75,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.017724725999983093,
+    "fval": 3508291938735.2188,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.015170999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 76,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03312459799997214,
+    "fval": 1381718253.74836,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030384
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 77,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.037302152999927785,
+    "fval": 375709357888966.75,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.034497
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 78,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0348594580000281,
+    "fval": 1769470.9753809313,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.031942
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 79,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.031618912999988424,
+    "fval": 3909815039.3293595,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.028562
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 80,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.024616849999915758,
+    "fval": 2764260.6903287023,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.021478999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 81,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02832481400002962,
+    "fval": 5456745306.082047,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.024997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 82,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.07175860300003478,
+    "fval": 103310691.48399219,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.06889400000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 83,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.016276176000019404,
+    "fval": 4934574.412249613,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.013673999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 84,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010024489999977959,
+    "fval": 4190787.282757762,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0077220000000000006
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 85,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.029611696000074517,
+    "fval": 8298607.666040513,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026853000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 86,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02466711900001428,
+    "fval": 1176.883157100516,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.022053999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 87,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02407577899998614,
+    "fval": 8531005921688.532,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.021390999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 88,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03298389299993687,
+    "fval": 2402196573.5137963,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030131
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 89,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.02671225799997501,
+    "fval": 3074036.4399215123,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.023856000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 90,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.018661971000028643,
+    "fval": 385573822470827.75,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.015967000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 91,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.038165112999990924,
+    "fval": 18700692.854049377,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.035075
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 92,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.021812855000007403,
+    "fval": 63475373.30487849,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.018941
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 93,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.019032599999945887,
+    "fval": 7279451693.677723,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.016467
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 94,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04209018400001696,
+    "fval": 1711399893620.1562,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039265
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 95,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.04209903299999951,
+    "fval": 17489319387.117695,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.039329
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 96,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.041167879999989054,
+    "fval": 731245688.2444749,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.038323
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 97,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.03339706600002046,
+    "fval": 3952.0889369373585,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.030436
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 98,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.060759740999969836,
+    "fval": 52225.98025381105,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.05781
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Boehm_JProteomeRes2014",
+    "sample_idx": 99,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.028469725000036306,
+    "fval": 823212041.6387429,
+    "condition_ids": [
+      "model1_data1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.02556
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[project]
+name = "data-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "distinctipy>=1.3.4",
+    "fastcluster>=1.3.0",
+    "h5py>=3.16.0",
+    "jinja2>=3.1.6",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.0",
+    "nbconvert>=7.17.1",
+    "nlopt==2.8.0",
+    "numpy>=2.5.1",
+    "pandas>=3.0.3",
+    "petab>=0.8.2",
+    "pycomplexheatmap>=1.8.5",
+    "pyscat==0.1.0",
+    "sbmlmath>=0.4.1",
+    "scikit-learn>=1.9.0",
+    "statsmodels>=0.14.6",
+    "sympy>=1.14.0",
+]
+
+[tool.ruff]
+line-length = 79
+lint.extend-select = [
+    "T", "W", "E", "F", "B", "C", "S", "I", "UP",
+]
+lint.ignore = [
+    "S101",  # Use of assert detected
+    "F405",  # star import
+    "F403",  # star import
+    "E501",  # Line too long
+    "T201",  # print statement0
+    "E741",  # ambiguous variable name
+    "C901",  # function is too complex
+    "C408",  # unnecessary dict call
+]
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.6.0",
+]

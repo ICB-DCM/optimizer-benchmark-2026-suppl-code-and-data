@@ -1,0 +1,40 @@
+name: Data analysis
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data_analysis/**"
+      - ".github/workflows/data-analysis.yml"
+  pull_request:
+    paths:
+      - "data_analysis/**"
+      - ".github/workflows/data-analysis.yml"
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@11f9893b081a58869d3b5fccaea48c9e9e46f990
+        with:
+          # caches the uv cache dir via actions/cache, keyed on uv.lock
+          enable-cache: true
+          cache-dependency-glob: "data_analysis/uv.lock"
+
+      - name: Run data analysis pipeline
+        working-directory: data_analysis
+        run: ./run_all.sh
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: data-analysis-results
+          path: |
+            data_analysis/out
+            data_analysis/*.ipynb
+          retention-days: 7

@@ -1,0 +1,5702 @@
+[
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 0,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000701400000252761,
+    "fval": 579.5337652197763,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000301
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 1,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010296800028299913,
+    "fval": 289.9848197526639,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00079
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 2,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004852339989156462,
+    "fval": 554.0618177398588,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00028399999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 3,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0003034879991901107,
+    "fval": 352.14158952368524,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00010899999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 4,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000512471997353714,
+    "fval": 362712.3878355944,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00033
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 5,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004119849982089363,
+    "fval": 289.40632986289313,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000232
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 6,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00026733600316219963,
+    "fval": 324.69069005111857,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      9.2e-05
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 7,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005107659999339376,
+    "fval": 284.4827869933771,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000323
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 8,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004377040022518486,
+    "fval": 561.8538223861698,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000259
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 9,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006736719988111872,
+    "fval": 556.3659397567004,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000501
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 10,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0003185479981766548,
+    "fval": 14971.415790145473,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000149
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 11,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000709100000676699,
+    "fval": 589.1761878534012,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000526
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 12,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005103679977764841,
+    "fval": 158777507419381.4,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000332
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 13,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010558950016275048,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000871
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 14,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000283303001197055,
+    "fval": 847750338207162.0,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      9.3e-05
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 15,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000951991998590529,
+    "fval": 951.4626954098262,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000772
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 16,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00046351600030902773,
+    "fval": 1.481790903211627e+20,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00028399999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 17,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008406729975831695,
+    "fval": 577.9083921173734,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000655
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 18,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004291639997973107,
+    "fval": 488.85932880544686,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000249
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 19,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00027186700026504695,
+    "fval": 5.386870609369952e+19,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      9.6e-05
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 20,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007466040005965624,
+    "fval": 3222117396197206.5,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000569
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 21,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007618669988005422,
+    "fval": 2850657653.77041,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000575
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 22,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00029216500115580857,
+    "fval": 1154097385586745.5,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00011300000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 23,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007354770023084711,
+    "fval": 475.87291168728564,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005639999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 24,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008869420016708318,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0006979999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 25,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008569530000386294,
+    "fval": 572.1149193752054,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000671
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 26,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0003949409983761143,
+    "fval": 308.26907115332295,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000216
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 27,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004642569983843714,
+    "fval": 526.9654639896418,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00029099999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 28,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0002821689995471388,
+    "fval": 501.84146877224487,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000102
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 29,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006985229993006214,
+    "fval": 546.5358415310058,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005200000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 30,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00040319299660040997,
+    "fval": 779.9603253546856,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000222
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 31,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005567090011027176,
+    "fval": 282.1276941231939,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000384
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 32,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010517000009713229,
+    "fval": 467.8509992365968,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000884
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 33,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004601359978551045,
+    "fval": 10892090519.057817,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00029299999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 34,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008922300003177952,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000705
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 35,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000291160999040585,
+    "fval": 320.85915474876055,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00011700000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 36,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008800370014796499,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000707
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 37,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007413080020342022,
+    "fval": 316.72975372940306,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005570000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 38,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00047658699986641295,
+    "fval": 6697.773304375586,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000298
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 39,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008932939999795053,
+    "fval": 474.30334940774856,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000707
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 40,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010975449986290187,
+    "fval": 10816525457.479494,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00092
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 41,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007359379997069482,
+    "fval": 537.3228410775238,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005610000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 42,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0002856899991456885,
+    "fval": 305.20065705847185,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000104
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 43,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007005349980317988,
+    "fval": 1099990767434632.5,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000528
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 44,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0002629730006447062,
+    "fval": 459.9858420977245,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      9.5e-05
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 45,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0003168029979860876,
+    "fval": 330.37937434321293,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000152
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 46,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006939169979887083,
+    "fval": 1.852408426693716e+20,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000528
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 47,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00044245500248507597,
+    "fval": 22309.669697143894,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000264
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 48,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00037604600220220163,
+    "fval": 379.7745380745332,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000203
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 49,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0002530590027163271,
+    "fval": 556.2689308106943,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      8.8e-05
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 50,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00026417200206196867,
+    "fval": 2.067743507077993e+20,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      8.9e-05
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 51,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0009984850003093015,
+    "fval": 599.1208654140833,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00082
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 52,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00038150299951666966,
+    "fval": 1182909.3073787463,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000208
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 53,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00027730500005418435,
+    "fval": 596.9283544452519,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000112
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 54,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00036776599881704897,
+    "fval": 324.98950277995755,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000186
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 55,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00043020299926865846,
+    "fval": 490.13428808367826,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000259
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 56,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000679015000059735,
+    "fval": 302.91877542606045,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000513
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 57,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000372377999156015,
+    "fval": 342.20187743134494,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000208
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 58,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010059179985546507,
+    "fval": 152248470224.63013,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00083
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 59,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008983859988802578,
+    "fval": 312.21647576799614,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000721
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 60,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0002669630011951085,
+    "fval": 432.0545859002023,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      9.800000000000001e-05
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 61,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0003349049984535668,
+    "fval": 511.8471338517074,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00016700000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 62,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010731809998105746,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0008810000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 63,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0005248600027698558,
+    "fval": 393.76571621015586,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000333
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 64,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00027465099992696196,
+    "fval": 516.3901111226409,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      9.3e-05
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 65,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00045151599988457747,
+    "fval": 392975562.7819263,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00028000000000000003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 66,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007037670002318919,
+    "fval": 373.67359889251145,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000532
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 67,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00039228999958140776,
+    "fval": 236.58631887159817,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000212
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 68,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011105609992227983,
+    "fval": 44504776.834315725,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0009350000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 69,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007725019968347624,
+    "fval": 820018.9443203736,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000602
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 70,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006818190013291314,
+    "fval": 1634156.791766327,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000517
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 71,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004571489989757538,
+    "fval": 291314911.68097043,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000292
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 72,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0003986650008300785,
+    "fval": 337.6654367564289,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000224
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 73,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001100465000490658,
+    "fval": 55568.99608458157,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000585
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 74,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00041587200030335225,
+    "fval": 596.9420149044672,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00020899999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 75,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000458203001471702,
+    "fval": 378.84028177090295,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00026900000000000003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 76,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011245889982092194,
+    "fval": 1464790994716018.0,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000939
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 77,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0003174109988322016,
+    "fval": 2119.545897756316,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000125
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 78,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007410850012092851,
+    "fval": 492303343.95102286,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000559
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 79,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007427149976138026,
+    "fval": 467.1401177610741,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000566
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 80,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011951019987463951,
+    "fval": 527.8248286467123,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001019
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 81,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0007492090007872321,
+    "fval": 545.3934919433374,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005620000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 82,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000793291001173202,
+    "fval": 367.72868330048493,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000611
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 83,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00028279599791858345,
+    "fval": 2862786403.0344486,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00011
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 84,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00027183899874216877,
+    "fval": 19806786521.890892,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      9.900000000000001e-05
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 85,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0010850690014194697,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000896
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 86,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0003165849993820302,
+    "fval": 268.3113944324458,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00014000000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 87,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0011387609993107617,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0009609999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 88,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000844494003104046,
+    "fval": 301.3043422704169,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000656
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 89,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.001016080001136288,
+    "fval": 419.6175037547655,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000832
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 90,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00027541499730432406,
+    "fval": 262.2806213532257,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000101
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 91,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006525299977511168,
+    "fval": 447.4263837397735,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000481
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 92,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004899920022580773,
+    "fval": 298.5811490628576,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000308
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 93,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0008995669995783828,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000721
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 94,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.000526232997799525,
+    "fval": 22384829.085198976,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00035499999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 95,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0004969530018570367,
+    "fval": 2.6893159990460344e+18,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000322
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 96,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006765800026187208,
+    "fval": 36755915.81949169,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000486
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 97,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0006975039977987763,
+    "fval": 1.8577905064521628e+18,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000515
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 98,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.00039929400008986704,
+    "fval": 603.5845387615037,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000225
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 99,
+    "sensitivity_method": "none",
+    "time_obj_s": 0.0009964300006686244,
+    "fval": 3631996520715380.0,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000824
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 0,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.001112740003009094,
+    "fval": 579.5337652197763,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000728
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 1,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004223911000735825,
+    "fval": 289.98481975694716,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003898
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 2,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.001971764999325387,
+    "fval": 554.0618177398588,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001657
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 3,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0009323649974248838,
+    "fval": 352.1415895236854,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000615
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 4,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0020653239989769645,
+    "fval": 362712.3874629153,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0017629999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 5,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.001574114001414273,
+    "fval": 289.40632990680666,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001264
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 6,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0007598420015710872,
+    "fval": 324.69069005111857,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000449
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 7,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.002285345002746908,
+    "fval": 284.4827869942243,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001981
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 8,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.00175321699862252,
+    "fval": 561.8538223861698,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0014570000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 9,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0036525460018310696,
+    "fval": 556.3659397567004,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003336
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 10,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0010176799987675622,
+    "fval": 14971.41616968621,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0007099999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 11,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0030353389993251767,
+    "fval": 589.1761878534012,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00273
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 12,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0021204840013524517,
+    "fval": 158777507104556.94,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0018
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 13,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.005476329999510199,
+    "fval": 1.368146862670123e+18,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0051589999999999995
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 14,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0008266919976449572,
+    "fval": 847750338207081.1,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00051
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 15,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0039410429999406915,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003701
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 16,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.002208854999480536,
+    "fval": 1.4817908337287453e+20,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0018919999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 17,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004633297001419123,
+    "fval": 577.9083921173734,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0043170000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 18,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0016912239989324007,
+    "fval": 488.85932880544686,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001382
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 19,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0008661270003358368,
+    "fval": 5.3868706091123745e+19,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000565
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 20,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0032163100004254375,
+    "fval": 3222117399712942.0,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00292
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 21,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.002969440000015311,
+    "fval": 2850661501.199202,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0026579999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 22,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0008785389982222114,
+    "fval": 1154097385507546.0,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005629999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 23,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0030723320014658384,
+    "fval": 475.87291168728564,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002762
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 24,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.003950895003072219,
+    "fval": 2664475630.5303025,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0036349999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 25,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0065412290023232345,
+    "fval": 572.1149193752054,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006207
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 26,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0013766689990006853,
+    "fval": 308.26907115332676,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001063
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 27,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0019312040021759458,
+    "fval": 526.9654639896418,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0016200000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 28,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0009350260006613098,
+    "fval": 501.84146877224487,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000615
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 29,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.003216398999938974,
+    "fval": 546.5358415310058,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002904
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 30,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0014966859998821747,
+    "fval": 779.9603262014729,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011799999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 31,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0025992509981733747,
+    "fval": 282.12769412566394,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002286
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 32,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.007140144000004511,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006886
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 33,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0017835010003182106,
+    "fval": 10892090080.769857,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001438
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 34,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.00416012099958607,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003919
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 35,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0009512389988231007,
+    "fval": 320.85915474876026,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000628
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 36,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004221212999254931,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003979
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 37,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.003289731001132168,
+    "fval": 316.72975372943216,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002943
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 38,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.002057836998574203,
+    "fval": 6697.773304220868,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001745
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 39,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004040060000988888,
+    "fval": 474.30334940771155,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003721
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 40,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.008227129001170397,
+    "fval": 10805327939.044355,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007687
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 41,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.003235476000554627,
+    "fval": 537.3228410775238,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0028889999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 42,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0009007150001707487,
+    "fval": 305.20065705847185,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000583
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 43,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.003445031001319876,
+    "fval": 1099990767557771.5,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0031019999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 44,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0008300209992739838,
+    "fval": 459.9858420977245,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000513
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 45,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.001030646002618596,
+    "fval": 330.37937434321196,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000727
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 46,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0030196250008884817,
+    "fval": 1.8524084281357287e+20,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002697
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 47,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0017643389983277302,
+    "fval": 22309.66975679925,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001439
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 48,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0014324160001706332,
+    "fval": 379.7745380745332,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001116
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 49,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0007226749985420611,
+    "fval": 556.2689308106943,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000422
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 50,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0007878950018493924,
+    "fval": 2.0677435070776286e+20,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00048699999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 51,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004597048999130493,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004347
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 52,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0015227240000967868,
+    "fval": 1182909.307862839,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00117
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 53,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0008969850023277104,
+    "fval": 596.9283544452519,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005819999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 54,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0013208359996497165,
+    "fval": 324.98950277994163,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0010069999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 55,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0018601259980641771,
+    "fval": 490.13428808367826,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001532
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 56,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0028143079980509356,
+    "fval": 302.91877542748097,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0024860000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 57,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0014996589998190757,
+    "fval": 342.2018774313451,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001176
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 58,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004946638000546955,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004691
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 59,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004262275997461984,
+    "fval": 312.1338320415254,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003929
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 60,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0009088259976124391,
+    "fval": 432.0545859002023,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000583
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 61,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.001223667997692246,
+    "fval": 511.8471338517074,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000909
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 62,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004886103000899311,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004631000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 63,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0022653529995295685,
+    "fval": 393.76571621015586,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001917
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 64,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0007755780025036074,
+    "fval": 516.3901111226409,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00046600000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 65,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0018793369999912102,
+    "fval": 392975603.7962786,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001577
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 66,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0029171780006436165,
+    "fval": 373.67359889251134,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0026019999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 67,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0015144319986575283,
+    "fval": 236.58631847587466,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001199
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 68,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0070618979989376385,
+    "fval": 45074583.27639898,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006736
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 69,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0033803519982029684,
+    "fval": 835902.8734300213,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0030600000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 70,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0032747269979154225,
+    "fval": 1634156.7896279935,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0029620000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 71,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0021565729985013604,
+    "fval": 291314912.3415887,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001858
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 72,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0014516640003421344,
+    "fval": 337.66543675642856,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011610000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 73,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0032057909993454814,
+    "fval": 55568.99606442187,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0028940000000000003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 74,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0014245179991121404,
+    "fval": 596.9420149044672,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0011240000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 75,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.001709248997940449,
+    "fval": 378.84028177090295,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001423
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 76,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006324914000288118,
+    "fval": 1580900393519250.0,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0060220000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 77,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0009865450010693166,
+    "fval": 2119.5458920989427,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0006770000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 78,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.002981484998599626,
+    "fval": 492303342.2548999,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002678
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 79,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0029937780018371996,
+    "fval": 467.1401177610741,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0026920000000000004
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 80,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.006608063999010483,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00637
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 81,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0030276389989012387,
+    "fval": 545.3934919433374,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0027029999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 82,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.003450862001045607,
+    "fval": 367.72855174975405,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003146
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 83,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0009547859990561847,
+    "fval": 2862786403.360081,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0006540000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 84,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0008816150002530776,
+    "fval": 19806786493.30353,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005909999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 85,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004779957002028823,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004552
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 86,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0009411320024810266,
+    "fval": 268.3113944319194,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.000625
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 87,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0075605239981086925,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00732
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 88,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.003720785996847553,
+    "fval": 301.3043422708641,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003383
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 89,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004744297999422997,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004511
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 90,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0008574780003982596,
+    "fval": 262.28062135305873,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0005340000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 91,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.003393023001990514,
+    "fval": 447.4263837397735,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003097
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 92,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.002278785999806132,
+    "fval": 298.5811490629372,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001973
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 93,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004290362001484027,
+    "fval": 8026.768949555959,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003992
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 94,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.002482357002008939,
+    "fval": 22384830.065705564,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002184
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 95,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0022216910001588985,
+    "fval": 2.6893159931172424e+18,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001916
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 96,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0032135759975062683,
+    "fval": 36755915.99425841,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002919
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 97,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.002889716997742653,
+    "fval": 1.8577905270866547e+18,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002597
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 98,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.0016208050001296215,
+    "fval": 603.5845387615037,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0013160000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 99,
+    "sensitivity_method": "fsa",
+    "time_obj_s": 0.004994655999325914,
+    "fval": 3748177612291012.5,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004696
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 0,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0049962109987973236,
+    "fval": 579.5337652197763,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002584
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 1,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010227680999378208,
+    "fval": 289.9848197526639,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007542
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 2,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0047328840009868145,
+    "fval": 554.0618177398588,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002398
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 3,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004882440000073984,
+    "fval": 352.14158952368524,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0025499999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 4,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010464306000358192,
+    "fval": 362712.3878355944,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007514
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 5,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.007886715000495315,
+    "fval": 289.40632986289313,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.005156
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 6,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004963219998899149,
+    "fval": 324.69069005111857,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0025259999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 7,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010299682002369082,
+    "fval": 284.4827869933771,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007378999999999999
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 8,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004912815998977749,
+    "fval": 561.8538223861698,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002407
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 9,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0051520119995984714,
+    "fval": 556.3659397567004,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002721
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 10,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0054037789996073116,
+    "fval": 14971.415790145473,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002883
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 11,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005174108999199234,
+    "fval": 589.1761878534012,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00266
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 12,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010434096999233589,
+    "fval": 158777507419381.4,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007488000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 13,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.00647891799962963,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003762
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (Tstar) at t=6.973000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:FIRST_RHSFUNC_ERR\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 5.972 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 14,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005289634002110688,
+    "fval": 847750338207162.0,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0026939999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 15,
+    "sensitivity_method": "asa",
+    "time_obj_s": 2.7912653679995856,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      2.787031
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 5.19011, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 4.968 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 16,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010759725999378134,
+    "fval": 1.481790903211627e+20,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007757
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 17,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.006415165000362322,
+    "fval": 577.9083921173734,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0035310000000000003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 18,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005240175996732432,
+    "fval": 488.85932880544686,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002428
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 19,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005628913997497875,
+    "fval": 5.386870609369952e+19,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002812
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 20,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010749085999123054,
+    "fval": 3222117396197206.5,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007755
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 21,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010524339002586203,
+    "fval": 2850657653.77041,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007968
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 22,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0050006700002995785,
+    "fval": 1154097385586745.5,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002604
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 23,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005520481001440203,
+    "fval": 475.87291168728564,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0031450000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 24,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005571344001509715,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003178
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (Tstar) at t=6.973000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:FIRST_RHSFUNC_ERR\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 5.972 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 25,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0053330100017774384,
+    "fval": 572.1149193752054,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002921
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 26,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.006008824002492474,
+    "fval": 308.26907115332295,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0037
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 27,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004427760002727155,
+    "fval": 526.9654639896418,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002221
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 28,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0042182529978163075,
+    "fval": 501.84146877224487,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002009
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 29,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004643985001166584,
+    "fval": 546.5358415310058,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002484
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 30,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.006372757998178713,
+    "fval": 779.9603253546856,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0042190000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 31,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010584430001472356,
+    "fval": 282.1276941231939,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007677
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 32,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.008725473002414219,
+    "fval": 467.8509992365968,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006449
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 33,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005509613998583518,
+    "fval": 10892090519.057817,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0033090000000000003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 34,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005394981999415904,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0031269999999999996
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (Tstar) at t=6.973000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:FIRST_RHSFUNC_ERR\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 5.972 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 35,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004766911999467993,
+    "fval": 320.85915474876055,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002506
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 36,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005430859000625787,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003129
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (Tstar) at t=6.973000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:FIRST_RHSFUNC_ERR\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 5.972 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 37,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.01034487399738282,
+    "fval": 316.72975372940306,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007894
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 38,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.009346579001430655,
+    "fval": 6697.773304375586,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006958
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 39,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.029853801002900582,
+    "fval": 474.30334940774856,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.026155
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 40,
+    "sensitivity_method": "asa",
+    "time_obj_s": 3.2451102980012365,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      3.241679
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 8.5143e-05, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 0 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 41,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005484338998940075,
+    "fval": 537.3228410775238,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003021
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 42,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004820172998734051,
+    "fval": 305.20065705847185,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0025009999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 43,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.009867843000392895,
+    "fval": 1099990767434632.5,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007498
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 44,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004356786997959716,
+    "fval": 459.9858420977245,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002048
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 45,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004844518000027165,
+    "fval": 330.37937434321293,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0026089999999999998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 46,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.009980664999602595,
+    "fval": 1.852408426693716e+20,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007572
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 47,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.008866290001606103,
+    "fval": 22309.669697143894,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006479
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 48,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0049433530002716,
+    "fval": 379.7745380745332,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0027170000000000002
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 49,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004173498000454856,
+    "fval": 556.2689308106943,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.001998
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 50,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004619585000909865,
+    "fval": 2.067743507077993e+20,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002448
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 51,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.012937912000779761,
+    "fval": 599.1208654140833,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010442
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 52,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0061733949987683445,
+    "fval": 1182909.3073787463,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 53,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004162672001257306,
+    "fval": 596.9283544452519,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0020299999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 54,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.00504393200026243,
+    "fval": 324.98950277995755,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002937
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 55,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004191390002233675,
+    "fval": 490.13428808367826,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0021309999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 56,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.006470102998719085,
+    "fval": 302.91877542606045,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.004375
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 57,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005627766000543488,
+    "fval": 342.20187743134494,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003444
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 58,
+    "sensitivity_method": "asa",
+    "time_obj_s": 3.3349375249999866,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      3.3314920000000003
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 1.20654, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 1.029 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 59,
+    "sensitivity_method": "asa",
+    "time_obj_s": 2.7965537079981004,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      2.793186
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 6.48569, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 5.972 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 60,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004729322001367109,
+    "fval": 432.0545859002023,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002381
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 61,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004489487000682857,
+    "fval": 511.8471338517074,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002216
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 62,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005747895997046726,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0034089999999999997
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (Tstar) at t=6.973000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:FIRST_RHSFUNC_ERR\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 5.972 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 63,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.006164787999296095,
+    "fval": 393.76571621015586,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003887
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 64,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004302052999264561,
+    "fval": 516.3901111226409,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002079
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 65,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005529153000679798,
+    "fval": 392975562.7819263,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003335
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 66,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.008507523998559918,
+    "fval": 373.67359889251145,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006144
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 67,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.006295898998359917,
+    "fval": 236.58631887159817,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0037890000000000003
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 68,
+    "sensitivity_method": "asa",
+    "time_obj_s": 2.924736123997718,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      2.9210059999999998
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.277102, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 0.169 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 69,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.13965059200199903,
+    "fval": 820018.9443203736,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.136245
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 70,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010870076999708544,
+    "fval": 1634156.791766327,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008203
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 71,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010042284997325623,
+    "fval": 291314911.68097043,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007368
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 72,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.00621846800277126,
+    "fval": 337.6654367564289,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003764
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 73,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010382942997239297,
+    "fval": 55568.99608458157,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007849
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 74,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004602962999342708,
+    "fval": 596.9420149044672,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0022949999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 75,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.006013128000631696,
+    "fval": 378.84028177090295,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003754
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 76,
+    "sensitivity_method": "asa",
+    "time_obj_s": 2.6946049010002753,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      2.6906570000000003
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.0551752, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 0 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 77,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.006174416001158534,
+    "fval": 2119.545897756316,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003287
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 78,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010848453999642516,
+    "fval": 492303343.95102286,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007732
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 79,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.00605980800173711,
+    "fval": 467.1401177610741,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0032879999999999997
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 80,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0140797729982296,
+    "fval": 527.8248286467123,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.010608000000000001
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 81,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005714413997338852,
+    "fval": 545.3934919433374,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00297
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 82,
+    "sensitivity_method": "asa",
+    "time_obj_s": 3.2338849869993282,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      3.230438
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 4.05556, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 3.987 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 83,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0053541749985015485,
+    "fval": 2862786403.0344486,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.00292
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 84,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005098568999528652,
+    "fval": 19806786521.890892,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002806
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 85,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.0057118719996651635,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003428
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (Tstar) at t=6.973000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:FIRST_RHSFUNC_ERR\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 5.972 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 86,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005087007000838639,
+    "fval": 268.3113944324458,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002847
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 87,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.005741321001551114,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.003456
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (Tstar) at t=6.973000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:FIRST_RHSFUNC_ERR\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 5.972 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 88,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.008854073003021767,
+    "fval": 301.3043422704169,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.006426
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 89,
+    "sensitivity_method": "asa",
+    "time_obj_s": 3.546609459001047,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      3.542413
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.151628, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 0.105 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 90,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.006084508000640199,
+    "fval": 262.2806213532257,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0031269999999999996
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 91,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010280559999955585,
+    "fval": 447.4263837397735,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007315
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 92,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010089570001582615,
+    "fval": 298.5811490628576,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007082
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 93,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.006432646998291602,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_FIRST_RHSFUNC_ERR"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0035169999999999997
+    ],
+    "amici_messages": [
+      "[{\"severity\": 1, \"identifier\": \"AMICI:NaN\", \"message\": \"AMICI encountered a NaN value for xBdot[0] (Tstar) at t=6.973000 \"}, {\"severity\": 2, \"identifier\": \"cvodes:CVode:FIRST_RHSFUNC_ERR\", \"message\": \"The right-hand side routine failed at the first call.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:FIRST_RHSFUNC_ERR\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 5.972 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 94,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.011071442000684328,
+    "fval": 22384829.085198976,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.008147
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 95,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010628993000864284,
+    "fval": 2.6893159990460344e+18,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0076500000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 96,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.010911251003562938,
+    "fval": 36755915.81949169,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.007909
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 97,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.007287454001925653,
+    "fval": 1.8577905064521628e+18,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.0047610000000000005
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 98,
+    "sensitivity_method": "asa",
+    "time_obj_s": 0.004643078998924466,
+    "fval": 603.5845387615037,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_SUCCESS"
+    ],
+    "amici_cpu_times_total_s": [
+      0.002278
+    ],
+    "amici_messages": [
+      "[]"
+    ]
+  },
+  {
+    "problem_id": "Perelson_Science1996",
+    "sample_idx": 99,
+    "sensitivity_method": "asa",
+    "time_obj_s": 3.0839080400000967,
+    "fval": Infinity,
+    "condition_ids": [
+      "condition1"
+    ],
+    "amici_status": [
+      "AMICI_TOO_MUCH_WORK"
+    ],
+    "amici_cpu_times_total_s": [
+      3.079583
+    ],
+    "amici_messages": [
+      "[{\"severity\": 2, \"identifier\": \"cvodes:CVode:TOO_MUCH_WORK\", \"message\": \"At t = 0.583807, mxstep steps taken before reaching tout.\"}, {\"severity\": 2, \"identifier\": \"cvodea:CVodeB:TOO_MUCH_WORK\", \"message\": \"Error occured while integrating backward problem # 0\"}, {\"severity\": 0, \"identifier\": \"BACKWARD_FAILURE\", \"message\": \"AMICI backward simulation failed when trying to solve until t = 0.492 (check debug logs for details): AMICI failed to integrate the backward problem\"}]"
+    ]
+  }
+]

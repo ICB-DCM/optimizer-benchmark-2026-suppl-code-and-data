@@ -1,0 +1,47 @@
+{
+  "title": "Large-scale analysis of optimisation methods for parameter estimation problems in the life sciences: supplementary code and data",
+  "description": "<p>Supplementary code and data for the paper <em>Large-scale analysis of optimisation methods for parameter estimation problems in the life sciences</em> by Stephan Grein, David R. Penas, Daniel Weindl, Polina Lakrisenko, Julio R. Banga, and Jan Hasenauer.</p><p>Code is licensed under the BSD 3-Clause License; data is licensed under CC-BY-4.0 (see LICENSE and LICENSE-DATA in the repository).</p>",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "parameter estimation",
+    "parameter optimization",
+    "systems biology",
+    "ordinary differential equations",
+    "benchmarking",
+    "PEtab"
+  ],
+  "creators": [
+    {
+      "name": "Grein, Stephan",
+      "affiliation": "Life and Medical Sciences (LIMES) Institute and Bonn Center for Mathematical Life Sciences, University of Bonn, Bonn, Germany",
+      "orcid": "0000-0001-9524-6633"
+    },
+    {
+      "name": "Penas, David R.",
+      "affiliation": "Computational Biology Lab, MBG-CSIC, Spanish National Research Council, Pontevedra, Spain",
+      "orcid": "0000-0002-7256-3094"
+    },
+    {
+      "name": "Weindl, Daniel",
+      "affiliation": "Life and Medical Sciences (LIMES) Institute and Bonn Center for Mathematical Life Sciences, University of Bonn, Bonn, Germany",
+      "orcid": "0000-0001-9963-6057"
+    },
+    {
+      "name": "Lakrisenko, Polina",
+      "affiliation": "Life and Medical Sciences (LIMES) Institute and Bonn Center for Mathematical Life Sciences, University of Bonn, Bonn, Germany",
+      "orcid": "0000-0002-7626-8420"
+    },
+    {
+      "name": "Banga, Julio R.",
+      "affiliation": "Computational Biology Lab, MBG-CSIC, Spanish National Research Council, Pontevedra, Spain",
+      "orcid": "0000-0002-4245-0320"
+    },
+    {
+      "name": "Hasenauer, Jan",
+      "affiliation": "Life and Medical Sciences (LIMES) Institute and Bonn Center for Mathematical Life Sciences, University of Bonn, Bonn, Germany",
+      "orcid": "0000-0002-4935-3312"
+    }
+  ]
+}

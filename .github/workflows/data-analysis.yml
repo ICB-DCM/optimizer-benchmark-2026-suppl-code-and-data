@@ -4,10 +4,12 @@ on:
   push:
     branches: [main]
     paths:
+      - "data/**"
       - "data_analysis/**"
       - ".github/workflows/data-analysis.yml"
   pull_request:
     paths:
+      - "data/**"
       - "data_analysis/**"
       - ".github/workflows/data-analysis.yml"
   workflow_dispatch:

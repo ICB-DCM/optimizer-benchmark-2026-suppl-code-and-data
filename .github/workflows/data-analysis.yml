@@ -16,7 +16,14 @@ on:
 
 jobs:
   run:
-    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    defaults:
+      run:
+        shell: bash
     steps:
       - uses: actions/checkout@v7
 
@@ -35,7 +42,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v7
         with:
-          name: data-analysis-results
+          name: data-analysis-results-${{ matrix.os }}
           path: |
             data_analysis/out
             data_analysis/*.ipynb

@@ -37,6 +37,10 @@ This installs the pinned Python environment (`uv sync --frozen`) and then
 runs every notebook and script in the directory, in dependency order,
 writing the generated figures and tables to `data_analysis/out/`.
 
+`run_all.sh` is a bash script; on Windows, run it from Git Bash or WSL
+rather than `cmd.exe`/PowerShell (verified working on both Linux and
+Windows via CI).
+
 ## License
 
 Code is licensed under the BSD 3-Clause License (see LICENSE), and data is

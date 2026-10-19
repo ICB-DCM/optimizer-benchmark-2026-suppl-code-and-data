@@ -63,9 +63,28 @@ writing the generated figures and tables to `data_analysis/out/`.
 To run the analysis without installing anything locally, launch the
 repository on [mybinder.org](https://mybinder.org) via the badge above. The
 environment is built from [`binder/Dockerfile`](binder/Dockerfile) using the
-same pinned `uv.lock`. In the JupyterLab terminal, run
-`cd data_analysis && ./run_all.sh`, or open and run individual notebooks.
-Binder sessions are temporary; download any results you want to keep.
+same pinned `uv.lock`. Starting a session may take a few minutes.
+
+1. In JupyterLab, open a terminal (*File → New → Terminal*).
+2. Run the full analysis (takes a few minutes):
+
+   ```sh
+   cd data_analysis && ./run_all.sh
+   ```
+
+3. Inspect the results in the file browser: the generated figures and tables
+   are in `data_analysis/out/`, and the notebooks in `data_analysis/` contain
+   their outputs, as they are executed in place (see
+   [`data_analysis/README.md`](data_analysis/README.md) for which notebook
+   generates which figure).
+4. Binder sessions are temporary and are shut down after a period of
+   inactivity. To keep the results, download them (right-click →
+   *Download*), e.g., after creating an archive with
+   `python -m zipfile -c out.zip out/`.
+
+Alternatively, individual notebooks can be opened and run directly
+(*Run → Run All Cells*); `figure2.py` can be run from the terminal with
+`python figure2.py`.
 
 ## License
 

@@ -4,6 +4,11 @@ FROM python:3.13-slim-trixie
 
 COPY --from=ghcr.io/astral-sh/uv:0.12.3 /uv /uvx /bin/
 
+# Liberation Sans: freely licensed, metric-compatible substitute for Arial
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends fonts-liberation \
+    && rm -rf /var/lib/apt/lists/*
+
 ARG NB_USER=jovyan
 ARG NB_UID=1000
 ENV USER=${NB_USER} \
@@ -18,6 +23,7 @@ ENV UV_NO_CACHE=1 \
     UV_PYTHON_DOWNLOADS=never \
     UV_COMPILE_BYTECODE=1 \
     PATH=${HOME}/data_analysis/.venv/bin:${PATH}
-RUN uv sync --frozen --project data_analysis
+RUN uv sync --frozen --project data_analysis \
+    && python -c "import matplotlib.font_manager"
 
 CMD ["jupyter", "lab", "--ip=0.0.0.0", "--no-browser"]

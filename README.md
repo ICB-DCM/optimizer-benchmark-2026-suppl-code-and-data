@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21296723.svg)](https://doi.org/10.5281/zenodo.21296723)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICB-DCM/optimizer-benchmark-2026-suppl-code-and-data/main?urlpath=lab/tree/data_analysis)
 
 # README
 
@@ -56,6 +57,15 @@ cd data_analysis
 This installs the pinned Python environment (`uv sync --frozen`) and then
 runs every notebook and script in the directory, in dependency order,
 writing the generated figures and tables to `data_analysis/out/`.
+
+### Running in the browser (Binder)
+
+To run the analysis without installing anything locally, launch the
+repository on [mybinder.org](https://mybinder.org) via the badge above. The
+environment is built from [`binder/Dockerfile`](binder/Dockerfile) using the
+same pinned `uv.lock`. In the JupyterLab terminal, run
+`cd data_analysis && ./run_all.sh`, or open and run individual notebooks.
+Binder sessions are temporary; download any results you want to keep.
 
 ## License
 

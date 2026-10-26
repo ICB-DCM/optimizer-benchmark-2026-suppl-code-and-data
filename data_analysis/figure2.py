@@ -20,6 +20,7 @@ def par_coords_plot(ax_par):
     cols2labels = {
         "n_observables": "Observables",
         "n_conditions": "Conditions",
+        "amici_nx_solver": "State variables",
         "n_est_parameters": "Parameters",
         "n_measurements": "Data points",
     }

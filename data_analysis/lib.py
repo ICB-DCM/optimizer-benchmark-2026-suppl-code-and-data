@@ -6,6 +6,7 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 import scipy.stats
+import seaborn as sns
 
 # Excluded benchmark collection problem IDs
 EXCLUDED_PROBLEMS = {
@@ -22,6 +23,9 @@ N_RUNS = 10
 
 # We only consider progress until this fraction of the SLURM budget
 RELATIVE_WALLTIME_LIMIT = 0.8
+
+# colour-vision-deficiency-safe categorical palette
+CVD_PALETTE = sns.color_palette("colorblind")
 
 # Misc paths
 BASE_DIR = Path(__file__).resolve().parent.parent

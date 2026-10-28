@@ -1,5 +1,6 @@
 # See https://pre-commit.com for more information
 # See https://pre-commit.com/hooks.html for more hooks
+exclude: ^optimizations/pypesto-fork-patches/
 repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v5.0.0
@@ -16,6 +17,8 @@ repos:
     - id: ruff
       args:
         - --fix
+      exclude: ^optimizations/
 
     # Run the formatter.
     - id: ruff-format
+      exclude: ^optimizations/

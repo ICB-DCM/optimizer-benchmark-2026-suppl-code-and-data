@@ -1,5 +1,4 @@
 # pypesto-benchmark-docker-limited-storage
-[![Build and Push Docker Image](https://github.com/stephanmg/pypesto-benchmark-docker-limited-storage/actions/workflows/push_docker.yaml/badge.svg)](https://github.com/stephanmg/pypesto-benchmark-docker-limited-storage/actions/workflows/push_docker.yaml)
 
 ## Build
 `docker build -t pypesto_benchmark_docker_limited_storage .`
@@ -12,18 +11,14 @@
 
 `apptainer build pypesto_benchmark_docker_limited_storage.sif docker-archive:://pypesto_benchmark_docker_limited_storage.tar`
 
+## Installed package versions
 
-## Copy requirements
-Use `docker ps` to find container ID, then call:
-`docker cp CONTAINER_ID:/requirements.txt .`
-
-The requirements file `requirements.txt` is automatically generated from the latest tagged release (currently v0.3.0).
-
-## Releases
-
-`latest` corresponds currently to `v0.4.0` and considered latest stable/tested version.
-
-- v0.4.0 (setting time limits, adding end time stamp to the .h5 file)
-- v0.3.0: 7547ba1d0893caa85dc4b0ef332a3a37de77bcf7 (respect walltime limit by cma solver)
-- v0.2.0: 4fbe1b50ef6972437155082885d60d93f142334c (amici 0.30.1)
-- v0.1.0: 711970a52794a268cdf4769041d6cb0f95b9fd73 (fixed versions)
+The [`Dockerfile`](Dockerfile) in this directory is the recipe of the image
+tagged `v0.3.0` that was used on FinisTerrae III;
+[`requirements.txt`](requirements.txt) is its `pip freeze` output
+(Ubuntu 24.04, Python 3.12, Ipopt 3.11.9 from the Ubuntu package).
+The image tagged `v0.2.0` has identical versions of all
+relevant packages and differs only in the pyPESTO fork commit
+(`4999790` instead of `0faf8d2`, see [`../README.md`](../README.md)).
+See the table in [`../README.md`](../README.md) for the package versions
+relevant for the benchmark.

@@ -15,9 +15,9 @@ RUN apt-get update \
     python3 \
     python3-dev \
     python3-pip \
-    python3.12-venv \
     swig \
     libopenmpi-dev \
+    python3.12-venv \
     && ln -sf /usr/bin/swig4.0 /usr/bin/swig
 
 ENV VIRTUAL_ENV=/venv
@@ -25,25 +25,26 @@ RUN python3 -m venv $VIRTUAL_ENV
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 
 RUN apt-get install curl pkg-config -y
-RUN apt-get install coinor-libipopt-dev -y
-RUN apt-get install libmumps-seq-dev -y
-RUN mkdir /opt/src/ && cd /opt/src/ && git clone https://github.com/coin-or/Ipopt.git
-RUN cd /opt/src/Ipopt && git checkout stable/3.14 
-ENV IPOPT_DIR=/opt/ipopt/
-ENV LD_LIBRARY_PATH=/opt/ipopt/lib:$LD_LIBRARY_PATH
-ENV PKG_CONFIG_PATH=/opt/ipopt/lib/pkgconfig:$PKG_CONFIG_PATH
-RUN mkdir /opt/src/Ipopt/build && cd /opt/src/Ipopt/build &&  ../configure --with-mumps-cflags=-I/usr/include/mumps_seq  --prefix=/opt/ipopt/ --with-mumps --enable-shared --with-mumps-lflags="-ldmumps_seq" && make -j4 && make install
-RUN pkg-config --modversion ipopt
-RUN pip3 install --no-binary=cyipopt cyipopt --force
+RUN apt install coinor-libipopt-dev -y
+RUN apt install coinor-libipopt1v5 -y
 
+RUN pip3 install cyipopt==1.5.0
 
 ENV AMICI_CXXFLAGS -fopenmp
 ENV AMICI_LDFLAGS -fopenmp
-#
-RUN pip3 install python-libsbml mpi4py amici==0.30.1 && python3 -m amici
 
-RUN pip3 install pypesto==0.5.4 fides==0.7.8 pyswarm==0.6 nlopt==2.8.0 scipy==1.14.1 cma==4.0.0 petab==0.5.0 pandas==2.2.3
+RUN  pip3 install python-libsbml>=5.17.0  \
+    && pip3 install mpi4py amici==0.30.1  \
+    && python3 -m amici
 
-RUN pip3 install --upgrade --force-reinstall git+https://github.com/stephanmg/pyPESTO.git@minimize_ms_single_file_additions_unified_time_interface
+RUN pip3 install pypesto==0.5.4 fides==0.7.8 pyswarm==0.6 nlopt==2.8.0 scipy==1.14.1 cma==4.0.0 petab==0.5.0
 
-RUN pip3 install fides==0.7.8 pyswarm==0.6 nlopt==2.8.0 scipy==1.14.1 cma==4.0.0 petab==0.5.0 pandas==2.2.3 mpi4py==4.0.3
+# Image used for the Marvin runs: the v0.3.0 recipe of this repository with
+# the pyPESTO pin set to branch minimize_ms_single_file (commit a9093c2), as
+# found in the image. The pin line is the only difference to v0.3.0.
+RUN pip3 install --upgrade --force-reinstall git+https://github.com/stephanmg/pyPESTO.git@a9093c221d9a81c2b09784b6e21304fb81397dba
+
+# for later releases pull either from pypesto after mimimize branch has been merged, or pull from benchmark branch after minimize_ms branch has been merged there
+# RUN pip3 install --upgrade --force-reinstall git+https://github.com/stephanmg/pyPESTO.git@minimize
+
+RUN pip3 freeze > requirements.txt

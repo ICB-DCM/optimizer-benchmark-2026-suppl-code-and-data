@@ -1,0 +1,1776 @@
+diff --git a/CHANGELOG.rst b/CHANGELOG.rst
+index c56d4b29e7fb..e96fb50cce6b 100644
+--- a/CHANGELOG.rst
++++ b/CHANGELOG.rst
+@@ -6,35 +6,6 @@ Release notes
+ ..........
+ 
+ 
+-0.5.4 (2024-10-19)
+--------------------
+-
+-- **Breaking Changes**
+-    - Remove Aesara support (#1453, #1455)
+-- General
+-    - CI improvements (#1436, #1437, #1438, #1439, #1440, #1443, #1473, #1484, #1486, #1490, #1485)
+-    - Update references/documentation (#1404, #1456, #1474, #1479, #1483, #1470, #1498)
+-- Profile
+-    - Improve Profiling Code (#1447)
+-- Visualize
+-    - allow log and/or linear scale for visualization (#1435)
+-    - More informative error message for start indices. (#1472)
+-- Optimization
+-    - SacessOptimizer: Fix acceptance threshold for objective improvement (#1457)
+-    - SacessOptimizer: expose more hyperparameters + minor fixes (#1459, #1476)
+-    - SacessOptimizer, ESSOptimizer: Bound-normalize parameters for proximity check (#1462)
+-    - ESSOptimizer: Fix bug in recombination and go-beyond (#1477, #1480)
+-- Objective
+-    - FD-objective correctly working with fixed parameters (#1446)
+-    - Petab Importer reforge (#1442, #1502)
+-    - Use cloudpickle for serializing NegLogParameterPriors (#1467)
+-    - Update PEtab.jl integration to match version 3.X (#1489)
+-- Sampling
+-    - Bayes Factor Tutorial (#1444)
+-- Ensemble
+-    - Added HPD calculation to ensemble (#1431)
+-
+-
+ 0.5.3 (2024-08-01)
+ -------------------
+ 
+diff --git a/pypesto/engine/mpi_pool.py b/pypesto/engine/mpi_pool.py
+index 8cdf9a77090e..4bd8ec04bc19 100644
+--- a/pypesto/engine/mpi_pool.py
++++ b/pypesto/engine/mpi_pool.py
+@@ -1,11 +1,12 @@
+ """Engines with multi-node parallelization."""
+ 
+ import logging
++import time
+ from typing import Any
+ 
+ import cloudpickle as pickle
+ from mpi4py import MPI
+-from mpi4py.futures import MPIPoolExecutor
++from mpi4py.futures import MPIPoolExecutor, as_completed
+ 
+ from ..util import tqdm
+ from .base import Engine
+@@ -14,12 +15,6 @@ from .task import Task
+ logger = logging.getLogger(__name__)
+ 
+ 
+-def work(pickled_task):
+-    """Unpickle and execute task."""
+-    task = pickle.loads(pickled_task)
+-    return task.execute()
+-
+-
+ class MPIPoolEngine(Engine):
+     """
+     Parallelize the task execution.
+@@ -32,30 +27,32 @@ class MPIPoolEngine(Engine):
+     def __init__(self):
+         super().__init__()
+ 
+-    def execute(
+-        self, tasks: list[Task], progress_bar: bool = None
+-    ) -> list[Any]:
+-        """
+-        Pickle tasks and distribute work to workers.
+-
+-        Parameters
+-        ----------
+-        tasks:
+-            List of :class:`pypesto.engine.Task` to execute.
+-        progress_bar:
+-            Whether to display a progress bar.
+-
+-        Returns
+-        -------
+-        A list of results.
+-        """
+-        pickled_tasks = [pickle.dumps(task) for task in tasks]
++    def work(self, pickled_task: bytes, global_start_time: float, wall_time_limit: float):
++        remaining = max(0.0, wall_time_limit - (time.time() - global_start_time))
++
++        task = pickle.loads(pickled_task)
+ 
+-        n_procs = MPI.COMM_WORLD.Get_size()  # Size of communicator
+-        logger.info(f"Parallelizing on {n_procs-1} workers with one manager.")
++        if hasattr(task, "optimizer") and hasattr(task.optimizer, "supports_maxtime"):
++            if task.optimizer.supports_maxtime():
++               task.optimizer.set_maxtime(remaining)
++            else:
++                # In case optimizer does not support walltime limit, keep going
++                return task.execute()
++
++        # Only return work if we still have available wall time
++        if remaining != 0: return task.execute()
++
++    def execute(self, tasks, wall_time_limit: float, progress_bar=True) -> list[Any]:
++        global_start_time = time.time()
++        pickled_tasks = [pickle.dumps(task) for task in tasks]
+ 
+         with MPIPoolExecutor() as executor:
+-            results = executor.map(
+-                work, tqdm(pickled_tasks, enable=progress_bar)
++            results_iter = executor.map(
++                self.work,
++                pickled_tasks,
++                [global_start_time] * len(pickled_tasks),
++                [wall_time_limit] * len(pickled_tasks)
+             )
++            results = list(tqdm(results_iter, total=len(tasks)))
++
+         return results
+diff --git a/pypesto/objective/amici/amici.py b/pypesto/objective/amici/amici.py
+index 3af3f702343a..8edcf13fa063 100644
+--- a/pypesto/objective/amici/amici.py
++++ b/pypesto/objective/amici/amici.py
+@@ -178,8 +178,12 @@ class AmiciObjective(ObjectiveBase):
+             parameter_mapping = create_identity_parameter_mapping(
+                 amici_model, len(edatas)
+             )
++        # parameter mapping where IDs of the currently fixed parameters
++        #  have been replaced by their respective values
++        #  (relevant for setting ``plist`` in ExpData later on)
+         self.parameter_mapping = parameter_mapping
+-
++        # parameter mapping independent of fixed parameters
++        self._parameter_mapping_full = copy.deepcopy(parameter_mapping)
+         # If supported, enable `guess_steadystate` by default. If not
+         #  supported, disable by default. If requested but unsupported, raise.
+         if (
+@@ -654,3 +658,38 @@ class AmiciObjective(ObjectiveBase):
+         return super().check_gradients_match_finite_differences(
+             *args, x=x, x_free=x_free, **kwargs
+         )
++
++    def update_from_problem(
++        self,
++        dim_full: int,
++        x_free_indices: Sequence[int],
++        x_fixed_indices: Sequence[int],
++        x_fixed_vals: Sequence[float],
++    ):
++        """Handle fixed parameters."""
++        super().update_from_problem(
++            dim_full=dim_full,
++            x_free_indices=x_free_indices,
++            x_fixed_indices=x_fixed_indices,
++            x_fixed_vals=x_fixed_vals,
++        )
++
++        # To make amici aware of fixed parameters, and thus, avoid computing
++        #  unnecessary sensitivities, we need to update the parameter mapping
++        #  and replace the IDs of all fixed parameters by their respective
++        #  values.
++        self.parameter_mapping = copy.deepcopy(self._parameter_mapping_full)
++        if not len(x_fixed_indices):
++            return
++
++        id_to_val = {
++            self.x_ids[x_idx]: x_val
++            for x_idx, x_val in zip(x_fixed_indices, x_fixed_vals)
++        }
++        for condition_mapping in self.parameter_mapping:
++            for (
++                model_par,
++                mapped_to_par,
++            ) in condition_mapping.map_sim_var.items():
++                if (val := id_to_val.get(mapped_to_par)) is not None:
++                    condition_mapping.map_sim_var[model_par] = val
+diff --git a/pypesto/optimize/ess/__init__.py b/pypesto/optimize/ess/__init__.py
+index c5f2d0df4b38..e4ec992ba534 100644
+--- a/pypesto/optimize/ess/__init__.py
++++ b/pypesto/optimize/ess/__init__.py
+@@ -8,6 +8,7 @@ from .function_evaluator import (
+ )
+ from .refset import RefSet
+ from .sacess import (
++    SacessCmaFactory,
+     SacessFidesFactory,
+     SacessOptimizer,
+     SacessOptions,
+diff --git a/pypesto/optimize/ess/ess.py b/pypesto/optimize/ess/ess.py
+index ca8ffa2f65a3..3906b4b0d6ac 100644
+--- a/pypesto/optimize/ess/ess.py
++++ b/pypesto/optimize/ess/ess.py
+@@ -4,10 +4,12 @@ See papers on ESS :footcite:p:`EgeaBal2009,EgeaMar2010`,
+ CESS :footcite:p:`VillaverdeEge2012`, and saCeSS :footcite:p:`PenasGon2017`.
+ """
+ 
++from __future__ import annotations
++
+ import enum
+ import logging
+ import time
+-from typing import Callable, Optional, Union
++from typing import Protocol
+ from warnings import warn
+ 
+ import numpy as np
+@@ -26,27 +28,98 @@ __all__ = ["ESSOptimizer", "ESSExitFlag"]
+ 
+ 
+ class ESSExitFlag(int, enum.Enum):
+-    """Exit flags used by :class:`ESSOptimizer`."""
++    """Scatter search exit flags.
++
++    Exit flags used by :class:`pypesto.ess.ESSOptimizer` and
++    :class:`pypesto.ess.SacessOptimizer`.
++    """
+ 
+     # ESS did not run/finish yet
+     DID_NOT_RUN = 0
+-    # Exited after reaching maximum number of iterations
++    # Exited after reaching the maximum number of iterations
+     MAX_ITER = -1
+     # Exited after exhausting function evaluation budget
+     MAX_EVAL = -2
+     # Exited after exhausting wall-time budget
+     MAX_TIME = -3
++    # Termination because of other reasons than exit criteria
++    ERROR = -99
++
++
++class OptimizerFactory(Protocol):
++    def __call__(
++        self, max_eval: float, max_walltime_s: float
++    ) -> pypesto.optimize.Optimizer:
++        """Create a new optimizer instance.
++
++        Parameters
++        ----------
++        max_eval:
++            Maximum number of objective functions allowed.
++        max_walltime_s:
++            Maximum walltime in seconds.
++        """
++        ...
+ 
+ 
+ class ESSOptimizer:
+     """Enhanced Scatter Search (ESS) global optimization.
+ 
+-    See papers on ESS :footcite:p:`EgeaBal2009,EgeaMar2010`,
+-    CESS :footcite:p:`VillaverdeEge2012`, and saCeSS :footcite:p:`PenasGon2017`.
++    Scatter search is a meta-heuristic for global optimization. A set of points
++    (the reference set, RefSet) is iteratively adapted to explore the parameter
++    space and to follow promising directions.
++
++    This implementation is based on :footcite:p:`EgeaBal2009,EgeaMar2010`,
++    but does not implement any constraint handling beyond box constraints.
++
++    The basic steps of ESS are:
++
++    * Initialization: Generate a diverse set of points (RefSet) in the
++      parameter space.
++    * Recombination: Generate new points by recombining the RefSet points.
++    * Improvement: Improve the RefSet by replacing points with better ones.
++
++    The steps are repeated until a stopping criterion is met.
++
++    ESS is gradient-free, unless a gradient-based local optimizer is used
++    (``local_optimizer``).
++
++    Hyperparameters
++    ---------------
++
++    Various hyperparameters control the behavior of ESS.
++    Initialization is controlled by ``dim_refset`` and ``n_diverse``.
++    Local optimizations are controlled by ``local_optimizer``, ``local_n1``,
++    ``local_n2``, and ``balance``.
++
++    Exit criteria
++    -------------
++
++    The optimization stops if any of the following criteria are met:
++
++    * The maximum number of iterations is reached (``max_iter``).
++    * The maximum number of objective function evaluations is reached
++      (``max_eval``).
++    * The maximum wall-time is reached (``max_walltime_s``).
++
++    One of these criteria needs to be provided.
++    Note that the wall-time and function evaluation criteria are not checked
++    after every single function evaluation, and thus, the actual number of
++    function evaluations may slightly exceed the given value.
++
++    Parallelization
++    ---------------
++
++    Objective function evaluations inside :class:`ESSOptimizer` can be
++    parallelized using multiprocessing or multithreading by passing a value
++    >1 for ``n_procs`` or ``n_threads``, respectively.
+ 
+-    .. footbibliography::
+ 
+-    .. note: Does not implement any constraint handling beyond box constraints
++    .. seealso::
++
++       :class:`pypesto.optimize.ess.sacess.SacessOptimizer`
++
++    .. footbibliography::
+     """
+ 
+     def __init__(
+@@ -57,10 +130,9 @@ class ESSOptimizer:
+         local_n1: int = 1,
+         local_n2: int = 10,
+         balance: float = 0.5,
+-        local_optimizer: Union[
+-            "pypesto.optimize.Optimizer",
+-            Callable[..., "pypesto.optimize.Optimizer"],
+-        ] = None,
++        local_optimizer: pypesto.optimize.Optimizer
++        | OptimizerFactory
++        | None = None,
+         max_eval=None,
+         n_diverse: int = None,
+         n_procs=None,
+@@ -68,7 +140,7 @@ class ESSOptimizer:
+         max_walltime_s=None,
+         result_includes_refset: bool = False,
+     ):
+-        """Construct new ESS instance.
++        r"""Construct new ESS instance.
+ 
+         For plausible values of hyperparameters, see :footcite:t:`VillaverdeEge2012`.
+ 
+@@ -81,10 +153,11 @@ class ESSOptimizer:
+             Maximum number of ESS iterations.
+         local_n1:
+             Minimum number of iterations before first local search.
++            Ignored if ``local_optimizer=None``.
+         local_n2:
+             Minimum number of iterations between consecutive local
+             searches. Maximally one local search per performed in each
+-            iteration.
++            iteration. Ignored if ``local_optimizer=None``.
+         local_optimizer:
+             Local optimizer for refinement, or a callable that creates an
+             :class:`pypesto.optimize.Optimizer` or ``None`` to skip local searches.
+@@ -104,8 +177,14 @@ class ESSOptimizer:
+             optimizations and other simulations, and thus, may be exceeded by
+             the duration of a local search.
+         balance:
+-            Quality vs diversity balancing factor [0, 1];
+-            0 = only quality; 1 = only diversity
++            Quality vs. diversity balancing factor with
++            :math:`0 \leq balance \leq 1`; ``0`` = only quality,
++            ``1`` = only diversity.
++            Affects the choice of starting points for local searches. I.e.,
++            whether local optimization should focus on improving the best
++            solutions found so far (quality), or on exploring new regions of
++            the parameter space (diversity).
++            Ignored if ``local_optimizer=None``.
+         n_procs:
+             Number of parallel processes to use for parallel function
+             evaluation. Mutually exclusive with `n_threads`.
+@@ -144,8 +223,8 @@ class ESSOptimizer:
+             raise ValueError(
+                 "`n_procs` and `n_threads` are mutually exclusive."
+             )
+-        self.n_procs: Optional[int] = n_procs
+-        self.n_threads: Optional[int] = n_threads
++        self.n_procs: int | None = n_procs
++        self.n_threads: int | None = n_threads
+         self.balance: float = balance
+         # After how many iterations a stagnated solution is to be replaced by
+         #  a random one. Default value taken from [EgeaMar2010]_
+@@ -162,12 +241,14 @@ class ESSOptimizer:
+     def _initialize(self):
+         """(Re-)Initialize."""
+         # RefSet
+-        self.refset: Optional[RefSet] = None
++        self.refset: RefSet | None = None
+         # Overall best parameters found so far
+-        self.x_best: Optional[np.array] = None
++        self.x_best: np.ndarray | None = None
+         # Overall best function value found so far
+         self.fx_best: float = np.inf
+         # Results from local searches (only those with finite fval)
++        # (there is potential to save memory here by only keeping the
++        # parameters in memory and not the full result)
+         self.local_solutions: list[OptimizerResult] = []
+         # Index of current iteration
+         self.n_iter: int = 0
+@@ -177,15 +258,15 @@ class ESSOptimizer:
+         # Whether self.x_best has changed in the current iteration
+         self.x_best_has_changed: bool = False
+         self.exit_flag: ESSExitFlag = ESSExitFlag.DID_NOT_RUN
+-        self.evaluator: Optional[FunctionEvaluator] = None
+-        self.starttime: Optional[float] = None
++        self.evaluator: FunctionEvaluator | None = None
++        self.starttime: float | None = None
+         self.history: MemoryHistory = MemoryHistory()
+ 
+     def _initialize_minimize(
+         self,
+         problem: Problem = None,
+         startpoint_method: StartpointMethod = None,
+-        refset: Optional[RefSet] = None,
++        refset: RefSet | None = None,
+     ):
+         """Initialize for optimizations.
+ 
+@@ -242,7 +323,7 @@ class ESSOptimizer:
+         self,
+         problem: Problem = None,
+         startpoint_method: StartpointMethod = None,
+-        refset: Optional[RefSet] = None,
++        refset: RefSet | None = None,
+     ) -> pypesto.Result:
+         """Minimize the given objective.
+ 
+@@ -329,7 +410,6 @@ class ESSOptimizer:
+         for i, optimizer_result in enumerate(self.local_solutions):
+             i_result += 1
+             optimizer_result.id = f"Local solution {i}"
+-            optimizer_result.optimizer = str(self.local_optimizer)
+             result.optimize_result.append(optimizer_result)
+ 
+         if self._result_includes_refset:
+@@ -384,7 +464,7 @@ class ESSOptimizer:
+             return np.inf
+         return self.max_eval - self.evaluator.n_eval
+ 
+-    def _combine_solutions(self) -> tuple[np.array, np.array]:
++    def _combine_solutions(self) -> tuple[np.ndarray, np.ndarray]:
+         """Combine solutions and evaluate.
+ 
+         Creates the next generation from the RefSet by pair-wise combination
+@@ -418,7 +498,7 @@ class ESSOptimizer:
+                 break
+         return y, fy
+ 
+-    def _combine(self, i, j) -> np.array:
++    def _combine(self, i, j) -> np.ndarray:
+         """Combine RefSet members ``i`` and ``j``.
+ 
+         Samples a new point from a biased hyper-rectangle derived from the
+@@ -463,10 +543,10 @@ class ESSOptimizer:
+         )
+ 
+     def _do_local_search(
+-        self, x_best_children: np.array, fx_best_children: np.array
++        self, x_best_children: np.ndarray, fx_best_children: np.ndarray
+     ) -> None:
+         """
+-        Perform a local search to refine the next generation.
++        Perform local searches to refine the next generation.
+ 
+         See [PenasGon2017]_ Algorithm 2.
+         """
+@@ -487,14 +567,25 @@ class ESSOptimizer:
+             quality_order = np.argsort(fx_best_children)
+             # compute minimal distance between the best children and all local
+             #  optima found so far
+-            min_distances = np.array(
+-                np.min(
+-                    np.linalg.norm(
+-                        y_i - optimizer_result.x[optimizer_result.free_indices]
+-                    )
+-                    for optimizer_result in self.local_solutions
++            min_distances = (
++                np.fromiter(
++                    (
++                        min(
++                            np.linalg.norm(
++                                y_i
++                                - optimizer_result.x[
++                                    optimizer_result.free_indices
++                                ]
++                            )
++                            for optimizer_result in self.local_solutions
++                        )
++                        for y_i in x_best_children
++                    ),
++                    dtype=np.float64,
++                    count=len(x_best_children),
+                 )
+-                for y_i in x_best_children
++                if len(self.local_solutions)
++                else np.zeros(len(x_best_children))
+             )
+             # sort by furthest distance to existing local optima
+             diversity_order = np.argsort(min_distances)[::-1]
+@@ -516,29 +607,8 @@ class ESSOptimizer:
+             local_search_x0,
+             local_search_fx0,
+         ) in local_search_x0_fx0_candidates:
+-            optimizer = (
+-                self.local_optimizer
+-                if isinstance(self.local_optimizer, pypesto.optimize.Optimizer)
+-                else self.local_optimizer(
+-                    max_eval=self._get_remaining_eval(),
+-                    max_walltime_s=self._get_remaining_time(),
+-                )
+-            )
+-            optimizer_result: OptimizerResult = optimizer.minimize(
+-                problem=self.evaluator.problem,
+-                x0=local_search_x0,
+-                id="0",
+-            )
+-            # add function evaluations during local search to our function
+-            #  evaluation counter (NOTE: depending on the setup, we might neglect
+-            #  gradient evaluations).
+-            self.evaluator.n_eval += optimizer_result.n_fval
+-            self.evaluator.n_eval_round += optimizer_result.n_fval
+-
+-            self.logger.info(
+-                f"Local search: {local_search_fx0} -> {optimizer_result.fval} "
+-                f"took {optimizer_result.time:.3g}s, finished with "
+-                f"{optimizer_result.exitflag}: {optimizer_result.message}"
++            optimizer_result = self._local_minimize(
++                x0=local_search_x0, fx0=local_search_fx0
+             )
+             if np.isfinite(optimizer_result.fval):
+                 self.local_solutions.append(optimizer_result)
+@@ -557,6 +627,56 @@ class ESSOptimizer:
+         self.last_local_search_niter = self.n_iter
+         self.evaluator.reset_round_counter()
+ 
++    def _local_minimize(self, x0: np.ndarray, fx0: float) -> OptimizerResult:
++        """Perform a local search from the given startpoint."""
++        max_walltime_s = self._get_remaining_time()
++        max_eval = self._get_remaining_eval()
++        # If we are out of budget, return a dummy result.
++        # This prevents issues with optimizers that fail if there is no budget
++        # (E.g., Ipopt).
++        if max_walltime_s < 1 or max_eval < 1:
++            msg = "No time or function evaluations left for local search."
++            self.logger.info(msg)
++            return OptimizerResult(
++                id="0",
++                x=x0,
++                fval=np.inf,
++                message=msg,
++                n_fval=0,
++                n_grad=0,
++                time=0,
++                history=None,
++            )
++
++        # create optimizer instance if necessary
++        optimizer = (
++            self.local_optimizer
++            if isinstance(self.local_optimizer, pypesto.optimize.Optimizer)
++            else self.local_optimizer(
++                max_eval=max_eval,
++                max_walltime_s=max_walltime_s,
++            )
++        )
++        # actual local search
++        optimizer_result: OptimizerResult = optimizer.minimize(
++            problem=self.evaluator.problem,
++            x0=x0,
++            id="0",
++        )
++
++        # add function evaluations during the local search to our function
++        #  evaluation counter (NOTE: depending on the setup, we might neglect
++        #  gradient evaluations).
++        self.evaluator.n_eval += optimizer_result.n_fval
++        self.evaluator.n_eval_round += optimizer_result.n_fval
++
++        self.logger.info(
++            f"Local search: {fx0} -> {optimizer_result.fval} "
++            f"took {optimizer_result.time:.3g}s, finished with "
++            f"{optimizer_result.exitflag}: {optimizer_result.message}"
++        )
++        return optimizer_result
++
+     def _maybe_update_global_best(self, x, fx):
+         """Update the global best value if the provided value is better."""
+         if fx < self.fx_best:
+@@ -634,7 +754,7 @@ class ESSOptimizer:
+             edgeitems=5,
+             threshold=8,
+             linewidth=100000,
+-            formatter={"float": lambda x: "%.3g" % x},
++            formatter={"float": lambda x: f"{x:.3g}"},
+         ):
+             self.logger.info(
+                 f"{self.n_iter:4} | {self.fx_best:+.2E} | "
+@@ -648,7 +768,7 @@ class ESSOptimizer:
+             edgeitems=5,
+             threshold=10,
+             linewidth=100000,
+-            formatter={"float": lambda x: "%.3g" % x},
++            formatter={"float": lambda x: f"{x:.3g}"},
+         ):
+             self.logger.info(
+                 f"-- Final ESS fval after {self.n_iter} iterations, "
+@@ -657,3 +777,11 @@ class ESSOptimizer:
+                 f"Num local solutions: {len(self.local_solutions)}."
+             )
+             self.logger.debug(f"Final refset: {np.sort(self.refset.fx)} ")
++
++    def supports_maxtime(self) -> bool:
++        """Check whether optimizer supports time limits."""
++        return True
++
++    def set_maxtime(self, seconds: float) -> None:
++        """Set the maximum wall time for optimization."""
++        self.max_walltime_s = seconds
+diff --git a/pypesto/optimize/ess/sacess.py b/pypesto/optimize/ess/sacess.py
+index c54ef0ad66d4..f2b229ce752b 100644
+--- a/pypesto/optimize/ess/sacess.py
++++ b/pypesto/optimize/ess/sacess.py
+@@ -32,6 +32,7 @@ __all__ = [
+     "SacessOptimizer",
+     "get_default_ess_options",
+     "SacessFidesFactory",
++    "SacessCmaFactory",
+     "SacessOptions",
+ ]
+ 
+@@ -1062,6 +1063,52 @@ class SacessFidesFactory:
+         return f"{self.__class__.__name__}(fides_options={self._fides_options}, fides_kwargs={self._fides_kwargs})"
+ 
+ 
++class SacessCmaFactory:
++    """Factory for :class:`CmaOptimizer` instances for use with :class:`SacessOptimizer`.
++
++    :meth:`__call__` will forward the walltime limit and function evaluation
++    limit imposed on :class:`SacessOptimizer` to :class:`CmaOptimizer`.
++    Besides that, default options are used.
++
++
++    Parameters
++    ----------
++    options:
++        Options as passed to :meth:`CmaOptimizer.__init__`.
++        See ``cma.CMAOptions()`` for available options.
++    """
++
++    def __init__(
++        self,
++        options: dict[str, Any] | None = None,
++    ):
++        if options is None:
++            options = {}
++
++        self._options = options
++
++        # Check if cma is installed
++        try:
++            import cma  # noqa F401
++        except ImportError:
++            from ..optimizer import OptimizerImportError
++
++            raise OptimizerImportError("cma") from None
++
++    def __call__(
++        self, max_walltime_s: int, max_eval: int
++    ) -> pypesto.optimize.CmaOptimizer:
++        """Create a :class:`CmaOptimizer` instance."""
++        options = self._options.copy()
++        options["timeout"] = max_walltime_s
++        options["maxfevals"] = max_eval
++
++        return pypesto.optimize.CmaOptimizer(options=options)
++
++    def __repr__(self):
++        return f"{self.__class__.__name__}(options={self._options})"
++
++
+ @dataclass
+ class SacessWorkerResult:
+     """Container for :class:`SacessWorker` results.
+diff --git a/pypesto/optimize/optimize.py b/pypesto/optimize/optimize.py
+index 539a1fca39bb..972d0a6d23f8 100644
+--- a/pypesto/optimize/optimize.py
++++ b/pypesto/optimize/optimize.py
+@@ -35,6 +35,7 @@ def minimize(
+     history_options: HistoryOptions = None,
+     filename: Union[str, Callable, None] = None,
+     overwrite: bool = False,
++    wall_time_limit: int = 1, # in seconds
+ ) -> Result:
+     """
+     Do multistart optimization.
+@@ -140,6 +141,10 @@ def minimize(
+     history_requires_postprocessing = preprocess_hdf5_history(
+         history_options, engine
+     )
++    
++    # set wall time limit for supported optimizers at beginning of execution
++    if optimizer.supports_maxtime():
++        optimizer.set_maxtime(wall_time_limit)
+ 
+     # define tasks
+     tasks = []
+@@ -155,27 +160,33 @@ def minimize(
+         tasks.append(task)
+ 
+     # perform multistart optimization
+-    ret = engine.execute(tasks, progress_bar=progress_bar)
+-
+-    # merge hdf5 history files
+-    if history_requires_postprocessing:
+-        postprocess_hdf5_history(ret, history_file, history_options)
+-
+-    # aggregate results
+-    for optimizer_result in ret:
+-        result.optimize_result.append(optimizer_result)
+-
+-    # sort by best fval
+-    result.optimize_result.sort()
+-
+-    # if history file provided, set storage file to that one
+-    if filename == "Auto" and history_file is not None:
+-        filename = history_file
+-    autosave(
+-        filename=filename,
+-        result=result,
+-        store_type="optimize",
+-        overwrite=overwrite,
+-    )
++    ret = engine.execute(tasks, progress_bar=progress_bar, wall_time_limit=wall_time_limit)
++
++    # Safe guard in case of error in parallel run (should never actually happen)
++    if ret:
++        try:
++            # merge hdf5 history files
++            if history_requires_postprocessing:
++                postprocess_hdf5_history(ret, history_file, history_options)
++
++            # aggregate results
++            for optimizer_result in ret:
++                result.optimize_result.append(optimizer_result)
++
++            # sort by best fval
++            result.optimize_result.sort()
++
++            # if history file provided, set storage file to that one
++            if filename == "Auto" and history_file is not None:
++                filename = history_file
++            autosave(
++                filename=filename,
++                result=result,
++                store_type="optimize",
++                overwrite=overwrite,
++            )
++        except ValueError:
++            # Might happen when no further tasks are executed due to max walltime limit for optimizer
++            pass
+ 
+     return result
+diff --git a/pypesto/optimize/optimizer.py b/pypesto/optimize/optimizer.py
+index b05570e73da9..7ab1dbace3e8 100644
+--- a/pypesto/optimize/optimizer.py
++++ b/pypesto/optimize/optimizer.py
+@@ -39,7 +39,7 @@ class OptimizerImportError(ImportError):
+ def hierarchical_decorator(minimize):
+     """Add inner parameters to the optimizer result.
+ 
+-    Default decorator for the minimize() method.
++    Default decorator for the :meth:`Optimizer.minimize` method.
+     """
+ 
+     @wraps(minimize)
+@@ -81,7 +81,7 @@ def hierarchical_decorator(minimize):
+ def history_decorator(minimize):
+     """Initialize and extract information stored in the history.
+ 
+-    Default decorator for the minimize() method.
++    Default decorator for the :meth:`Optimizer.minimize` method.
+     """
+ 
+     @wraps(minimize)
+@@ -140,7 +140,11 @@ def history_decorator(minimize):
+ 
+                 logger.error(f"start {id} failed:\n{trace}")
+                 result = OptimizerResult(
+-                    x0=x0, exitflag=-1, message=str(err), id=id
++                    x0=x0,
++                    exitflag=-1,
++                    message=str(err),
++                    id=id,
++                    optimizer=str(self),
+                 )
+             else:
+                 raise
+@@ -163,7 +167,7 @@ def history_decorator(minimize):
+ def time_decorator(minimize):
+     """Measure time of optimization.
+ 
+-    Default decorator for the minimize() method to take time.
++    Default decorator for the :meth:`Optimizer.minimize` method to take time.
+     Currently, the method time.time() is used, which measures
+     the wall-clock time.
+     """
+@@ -196,8 +200,8 @@ def time_decorator(minimize):
+ def fix_decorator(minimize):
+     """Include also fixed parameters in the result arrays of minimize().
+ 
+-    Default decorator for the minimize() method (nans will be inserted in the
+-    derivatives).
++    Default decorator for the :meth:`Optimizer.minimize` method (nans will be
++    inserted in the derivatives).
+     """
+ 
+     @wraps(minimize)
+@@ -311,6 +315,36 @@ class Optimizer(abc.ABC):
+         """Check whether optimizer supports x0, return boolean."""
+         return True
+ 
++    def supports_maxtime(self) -> bool:
++        """
++        Check whether optimizer supports time limits.
++
++        Returns
++        -------
++        True if optimizer supports setting a maximum wall time,
++        False otherwise.
++        """
++        return False
++
++    def set_maxtime(self, seconds: float) -> None:
++        """
++        Set the maximum wall time for optimization.
++
++        Parameters
++        ----------
++        seconds
++            Maximum wall time in seconds.
++
++        Raises
++        ------
++        NotImplementedError
++            If the optimizer does not support time limits.
++        """
++        raise NotImplementedError(
++            f"{self.__class__.__name__} does not support time limits. "
++            f"Check supports_maxtime() before calling set_maxtime()."
++        )
++
+ 
+ class ScipyOptimizer(Optimizer):
+     """
+@@ -337,6 +371,8 @@ class ScipyOptimizer(Optimizer):
+         if self.options is None:
+             self.options = ScipyOptimizer.get_default_options(self)
+         self.tol = tol
++        #: maximum walltime in seconds
++        self._maxtime_seconds: float | None = None
+ 
+     def __repr__(self) -> str:
+         rep = f"<{self.__class__.__name__} method={self.method}"
+@@ -499,6 +535,16 @@ class ScipyOptimizer(Optimizer):
+             if hessp is not None:
+                 hess = None
+ 
++            # Set cxallback for handling timelimit if necessary
++            callback = None
++            if self._maxtime_seconds is not None and np.isfinite(self._maxtime_seconds):
++                start_time = time.time()
++                
++                def callback(*args, **kwargs):
++                    elapsed_time = time.time() - start_time
++                    if elapsed_time >= self._maxtime_seconds:
++                        raise StopIteration(f"Maximum time {self._maxtime_seconds}s exceeded")
++
+             # optimize
+             res = scipy.optimize.minimize(
+                 fun=fun,
+@@ -510,6 +556,7 @@ class ScipyOptimizer(Optimizer):
+                 bounds=bounds,
+                 options=self.options,
+                 tol=self.tol,
++                callback=callback,
+             )
+             # extract fval/grad from result
+             grad = getattr(res, "jac", None)
+@@ -523,6 +570,7 @@ class ScipyOptimizer(Optimizer):
+             hess=getattr(res, "hess", None),
+             exitflag=res.status,
+             message=res.message,
++            optimizer=str(self),
+         )
+ 
+         return optimizer_result
+@@ -540,11 +588,71 @@ class ScipyOptimizer(Optimizer):
+             options["maxfun"] = 1000
+         elif self.method.lower() in ("nelder-mead", "powell"):
+             options["maxfev"] = 1000
++
++        if self.method.lower() == "l-bfgs-b":
++            # Deprecated since scipy 1.15.0
++            del options["disp"]
++
+         return options
+ 
++    def supports_maxiter(self) -> bool:
++        """Check whether optimizer supports iteration limits."""
++        return True
++
++    def set_maxiter(self, iterations: int) -> None:
++        """
++        Set the maximum number of iterations for optimization.
++
++        Parameters
++        ----------
++        iterations
++            Maximum number of iterations
++        """
++        if self.options is None:
++             self.options = {}
++        if self.method.lower() == "tnc":
++             self.options["maxfun"] = iterations
++        else:
++            self.options["maxiter"] = iterations
++
++    def supports_maxtime(self) -> bool:
++         """
++         Check whether optimizer supports time limits.
++
++         Returns
++         -------
++         True if optimizer supports setting a maximum wall time,
++         False otherwise.
++         """
++         # TNC neither supports time limits nor callback functions
++         return self.method.lower() != "tnc"
++
++    def set_maxtime(self, seconds: float) -> None:
++         """
++         Set the maximum wall time for optimization.
++
++         Parameters
++         ----------
++         seconds
++             Maximum wall time in seconds.
++
++         Raises
++         ------
++         NotImplementedError
++             If the optimizer does not support time limits.
++         """
++         if not self.supports_maxtime():
++             raise NotImplementedError(
++                 f"{self.__class__.__name__} method {self.method} does not "
++                 "support time limits. "
++                 f"Check supports_maxtime() before calling set_maxtime()."
++             )
++
++         self._maxtime_seconds = seconds
++
+ 
+ class IpoptOptimizer(Optimizer):
+-    """Use IpOpt (https://pypi.org/project/ipopt/) for optimization."""
++    """Use Ipopt (https://pypi.org/project/cyipopt/) for optimization."""
+ 
+     def __init__(self, options: dict = None):
+         """
+@@ -555,6 +663,9 @@ class IpoptOptimizer(Optimizer):
+         options:
+             Options are directly passed on to `cyipopt.minimize_ipopt`, except
+             for the `approx_grad` option, which is handled separately.
++
++            For a list of available options, see the Ipopt documentation
++            (https://coin-or.github.io/Ipopt/OPTIONS.html).
+         """
+         super().__init__()
+         self.approx_grad = False
+@@ -594,7 +705,7 @@ class IpoptOptimizer(Optimizer):
+             jac = objective.get_grad
+         else:
+             raise ValueError(
+-                "For IPOPT, the objective must either be able to return "
++                "For Ipopt, the objective must either be able to return "
+                 "gradients or the `approx_grad` must be set to True."
+             )
+ 
+@@ -612,13 +723,35 @@ class IpoptOptimizer(Optimizer):
+ 
+         # the ipopt return object is a scipy.optimize.OptimizeResult
+         return OptimizerResult(
+-            x=ret.x, exitflag=ret.status, message=ret.message
++            x=ret.x,
++            exitflag=ret.status,
++            message=ret.message,
++            optimizer=str(self),
+         )
+ 
+     def is_least_squares(self):
+         """Check whether optimizer is a least squares optimizer."""
+         return False
+ 
++    def supports_maxtime(self) -> bool:
++        """Check whether optimizer supports time limits."""
++        try:
++            import cyipopt
++
++            return cyipopt.IPOPT_VERSION >= (3, 14, 0)
++        except (ImportError, AttributeError):
++            return False
++
++    def set_maxtime(self, seconds: float) -> None:
++        """Set the maximum wall time for optimization."""
++        if not self.supports_maxtime():
++            raise NotImplementedError(
++                "IpoptOptimizer time limits require Ipopt version >= 3.14.0."
++            )
++        if self.options is None:
++            self.options = {}
++        self.options["max_wall_time"] = seconds
++
+ 
+ class DlibOptimizer(Optimizer):
+     """Use the Dlib toolbox for optimization."""
+@@ -630,7 +763,7 @@ class DlibOptimizer(Optimizer):
+         if self.options is None:
+             self.options = DlibOptimizer.get_default_options(self)
+         elif "maxiter" not in self.options:
+-            raise KeyError("Dlib options are missing the key word " "maxiter.")
++            raise KeyError("Dlib options are missing the keyword maxiter.")
+ 
+     def __repr__(self) -> str:
+         rep = f"<{self.__class__.__name__}"
+@@ -677,7 +810,7 @@ class DlibOptimizer(Optimizer):
+             0.002,
+         )
+ 
+-        optimizer_result = OptimizerResult()
++        optimizer_result = OptimizerResult(optimizer=str(self))
+ 
+         return optimizer_result
+ 
+@@ -737,7 +870,9 @@ class PyswarmOptimizer(Optimizer):
+             problem.objective.get_fval, lb, ub, **self.options
+         )
+ 
+-        optimizer_result = OptimizerResult(x=np.array(xopt), fval=fopt)
++        optimizer_result = OptimizerResult(
++            x=np.array(xopt), fval=fopt, optimizer=str(self)
++        )
+ 
+         return optimizer_result
+ 
+@@ -821,7 +956,7 @@ class CmaOptimizer(Optimizer):
+         )
+ 
+         optimizer_result = OptimizerResult(
+-            x=np.array(result[0]), fval=result[1]
++            x=np.array(result[0]), fval=result[1], optimizer=str(self)
+         )
+ 
+         return optimizer_result
+@@ -830,6 +965,14 @@ class CmaOptimizer(Optimizer):
+         """Check whether optimizer is a least squares optimizer."""
+         return False
+ 
++    def supports_maxtime(self) -> bool:
++        """Check whether optimizer supports time limits."""
++        return True
++
++    def set_maxtime(self, seconds: float) -> None:
++        """Set the maximum wall time for optimization."""
++        self.options["timeout"] = seconds
++
+ 
+ class CmaesOptimizer(CmaOptimizer):
+     """Deprecated, use CmaOptimizer instead."""
+@@ -901,7 +1044,7 @@ class ScipyDifferentialEvolutionOptimizer(Optimizer):
+         )
+ 
+         optimizer_result = OptimizerResult(
+-            x=np.array(result.x), fval=result.fun
++            x=np.array(result.x), fval=result.fun, optimizer=str(self)
+         )
+ 
+         return optimizer_result
+@@ -1019,6 +1162,7 @@ class PyswarmsOptimizer(Optimizer):
+         optimizer_result = OptimizerResult(
+             x=pos,
+             fval=float(cost),
++            optimizer=str(self),
+         )
+ 
+         return optimizer_result
+@@ -1169,7 +1313,7 @@ class NLoptOptimizer(Optimizer):
+         if self.options is not None:
+             rep += f" options={self.options}"
+         if self.local_options is not None:
+-            rep += f" local_options={self.local_methods}"
++            rep += f" local_options={self.local_options}"
+         return rep + ">"
+ 
+     @minimize_decorator_collection
+@@ -1249,6 +1393,7 @@ class NLoptOptimizer(Optimizer):
+             fval=opt.last_optimum_value(),
+             message=msg,
+             exitflag=opt.last_optimize_result(),
++            optimizer=str(self),
+         )
+ 
+         return optimizer_result
+@@ -1281,6 +1426,14 @@ class NLoptOptimizer(Optimizer):
+             return False
+         return True
+ 
++    def supports_maxtime(self) -> bool:
++        """Check whether optimizer supports time limits."""
++        return True
++
++    def set_maxtime(self, seconds: float) -> None:
++        """Set the maximum wall time for optimization."""
++        self.options["maxtime"] = seconds
++
+ 
+ class FidesOptimizer(Optimizer):
+     """
+@@ -1345,8 +1498,7 @@ class FidesOptimizer(Optimizer):
+                 rep += f" hessian_update={self.hessian_update}"
+             else:
+                 rep += (
+-                    f" hessian_update="
+-                    f"{self.hessian_update.__class__.__name__}"
++                    f" hessian_update={self.hessian_update.__class__.__name__}"
+                 )
+         if self.verbose is not None:
+             rep += f" verbose={self.verbose}"
+@@ -1433,6 +1585,7 @@ class FidesOptimizer(Optimizer):
+             hess=opt.hess,
+             message=msg,
+             exitflag=opt.exitflag,
++            optimizer=str(self),
+         )
+ 
+         return optimizer_result
+@@ -1472,3 +1625,16 @@ class FidesOptimizer(Optimizer):
+         return messages.get(
+             opt.exitflag, f"exitflag={opt.exitflag} is not defined in fides."
+         )
++
++    def supports_maxtime(self) -> bool:
++        """Check whether optimizer supports time limits."""
++        return True
++
++    def set_maxtime(self, seconds: float) -> None:
++        """Set the maximum wall time for optimization."""
++        try:
++            from fides.constants import Options as FidesOptions
++
++            self.options[FidesOptions.MAXTIME] = seconds
++        except ImportError:
++            raise OptimizerImportError("fides") from None
+diff --git a/pypesto/optimize/options.py b/pypesto/optimize/options.py
+index 9983a7ccf8e0..26028040079f 100644
+--- a/pypesto/optimize/options.py
++++ b/pypesto/optimize/options.py
+@@ -30,6 +30,8 @@ class OptimizeOptions(dict):
+         report_sres: bool = True,
+         report_hess: bool = True,
+         history_beats_optimizer: bool = True,
++        filename_p: str = '',
++        timestamp_p: float = float(0)
+     ):
+         super().__init__()
+ 
+@@ -37,6 +39,8 @@ class OptimizeOptions(dict):
+         self.report_sres: bool = report_sres
+         self.report_hess: bool = report_hess
+         self.history_beats_optimizer: bool = history_beats_optimizer
++        self.filename_path: str = filename_p
++        self.timestamp: float = timestamp_p
+ 
+     def __getattr__(self, key):
+         try:
+diff --git a/pypesto/optimize/task.py b/pypesto/optimize/task.py
+index 10ae83dd89a4..48d992ad37a1 100644
+--- a/pypesto/optimize/task.py
++++ b/pypesto/optimize/task.py
+@@ -1,6 +1,11 @@
+ import logging
+ 
+ import numpy as np
++from datetime import datetime
++import time
++from mpi4py import MPI
++import h5py
++import os.path
+ 
+ import pypesto.optimize
+ 
+@@ -56,6 +61,35 @@ class OptimizerTask(Task):
+         # check for supplied x_guess support
+         self.optimizer.check_x0_support(self.problem.x_guesses)
+ 
++        # init fval stored and create a thread specific h5 file for results
++        init_fval = self.problem.objective.get_fval(self.x0)
++        idp = MPI.COMM_WORLD.Get_rank()
++        run_file = self.optimize_options.filename_path + f'_id{idp}.h5'
++
++        if not os.path.isfile(run_file):
++             with h5py.File(run_file, 'a') as f:
++                 grpd = f.create_group(f'global_data')
++                 grpd.attrs['n_runs'] = 0
++                 grpd.attrs['init_timestamp'] = datetime.timestamp(datetime.now()) 
++                 grpd.attrs['best_fx'] = float('inf')
++                 grpd.attrs['counter'] = 0
++                 grpd.attrs['totaltime'] = 0
++             f.close()
++
++        with h5py.File(run_file, 'a') as f:
++             if float(init_fval) < f[f'global_data'].attrs['best_fx']:
++                 counter = f[f'global_data'].attrs['counter']
++                 f[f'global_data'].attrs['counter'] += 1  
++                 f[f'global_data'].attrs['best_fx'] = float(init_fval)
++                 grp = f.create_group(f'{counter}')
++                 grp.attrs['time'] = datetime.timestamp(datetime.now()) - f[f'global_data'].attrs['init_timestamp']
++                 grp.attrs['fval'] = init_fval
++                 grp.attrs['end_time'] = time.time()
++                 grp.attrs['x'] = self.x0
++ 
++             f[f'global_data'].attrs['n_runs'] += 1
++             f[f'global_data'].attrs['totaltime'] = datetime.timestamp(datetime.now()) - f[f'global_data'].attrs['init_timestamp']
++
+         optimizer_result = self.optimizer.minimize(
+             problem=self.problem,
+             x0=self.x0,
+@@ -65,6 +99,24 @@ class OptimizerTask(Task):
+         )
+         optimizer_result.optimizer = str(self.optimizer)
+ 
++        idp = MPI.COMM_WORLD.Get_rank()
++        run_file = self.optimize_options.filename_path + f'_id{idp}.h5'
++
++        with h5py.File(run_file, 'a') as f:
++            if float(optimizer_result.fval) < f[f'global_data'].attrs['best_fx']:
++                 counter = f[f'global_data'].attrs['counter']
++                 f[f'global_data'].attrs['counter'] += 1
++                 f[f'global_data'].attrs['best_fx'] = float(optimizer_result.fval)
++                 grp = f.create_group(f'{counter}')
++                 grp.attrs['time'] = datetime.timestamp(datetime.now()) - f[f'global_data'].attrs['init_timestamp']
++                 grp.attrs['end_time'] = time.time()
++                 grp.attrs['fval'] = optimizer_result.fval
++                 grp.attrs['x'] = optimizer_result.x
++
++            f[f'global_data'].attrs['n_runs'] += 1
++            f[f'global_data'].attrs['totaltime'] = datetime.timestamp(datetime.now()) - f[f'global_data'].attrs['init_timestamp']
++
++
+         if not self.optimize_options.report_hess:
+             optimizer_result.hess = None
+         if not self.optimize_options.report_sres:
+diff --git a/pypesto/petab/importer.py b/pypesto/petab/importer.py
+index 5a44b9698fd6..49b8eb083551 100644
+--- a/pypesto/petab/importer.py
++++ b/pypesto/petab/importer.py
+@@ -432,28 +432,6 @@ class PetabImporter:
+ 
+         return problem
+ 
+-    def create_model(
+-        self,
+-        force_compile: bool = False,
+-        verbose: bool = True,
+-        **kwargs,
+-    ) -> amici.Model:
+-        """See :meth:`AmiciObjectiveCreator.create_model`."""
+-        warnings.warn(
+-            "This function has been moved to `AmiciObjectiveCreator`.",
+-            DeprecationWarning,
+-            stacklevel=2,
+-        )
+-        objective_constructor = self.create_objective_creator(
+-            kwargs.pop("simulator_type", self.simulator_type),
+-            kwargs.pop("simulator", self.simulator),
+-        )
+-        return objective_constructor.create_model(
+-            force_compile=force_compile,
+-            verbose=verbose,
+-            **kwargs,
+-        )
+-
+     def create_objective(
+         self,
+         model: amici.Model = None,
+diff --git a/pypesto/store/save_to_hdf5.py b/pypesto/store/save_to_hdf5.py
+index 3804bfbbb90e..a4ac4e7034c8 100644
+--- a/pypesto/store/save_to_hdf5.py
++++ b/pypesto/store/save_to_hdf5.py
+@@ -1,23 +1,22 @@
+ """Include functions for saving various results to hdf5."""
++from __future__ import annotations
+ 
+ import logging
+ import os
+ from numbers import Integral
+ from pathlib import Path
+-from typing import Union
+ 
+ import h5py
+ import numpy as np
+ 
++from .. import OptimizeResult, OptimizerResult
+ from ..result import ProfilerResult, Result, SampleResult
+ from .hdf5 import write_array, write_float_array
+ 
+ logger = logging.getLogger(__name__)
+ 
+ 
+-def check_overwrite(
+-    f: Union[h5py.File, h5py.Group], overwrite: bool, target: str
+-):
++def check_overwrite(f: h5py.File | h5py.Group, overwrite: bool, target: str):
+     """
+     Check whether target already exists.
+ 
+@@ -36,7 +35,7 @@ def check_overwrite(
+             del f[target]
+         else:
+             raise RuntimeError(
+-                f"File `{f.filename}` already exists and contains "
++                f"File `{f.file.filename}` already exists and contains "
+                 f"information about {target} result. "
+                 f"If you wish to overwrite the file, set "
+                 f"`overwrite=True`."
+@@ -53,7 +52,7 @@ class ProblemHDF5Writer:
+         HDF5 result file name
+     """
+ 
+-    def __init__(self, storage_filename: Union[str, Path]):
++    def __init__(self, storage_filename: str | Path):
+         """
+         Initialize writer.
+ 
+@@ -106,7 +105,7 @@ class OptimizationResultHDF5Writer:
+         HDF5 result file name
+     """
+ 
+-    def __init__(self, storage_filename: Union[str, Path]):
++    def __init__(self, storage_filename: str | Path):
+         """
+         Initialize Writer.
+ 
+@@ -117,32 +116,76 @@ class OptimizationResultHDF5Writer:
+         """
+         self.storage_filename = str(storage_filename)
+ 
+-    def write(self, result: Result, overwrite=False):
+-        """Write HDF5 result file from pyPESTO result object."""
+-        # Create destination directory
+-        if isinstance(self.storage_filename, str):
+-            basedir = os.path.dirname(self.storage_filename)
+-            if basedir:
+-                os.makedirs(basedir, exist_ok=True)
++    def write(
++        self,
++        result: Result
++        | OptimizeResult
++        | OptimizerResult
++        | list[OptimizerResult],
++        overwrite=False,
++    ):
++        """Write HDF5 result file from pyPESTO result object.
++
++        Parameters
++        ----------
++        result: Result to be saved.
++        overwrite: Boolean, whether already existing results should be
++            overwritten. This applies to the whole list of results, not only to
++            individual results. See :meth:`write_optimizer_result` for
++            incrementally writing a sequence of `OptimizerResult`.
++        """
++        Path(self.storage_filename).parent.mkdir(parents=True, exist_ok=True)
++
++        if isinstance(result, Result):
++            results = result.optimize_result.list
++        elif isinstance(result, OptimizeResult):
++            results = result.list
++        elif isinstance(result, list):
++            results = result
++        elif isinstance(result, OptimizerResult):
++            results = [result]
++        else:
++            raise ValueError(f"Unsupported type for `result`: {type(result)}.")
+ 
+         with h5py.File(self.storage_filename, "a") as f:
+             check_overwrite(f, overwrite, "optimization")
+             optimization_grp = f.require_group("optimization")
+-            # settings =
+-            # optimization_grp.create_dataset("settings", settings, dtype=)
+             results_grp = optimization_grp.require_group("results")
+ 
+-            for start in result.optimize_result.list:
+-                start_id = start["id"]
+-                start_grp = results_grp.require_group(start_id)
+-                for key in start.keys():
+-                    if key == "history":
+-                        continue
+-                    if isinstance(start[key], np.ndarray):
+-                        write_array(start_grp, key, start[key])
+-                    elif start[key] is not None:
+-                        start_grp.attrs[key] = start[key]
+-                f.flush()
++            for start in results:
++                self._do_write_optimizer_result(start, results_grp, overwrite)
++
++    def write_optimizer_result(
++        self, result: OptimizerResult, overwrite: bool = False
++    ):
++        """Write HDF5 result file from pyPESTO result object.
++
++        Parameters
++        ----------
++        result: Result to be saved.
++        overwrite: Boolean, whether already existing results with the same ID
++            should be overwritten.s
++        """
++        Path(self.storage_filename).parent.mkdir(parents=True, exist_ok=True)
++
++        with h5py.File(self.storage_filename, "a") as f:
++            results_grp = f.require_group("optimization/results")
++            self._do_write_optimizer_result(result, results_grp, overwrite)
++
++    def _do_write_optimizer_result(
++        self, result: OptimizerResult, g: h5py.Group = None, overwrite=False
++    ):
++        """Write an OptimizerResult to the given group."""
++        sub_group_id = result["id"]
++        check_overwrite(g, overwrite, sub_group_id)
++        start_grp = g.require_group(sub_group_id)
++        for key in result.keys():
++            if key == "history":
++                continue
++            if isinstance(result[key], np.ndarray):
++                write_array(start_grp, key, result[key])
++            elif result[key] is not None:
++                start_grp.attrs[key] = result[key]
+ 
+ 
+ class SamplingResultHDF5Writer:
+@@ -155,7 +198,7 @@ class SamplingResultHDF5Writer:
+         HDF5 result file name
+     """
+ 
+-    def __init__(self, storage_filename: Union[str, Path]):
++    def __init__(self, storage_filename: str | Path):
+         """
+         Initialize Writer.
+ 
+@@ -208,7 +251,7 @@ class ProfileResultHDF5Writer:
+         HDF5 result file name
+     """
+ 
+-    def __init__(self, storage_filename: Union[str, Path]):
++    def __init__(self, storage_filename: str | Path):
+         """
+         Initialize Writer.
+ 
+@@ -241,7 +284,7 @@ class ProfileResultHDF5Writer:
+ 
+     @staticmethod
+     def _write_profiler_result(
+-        parameter_profile: Union[ProfilerResult, None], result_grp: h5py.Group
++        parameter_profile: ProfilerResult | None, result_grp: h5py.Group
+     ) -> None:
+         """Write a single ProfilerResult to hdf5.
+ 
+@@ -267,7 +310,7 @@ class ProfileResultHDF5Writer:
+ 
+ def write_result(
+     result: Result,
+-    filename: Union[str, Path],
++    filename: str | Path,
+     overwrite: bool = False,
+     problem: bool = True,
+     optimize: bool = False,
+diff --git a/pypesto/version.py b/pypesto/version.py
+index 6b27eeebfdd1..43a1e95ba4f9 100644
+--- a/pypesto/version.py
++++ b/pypesto/version.py
+@@ -1 +1 @@
+-__version__ = "0.5.4"
++__version__ = "0.5.3"
+diff --git a/test/base/test_store.py b/test/base/test_store.py
+index d90a8030d418..840440c707b6 100644
+--- a/test/base/test_store.py
++++ b/test/base/test_store.py
+@@ -1,9 +1,11 @@
+ """Test the `pypesto.store` module."""
+ 
+ import os
+-import tempfile
++from pathlib import Path
++from tempfile import TemporaryDirectory
+ 
+ import numpy as np
++import pytest
+ import scipy.optimize as so
+ 
+ import pypesto
+@@ -52,7 +54,7 @@ from ..visualize import (
+ 
+ def test_storage_opt_result():
+     minimize_result = create_optimization_result()
+-    with tempfile.TemporaryDirectory(dir=".") as tmpdirname:
++    with TemporaryDirectory(dir=".") as tmpdirname:
+         result_file_name = os.path.join(tmpdirname, "a", "b", "result.h5")
+         opt_result_writer = OptimizationResultHDF5Writer(result_file_name)
+         opt_result_writer.write(minimize_result)
+@@ -89,6 +91,27 @@ def test_storage_opt_result_update(hdf5_file):
+                 assert opt_res[key] == read_result.optimize_result[i][key]
+ 
+ 
++def test_write_optimizer_results_incrementally():
++    """Test writing optimizer results incrementally to the same file."""
++    res = create_optimization_result()
++    res1, res2 = res.optimize_result.list[:2]
++
++    with TemporaryDirectory() as tmp_dir:
++        result_path = Path(tmp_dir, "result.h5")
++        writer = OptimizationResultHDF5Writer(result_path)
++        writer.write_optimizer_result(res1)
++        writer.write_optimizer_result(res2)
++        reader = OptimizationResultHDF5Reader(result_path)
++        read_res = reader.read()
++        assert len(read_res.optimize_result) == 2
++
++        # overwriting works
++        writer.write_optimizer_result(res1, overwrite=True)
++        # overwriting attempt fails without overwrite=True
++        with pytest.raises(RuntimeError):
++            writer.write_optimizer_result(res1)
++
++
+ def test_storage_problem(hdf5_file):
+     problem = create_problem()
+     problem_writer = ProblemHDF5Writer(hdf5_file)
+diff --git a/test/optimize/test_optimize.py b/test/optimize/test_optimize.py
+index 48ebdea551af..a0541033f8ff 100644
+--- a/test/optimize/test_optimize.py
++++ b/test/optimize/test_optimize.py
+@@ -27,6 +27,7 @@ from pypesto.optimize.ess import (
+     SacessOptions,
+     get_default_ess_options,
+ )
++from pypesto.optimize.ess.sacess import SacessCmaFactory
+ from pypesto.optimize.util import (
+     assign_ids,
+ )
+@@ -459,7 +460,12 @@ def test_history_beats_optimizer():
+ @pytest.mark.parametrize("ess_type", ["ess", "sacess"])
+ @pytest.mark.parametrize(
+     "local_optimizer",
+-    [None, optimize.FidesOptimizer(), SacessFidesFactory()],
++    [
++        None,
++        optimize.FidesOptimizer(),
++        SacessFidesFactory(),
++        SacessCmaFactory(),
++    ],
+ )
+ @pytest.mark.flaky(reruns=3)
+ def test_ess(problem, local_optimizer, ess_type, request):
+diff --git a/test/optimize/test_optimizer_maxtime.py b/test/optimize/test_optimizer_maxtime.py
+new file mode 100644
+index 000000000000..4e66b3343bbe
+--- /dev/null
++++ b/test/optimize/test_optimizer_maxtime.py
+@@ -0,0 +1,72 @@
++"""Test unified interface for optimizer time limits (issue #1553)."""
++
++import pytest
++
++import pypesto.optimize as optimize
++
++
++class TestOptimizerMaxtimeInterface:
++    """Test the unified maxtime interface for optimizers."""
++
++    def test_scipy_optimizer_no_support(self):
++        """Test that ScipyOptimizer does not support time limits."""
++        optimizer = optimize.ScipyOptimizer()
++        assert optimizer.supports_maxtime() is False
++
++        with pytest.raises(NotImplementedError):
++            optimizer.set_maxtime(10.0)
++
++    def test_ipopt_optimizer_support(self):
++        """Test IpoptOptimizer time limit support."""
++        optimizer = optimize.IpoptOptimizer()
++
++        # Support depends on Ipopt version
++        try:
++            import cyipopt
++
++            expected_support = cyipopt.IPOPT_VERSION >= (3, 14, 0)
++        except (ImportError, AttributeError):
++            expected_support = False
++
++        assert optimizer.supports_maxtime() == expected_support
++
++        if expected_support:
++            optimizer.set_maxtime(10.0)
++            assert optimizer.options["max_wall_time"] == 10.0
++        else:
++            with pytest.raises(NotImplementedError):
++                optimizer.set_maxtime(10.0)
++
++    def test_nlopt_optimizer_support(self):
++        """Test NLoptOptimizer time limit support."""
++        optimizer = optimize.NLoptOptimizer()
++        assert optimizer.supports_maxtime() is True
++
++        optimizer.set_maxtime(10.0)
++        assert optimizer.options["maxtime"] == 10.0
++
++    def test_fides_optimizer_support(self):
++        """Test FidesOptimizer time limit support."""
++        optimizer = optimize.FidesOptimizer()
++        assert optimizer.supports_maxtime() is True
++
++        optimizer.set_maxtime(10.0)
++
++        from fides.constants import Options as FidesOptions
++
++        assert FidesOptions.MAXTIME in optimizer.options
++        assert optimizer.options[FidesOptions.MAXTIME] == 10.0
++
++        # Test updating existing value
++        optimizer.set_maxtime(15.5)
++        assert optimizer.options[FidesOptions.MAXTIME] == 15.5
++
++    def test_ess_optimizer_support(self):
++        """Test ESSOptimizer time limit support."""
++        from pypesto.optimize.ess import ESSOptimizer
++
++        optimizer = ESSOptimizer(max_walltime_s=100.0)
++        assert optimizer.supports_maxtime() is True
++
++        optimizer.set_maxtime(10.0)
++        assert optimizer.max_walltime_s == 10.0
+diff --git a/test/petab/test_petab_import.py b/test/petab/test_petab_import.py
+index aa4eb00673e5..1ce9358805a1 100644
+--- a/test/petab/test_petab_import.py
++++ b/test/petab/test_petab_import.py
+@@ -5,6 +5,7 @@ This is for testing the petab import.
+ import logging
+ import os
+ import unittest
++from itertools import chain
+ 
+ import amici
+ import benchmark_models_petab as models
+@@ -18,8 +19,6 @@ import pypesto.optimize
+ import pypesto.petab
+ from pypesto.petab import PetabImporter
+ 
+-from .test_sbml_conversion import ATOL, RTOL
+-
+ # In CI, bionetgen is installed here
+ BNGPATH = os.path.abspath(
+     os.path.join(os.path.dirname(__file__), "..", "..", "BioNetGen-2.8.5")
+@@ -119,7 +118,7 @@ class PetabImportTest(unittest.TestCase):
+         # Check gradients of simple model (should always be a true positive)
+         model_name = "Boehm_JProteomeRes2014"
+         importer = pypesto.petab.PetabImporter.from_yaml(
+-            os.path.join(models.MODELS_DIR, model_name, model_name + ".yaml")
++            models.get_problem_yaml_path(model_name)
+         )
+ 
+         objective = importer.create_problem().objective
+@@ -137,35 +136,76 @@ class PetabImportTest(unittest.TestCase):
+ 
+ 
+ def test_plist_mapping():
+-    """Test that the AMICI objective created via PEtab correctly maps
+-    gradient entries when some parameters are not estimated (realized via
+-    edata.plist)."""
+-    model_name = "Boehm_JProteomeRes2014"
+-    petab_problem = pypesto.petab.PetabImporter.from_yaml(
++    """Test that the AMICI objective created via PEtab correctly uses
++    ExpData.plist.
++
++    That means, ensure that
++    1) it only computes gradient entries that are really required, and
++    2) correctly maps model-gradient entries to the objective gradient
++    3) with or without pypesto-fixed parameters.
++
++    In Bruno_JExpBot2016, different parameters are estimated in different
++    conditions.
++    """
++    model_name = "Bruno_JExpBot2016"
++    petab_importer = pypesto.petab.PetabImporter.from_yaml(
+         os.path.join(models.MODELS_DIR, model_name, model_name + ".yaml")
+     )
+-
+-    # define test parameter
+-    par = np.asarray(petab_problem.petab_problem.x_nominal_scaled)
+-
+-    problem = petab_problem.create_problem()
++    objective_creator = petab_importer.create_objective_creator()
++    problem = petab_importer.create_problem(
++        objective_creator.create_objective()
++    )
+     objective = problem.objective
+-    # check that x_names are correctly subsetted
+-    assert objective.x_names == [
+-        problem.x_names[ix] for ix in problem.x_free_indices
+-    ]
+     objective.amici_solver.setSensitivityMethod(
+-        amici.SensitivityMethod_forward
++        amici.SensitivityMethod.forward
+     )
+-    objective.amici_solver.setAbsoluteTolerance(1e-10)
+-    objective.amici_solver.setRelativeTolerance(1e-12)
++    objective.amici_solver.setAbsoluteTolerance(1e-16)
++    objective.amici_solver.setRelativeTolerance(1e-15)
++
++    # slightly perturb the parameters to avoid vanishing gradients
++    par = np.asarray(petab_importer.petab_problem.x_nominal_free_scaled) * 1.01
++
++    # call once to make sure ExpDatas are populated
++    fx1, grad1 = objective(par, sensi_orders=(0, 1))
++
++    plists1 = {edata.plist for edata in objective.edatas}
++    assert len(plists1) == 6, plists1
+ 
+     df = objective.check_grad_multi_eps(
+-        par[problem.x_free_indices], multi_eps=[1e-3, 1e-4, 1e-5]
++        par[problem.x_free_indices], multi_eps=[1e-5, 1e-6, 1e-7, 1e-8]
+     )
+     print("relative errors gradient: ", df.rel_err.values)
+     print("absolute errors gradient: ", df.abs_err.values)
+-    assert np.all((df.rel_err.values < RTOL) | (df.abs_err.values < ATOL))
++    assert np.all((df.rel_err.values < 1e-8) | (df.abs_err.values < 1e-10))
++
++    # do the same after fixing some parameters
++    # we fix them to the previous values, so we can compare the results
++    fixed_ids = ["init_b10_1", "init_bcry_1"]
++    # the corresponding amici parameters (they are only ever mapped to the
++    #  respective parameters in fixed_ids, and thus, should not occur in any
++    #  `plist` later on)
++    fixed_model_par_ids = ["init_b10", "init_bcry"]
++    fixed_model_par_idxs = [
++        objective.amici_model.getParameterIds().index(id)
++        for id in fixed_model_par_ids
++    ]
++    fixed_idxs = [problem.x_names.index(id) for id in fixed_ids]
++    problem.fix_parameters(fixed_idxs, par[fixed_idxs])
++    assert objective is problem.objective
++    assert problem.x_fixed_indices == fixed_idxs
++    fx2, grad2 = objective(par[problem.x_free_indices], sensi_orders=(0, 1))
++    assert np.isclose(fx1, fx2, rtol=1e-10, atol=1e-14)
++    assert np.allclose(
++        grad1[problem.x_free_indices], grad2, rtol=1e-10, atol=1e-14
++    )
++    plists2 = {edata.plist for edata in objective.edatas}
++    # the fixed parameters should have been in plist1, but not in plist2
++    assert (
++        set(fixed_model_par_idxs) - set(chain.from_iterable(plists1)) == set()
++    )
++    assert (
++        set(fixed_model_par_idxs) & set(chain.from_iterable(plists2)) == set()
++    )
+ 
+ 
+ def test_max_sensi_order():

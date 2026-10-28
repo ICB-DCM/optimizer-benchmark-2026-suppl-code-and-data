@@ -12,6 +12,9 @@ Banga, and Jan Hasenauer.
 
 Information about the optimization runs is provided in the
 [`optimizations/` directory](optimizations/).
+Regenerating the raw optimizer trajectories is not feasible on a desktop
+computer: the benchmark required about 1.5 million core-hours on two HPC
+clusters and produced about 30 TB of raw data.
 
 ## Data
 
@@ -23,6 +26,10 @@ These data are available in the [`data/` directory](data/).
 
 Scripts for generating the figures in the paper are available in the [
 `data_analysis/` directory](data_analysis/).
+
+The code in this repository is specific to this benchmark study; it is not a
+general-purpose software package. Running the analysis on other data, or the
+optimizations on another cluster, requires modifications.
 
 ### Requirements and tested platforms
 
@@ -57,6 +64,10 @@ cd data_analysis
 This installs the pinned Python environment (`uv sync --frozen`) and then
 runs every notebook and script in the directory, in dependency order,
 writing the generated figures and tables to `data_analysis/out/`.
+Installation and the full analysis together take a few minutes on a
+standard computer (in CI: about 1 min on Linux, about 2 min on Windows),
+most of it being the installation of the Python environment.
+No non-standard hardware is required.
 
 ### Running in the browser (Binder)
 
@@ -85,6 +96,12 @@ same pinned `uv.lock`. Starting a session may take a few minutes.
 Alternatively, individual notebooks can be opened and run directly
 (*Run → Run All Cells*); `figure2.py` can be run from the terminal with
 `python figure2.py`.
+
+## Use of AI tools
+
+Parts of the code and of the accompanying documentation in this repository
+were written with the assistance of AI tools (Claude, GitHub Copilot).
+All AI-generated content was reviewed and validated by the authors.
 
 ## License
 

@@ -8,6 +8,15 @@ optimisation methods for parameter estimation problems in the life sciences* by
 Stephan Grein, David R. Penas, Daniel Weindl, Polina Lakrisenko, Julio R.
 Banga, and Jan Hasenauer.
 
+## Related software and data
+
+This repository is the entry point to all code and data of the study.
+The software used for the optimisation runs (pySaCeSS, SaCeSS with
+PEtab/parPE integration, the modified pyPESTO, the container images) and the
+benchmark problem collection are maintained elsewhere; their versions,
+repositories and archive DOIs are listed in
+[`optimizations/README.md`](optimizations/README.md).
+
 ## Data generation
 
 Information about the optimization runs is provided in the
@@ -53,7 +62,9 @@ versions.
 
 ### Reproducing the analysis
 
-The analysis environment is managed with [uv](https://docs.astral.sh/uv/).
+The analysis environment is managed with [uv](https://docs.astral.sh/uv/)
+(see its [installation instructions](https://docs.astral.sh/uv/getting-started/installation/));
+no other software needs to be installed manually.
 To reproduce all figures and tables, run:
 
 ```sh

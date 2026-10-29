@@ -19,7 +19,13 @@ Optimizations were performed using the following container images:
 * for parPE-saCeSS, see https://github.com/davidrpenas/sacess_parpe
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21294078.svg)](https://doi.org/10.5281/zenodo.21294078)
 
-* pySaCeSS, see [pyscat-benchmark-docker/](pyscat-benchmark-docker/)
+* pySaCeSS, see [pyscat-benchmark-docker/](pyscat-benchmark-docker/);
+  the pySaCeSS implementation itself (`pyscat`) is available at
+  https://github.com/ICB-DCM/pyscat
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17787407.svg)](https://doi.org/10.5281/zenodo.17787407).
+  The version used in this study, `0.0.1.post2.dev24+g03f949dee`, corresponds
+  to commit [`03f949de`](https://github.com/ICB-DCM/pyscat/commit/03f949dee646f3a54db3a5813c02053e06044c6b),
+  the commit immediately preceding the archived release v0.1.0.
 
 The `Dockerfile`s in these directories are the recipes of the images.
 Note that the versions pinned in the `pip install` lines are partially

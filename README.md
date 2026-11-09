@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21296723.svg)](https://doi.org/10.5281/zenodo.21296723)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21296722.svg)](https://doi.org/10.5281/zenodo.21296722)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICB-DCM/optimizer-benchmark-2026-suppl-code-and-data/main?urlpath=lab/tree/data_analysis)
 
 # README

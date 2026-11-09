@@ -33,7 +33,7 @@ PROBLEM_OVERVIEW_PATH = BASE_DIR / "data" / "problem_overview_table.csv"
 OPTIMIZER_OVERVIEW_PATH = BASE_DIR / "data" / "optimizer_overview_table.csv"
 BENCHMARK_PROBLEMS_DIR = (
     BASE_DIR
-    / "Benchmark-Models-PEtab-23c10f8b79b528bd96cee3a2ee47abd53580bad2"
+    / "petab-benchmark-problems-23c10f8b79b528bd96cee3a2ee47abd53580bad2"
     / "Benchmark-Models"
 )
 OUTPUT_DIR = BASE_DIR / "data_analysis" / "out"

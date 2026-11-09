@@ -100,5 +100,5 @@ an intermediate version of the Marvin driver script.
 [fork-ft3-reruns]: https://github.com/stephanmg/pyPESTO/commit/4ab000212cce2c4d7c23afc55440e1ec506ca719
 
 The benchmark problems are available in the
-[PEtab benchmark problem collection](https://github.com/Benchmarking-Initiative/Benchmark-Models-PEtab);
+[PEtab benchmark problem collection](https://github.com/PEtab-dev/petab-benchmark-problems);
 version [v2024.11.11](https://doi.org/10.5281/zenodo.18356087) was used.

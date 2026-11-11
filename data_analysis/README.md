@@ -23,3 +23,18 @@ Scripts and notebooks for generating the figures in the paper. See
 | S6     | `analysis_3_4_reproducibility_and_optimality_gap.ipynb` |
 | S7     | `analysis_7_pyscat_sacess.ipynb`                        |
 | S8     | `analysis_3_4_reproducibility_and_optimality_gap.ipynb` |
+
+## Model fits
+
+`visualize_model_fit.py` plots the model fits for the best parameters in
+[`../data/best_parameters/`](../data/best_parameters/) to `out/model_fits/`.
+It requires the PEtab benchmark collection (v2024.11.11, see
+[`../optimizations/README.md`](../optimizations/README.md)) and runs in its
+own environment (see the inline script metadata and
+`visualize_model_fit.py.lock`).
+For many problems, it uses newer visualization tables from
+[`model_fit_visualization/`](model_fit_visualization/):
+
+```sh
+uv run --script visualize_model_fit.py --benchmark-dir <path/to/Benchmark-Models>
+```

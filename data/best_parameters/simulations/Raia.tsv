@@ -1,0 +1,206 @@
+observableId	preequilibrationConditionId	simulationConditionId	simulation	time	observableParameters	noiseParameters	observableTransformation	noiseDistribution	datasetId
+observable_RecSurf		model1_data1	1.3	0.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data1_RecSurf
+observable_RecSurf		model1_data1	1.4279146347090612	10.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data1_RecSurf
+observable_RecSurf		model1_data1	1.4319243771810484	20.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data1_RecSurf
+observable_RecSurf		model1_data1	1.4320500507856782	30.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data1_RecSurf
+observable_RecSurf		model1_data1	1.4320540622938838	60.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data1_RecSurf
+observable_RecSurf		model1_data1	1.432053996977358	90.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data1_RecSurf
+observable_RecSurf		model1_data1	1.4320539985903888	120.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data1_RecSurf
+observable_IL13_cell		model1_data1	0.0	0.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data1_IL13_cell
+observable_IL13_cell		model1_data1	0.0	15.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data1_IL13_cell
+observable_IL13_cell		model1_data1	0.0	30.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data1_IL13_cell
+observable_IL13_cell		model1_data1	0.0	60.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data1_IL13_cell
+observable_IL13_cell		model1_data1	0.0	90.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data1_IL13_cell
+observable_IL13_cell		model1_data1	0.0	120.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data1_IL13_cell
+observable_SOCS3mRNA		model1_data1	0.0	0.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data1_SOCS3mRNA
+observable_SOCS3mRNA		model1_data1	0.0	20.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data1_SOCS3mRNA
+observable_SOCS3mRNA		model1_data1	0.0	30.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data1_SOCS3mRNA
+observable_SOCS3mRNA		model1_data1	0.0	40.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data1_SOCS3mRNA
+observable_SOCS3mRNA		model1_data1	0.0	60.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data1_SOCS3mRNA
+observable_SOCS3mRNA		model1_data1	0.0	80.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data1_SOCS3mRNA
+observable_SOCS3mRNA		model1_data1	0.0	90.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data1_SOCS3mRNA
+observable_SOCS3mRNA		model1_data1	0.0	100.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data1_SOCS3mRNA
+observable_SOCS3mRNA		model1_data1	0.0	120.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data1_SOCS3mRNA
+observable_CD274mRNA		model1_data1	0.0	30.0	scaling_CD274mRNA	sd_CD274mRNA_abs;sd_CD274mRNA_rel	lin	normal	model1_data1_CD274mRNA
+observable_CD274mRNA		model1_data1	0.0	60.0	scaling_CD274mRNA	sd_CD274mRNA_abs;sd_CD274mRNA_rel	lin	normal	model1_data1_CD274mRNA
+observable_CD274mRNA		model1_data1	0.0	90.0	scaling_CD274mRNA	sd_CD274mRNA_abs;sd_CD274mRNA_rel	lin	normal	model1_data1_CD274mRNA
+observable_CD274mRNA		model1_data1	0.0	120.0	scaling_CD274mRNA	sd_CD274mRNA_abs;sd_CD274mRNA_rel	lin	normal	model1_data1_CD274mRNA
+observable_SOCS3		model1_data1	0.0	0.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data1_SOCS3
+observable_SOCS3		model1_data1	0.0	20.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data1_SOCS3
+observable_SOCS3		model1_data1	0.0	40.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data1_SOCS3
+observable_SOCS3		model1_data1	0.0	60.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data1_SOCS3
+observable_SOCS3		model1_data1	0.0	90.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data1_SOCS3
+observable_SOCS3		model1_data1	0.0	120.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data1_SOCS3
+observable_IL13_cell		model1_data2	3.702461782227725	5.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data2_IL13_cell
+observable_IL13_cell		model1_data2	5.102503313659264	10.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data2_IL13_cell
+observable_IL13_cell		model1_data2	5.606000960048059	15.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data2_IL13_cell
+observable_IL13_cell		model1_data2	5.786980909961617	20.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data2_IL13_cell
+observable_IL13_cell		model1_data2	5.867001234548849	30.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data2_IL13_cell
+observable_IL13_cell		model1_data2	5.862367701640871	40.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data2_IL13_cell
+observable_IL13_cell		model1_data2	5.845413680520111	50.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data2_IL13_cell
+observable_IL13_cell		model1_data2	5.826676382171058	60.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data2_IL13_cell
+observable_IL13_cell		model1_data2	5.788849225505585	80.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data2_IL13_cell
+observable_IL13_cell		model1_data2	5.751323354490627	100.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data2_IL13_cell
+observable_IL13_cell		model1_data2	5.7141530409182995	120.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data2_IL13_cell
+observable_pIL4Ra		model1_data2	0.0	0.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data2_pIL4Ra
+observable_pIL4Ra		model1_data2	1.2263756379741146	4.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data2_pIL4Ra
+observable_pIL4Ra		model1_data2	1.4137484205896649	5.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data2_pIL4Ra
+observable_pIL4Ra		model1_data2	1.6865086058074186	7.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data2_pIL4Ra
+observable_pIL4Ra		model1_data2	1.9250497689871728	10.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data2_pIL4Ra
+observable_pIL4Ra		model1_data2	2.094546503591512	15.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data2_pIL4Ra
+observable_pIL4Ra		model1_data2	2.1494441388708174	20.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data2_pIL4Ra
+observable_pIL4Ra		model1_data2	2.167235538250682	30.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data2_pIL4Ra
+observable_pIL4Ra		model1_data2	2.1602656058878766	40.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data2_pIL4Ra
+observable_pIL4Ra		model1_data2	2.1553812438863424	45.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data2_pIL4Ra
+observable_pIL4Ra		model1_data2	2.1400201066480347	60.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data2_pIL4Ra
+observable_pJAK2		model1_data2	0.0	0.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	0.9775317709766184	4.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	1.2102468586071646	5.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	1.5564324362041138	7.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	1.8546834185983014	10.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	2.041152408701329	15.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	2.0677917612933796	20.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	2.0361270612072566	25.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	1.9807618961239761	30.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	1.8462080817164335	40.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	1.7766302245763674	45.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	1.7084363866142738	50.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	1.5798977970148649	60.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	1.3627091726775817	80.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	1.1975517044566617	100.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_pJAK2		model1_data2	1.075049024289749	120.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data2_pJAK2
+observable_SOCS3mRNA		model1_data2	0.0	0.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data2_SOCS3mRNA
+observable_SOCS3mRNA		model1_data2	54.7713811908946	20.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data2_SOCS3mRNA
+observable_SOCS3mRNA		model1_data2	122.32474503167992	30.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data2_SOCS3mRNA
+observable_SOCS3mRNA		model1_data2	200.3041765748205	40.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data2_SOCS3mRNA
+observable_SOCS3mRNA		model1_data2	364.89755290182114	60.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data2_SOCS3mRNA
+observable_SOCS3mRNA		model1_data2	527.1467809656298	80.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data2_SOCS3mRNA
+observable_SOCS3mRNA		model1_data2	605.6347170589777	90.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data2_SOCS3mRNA
+observable_SOCS3mRNA		model1_data2	682.1316968422974	100.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data2_SOCS3mRNA
+observable_SOCS3mRNA		model1_data2	829.215743883983	120.0	scaling_SOCS3mRNA	sd_SOCS3mRNA_abs;sd_SOCS3mRNA_rel	lin	normal	model1_data2_SOCS3mRNA
+observable_CD274mRNA		model1_data2	0.2537962575025144	30.0	scaling_CD274mRNA	sd_CD274mRNA_abs;sd_CD274mRNA_rel	lin	normal	model1_data2_CD274mRNA
+observable_CD274mRNA		model1_data2	0.7570801253198897	60.0	scaling_CD274mRNA	sd_CD274mRNA_abs;sd_CD274mRNA_rel	lin	normal	model1_data2_CD274mRNA
+observable_CD274mRNA		model1_data2	1.256555446433629	90.0	scaling_CD274mRNA	sd_CD274mRNA_abs;sd_CD274mRNA_rel	lin	normal	model1_data2_CD274mRNA
+observable_CD274mRNA		model1_data2	1.720435651882331	120.0	scaling_CD274mRNA	sd_CD274mRNA_abs;sd_CD274mRNA_rel	lin	normal	model1_data2_CD274mRNA
+observable_SOCS3		model1_data2	0.0	0.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data2_SOCS3
+observable_SOCS3		model1_data2	14.315008645582257	20.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data2_SOCS3
+observable_SOCS3		model1_data2	75.60828120399125	40.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data2_SOCS3
+observable_SOCS3		model1_data2	142.07740949882376	60.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data2_SOCS3
+observable_SOCS3		model1_data2	192.95517136945287	80.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data2_SOCS3
+observable_SOCS3		model1_data2	212.29760620940664	90.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data2_SOCS3
+observable_SOCS3		model1_data2	228.26692753557666	100.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data2_SOCS3
+observable_SOCS3		model1_data2	252.34336975743562	120.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data2_SOCS3
+observable_pSTAT5		model1_data2	0.0	0.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	9.837759245727723	5.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	33.06725102863005	10.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	54.52932482779522	15.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	70.54947841182519	20.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	81.66494068153274	25.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	89.08566594100587	30.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	93.86694972107034	35.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	96.79606227552381	40.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	98.43220560874	45.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	99.16600385113772	50.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	98.93218131154048	60.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	97.43105318955807	70.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	95.33224281300991	80.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	92.98471133019227	90.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	90.57781877921694	100.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_pSTAT5		model1_data2	85.96410303328852	120.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data2_pSTAT5
+observable_RecSurf		model1_data3	1.3	0.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data3_RecSurf
+observable_RecSurf		model1_data3	1.3964479597267139	10.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data3_RecSurf
+observable_RecSurf		model1_data3	1.3963083509869816	20.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data3_RecSurf
+observable_RecSurf		model1_data3	1.3946961525293549	30.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data3_RecSurf
+observable_RecSurf		model1_data3	1.3897738050394168	60.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data3_RecSurf
+observable_RecSurf		model1_data3	1.3848716636846767	90.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data3_RecSurf
+observable_RecSurf		model1_data3	1.3799886240121033	120.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data3_RecSurf
+observable_IL13_cell		model1_data3	0.8944030174291911	5.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data3_IL13_cell
+observable_IL13_cell		model1_data3	1.4008497747925952	10.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data3_IL13_cell
+observable_IL13_cell		model1_data3	1.7047243071010916	15.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data3_IL13_cell
+observable_IL13_cell		model1_data3	1.9146124216878944	20.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data3_IL13_cell
+observable_IL13_cell		model1_data3	2.2033267165730797	30.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data3_IL13_cell
+observable_IL13_cell		model1_data3	2.3975034853165176	40.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data3_IL13_cell
+observable_IL13_cell		model1_data3	2.5330209710775167	50.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data3_IL13_cell
+observable_IL13_cell		model1_data3	2.62814628097348	60.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data3_IL13_cell
+observable_IL13_cell		model1_data3	2.7416503040661877	80.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data3_IL13_cell
+observable_IL13_cell		model1_data3	2.7969889474080296	100.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data3_IL13_cell
+observable_IL13_cell		model1_data3	2.823386264921268	120.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data3_IL13_cell
+observable_pIL4Ra		model1_data3	0.0	0.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.2744973710626849	4.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.32165639627877757	5.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.3933472866691867	7.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.4596832567472948	10.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.5098280968315398	15.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.5208976634743155	17.5	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.5274069289731936	20.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.5312033662853876	22.5	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.5333889751239941	25.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.535283042428404	30.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.5357412667147076	35.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.5356960905744301	40.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.5354746795873668	45.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.5351917093675878	50.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pIL4Ra		model1_data3	0.5345756579199467	60.0	scaling_pIL4Ra	sd_pIL4Ra_abs;sd_pIL4Ra_rel	lin	normal	model1_data3_pIL4Ra
+observable_pJAK2		model1_data3	0.0	0.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	0.13441556881904937	2.5	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	0.26429409572495965	4.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	0.35267112140733337	5.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	0.5211891979390926	7.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	0.5607453580005942	7.5	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	0.7405304092305304	10.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	0.8895901299280821	12.5	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	1.0087935627001268	15.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	1.1002317330174527	17.5	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	1.1669669009694676	20.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	1.2414079636499094	25.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	1.2614284676870624	30.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	1.2492715539262211	35.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	1.2189049270392798	40.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	1.1785736504524844	45.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	1.1331348857694068	50.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	1.0374568937644284	60.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	0.8999289870848941	75.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	0.779953421192192	90.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	0.6795221532452019	105.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pJAK2		model1_data3	0.5971109222791581	120.0	scaling_pJAK2	sd_pJAK2_abs;sd_pJAK2_rel	lin	normal	model1_data3_pJAK2
+observable_pSTAT5		model1_data3	0.0	0.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	2.634724942366577	5.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	11.75377306955593	10.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	24.275820138167397	15.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	37.12868105642718	20.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	48.52037239241933	25.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	57.77373253656988	30.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	64.87403489099007	35.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	70.08766929509854	40.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	73.75165285375769	45.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	76.18372024281456	50.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	78.37706627819492	60.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	78.23621945483194	70.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	76.72516995274842	80.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	71.70145630775528	100.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_pSTAT5		model1_data3	65.78082731552875	120.0		sd_pSTAT5_abs;sd_pSTAT5_rel	lin	normal	model1_data3_pSTAT5
+observable_RecSurf		model1_data4	1.3	0.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data4_RecSurf
+observable_RecSurf		model1_data4	1.1049645005750315	10.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data4_RecSurf
+observable_RecSurf		model1_data4	1.0897841859182094	20.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data4_RecSurf
+observable_RecSurf		model1_data4	1.077408661903897	30.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data4_RecSurf
+observable_RecSurf		model1_data4	1.0411488448775856	60.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data4_RecSurf
+observable_RecSurf		model1_data4	1.0061095108976765	90.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data4_RecSurf
+observable_RecSurf		model1_data4	0.9722466924855935	120.0		sd_RecSurf_abs;sd_RecSurf_rel	lin	normal	model1_data4_RecSurf
+observable_IL13_cell		model1_data4	8.844181614091152	5.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data4_IL13_cell
+observable_IL13_cell		model1_data4	10.572082534116968	10.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data4_IL13_cell
+observable_IL13_cell		model1_data4	11.078672299603998	15.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data4_IL13_cell
+observable_IL13_cell		model1_data4	11.218127730919587	20.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data4_IL13_cell
+observable_IL13_cell		model1_data4	11.202293783229008	30.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data4_IL13_cell
+observable_IL13_cell		model1_data4	11.107479350682866	40.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data4_IL13_cell
+observable_IL13_cell		model1_data4	11.00401489458826	50.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data4_IL13_cell
+observable_IL13_cell		model1_data4	10.900530145675923	60.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data4_IL13_cell
+observable_IL13_cell		model1_data4	10.69676004333723	80.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data4_IL13_cell
+observable_IL13_cell		model1_data4	10.497561302014267	100.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data4_IL13_cell
+observable_IL13_cell		model1_data4	10.30285054886535	120.0	scaling_IL13_cell	sd_IL13_cell_abs;sd_IL13_cell_rel	lin	normal	model1_data4_IL13_cell
+observable_SOCS3		model1_data4	0.0	0.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data4_SOCS3
+observable_SOCS3		model1_data4	20.2535315012197	20.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data4_SOCS3
+observable_SOCS3		model1_data4	87.18924472138445	40.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data4_SOCS3
+observable_SOCS3		model1_data4	153.2726886518514	60.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data4_SOCS3
+observable_SOCS3		model1_data4	202.2992388190711	80.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data4_SOCS3
+observable_SOCS3		model1_data4	236.00625997306096	100.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data4_SOCS3
+observable_SOCS3		model1_data4	259.00725402836787	120.0		sd_SOCS3_abs;sd_SOCS3_rel	lin	normal	model1_data4_SOCS3

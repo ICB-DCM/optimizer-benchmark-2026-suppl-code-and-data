@@ -138,3 +138,18 @@ and without sensitivities).
 | `amici_status`            | AMICI simulation status per condition                              |
 | `amici_cpu_times_total_s` | AMICI simulation CPU time per condition (s)                        |
 | `amici_messages`          | AMICI messages/warnings per condition                              |
+
+## `best_parameters/`
+
+The best parameter vector found for each problem (over all optimizers and
+runs, marvin site, within 80% of the walltime budget), and PEtab simulation
+tables for these parameters.
+See [`best_parameters/README.md`](best_parameters/README.md) and
+[`best_parameters/simulations/README.md`](best_parameters/simulations/README.md)
+for details.
+
+| File                                 | Description                                                                        |
+|--------------------------------------|------------------------------------------------------------------------------------|
+| `best_x_within_walltime.csv`         | One row per (problem, parameter): parameter values, bounds and provenance          |
+| `best_x_within_walltime.json`        | Per problem: best `fval`, parameter vector `x` (PEtab scale and order), provenance |
+| `simulations/<short_problem_id>.tsv` | PEtab simulation table at the best parameters                                      |

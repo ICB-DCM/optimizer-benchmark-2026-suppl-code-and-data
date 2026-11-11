@@ -1,0 +1,63 @@
+time	observableId	simulation	simulationConditionId	datasetId
+15.0	Glucose_uptake__2B	119.5123983173149	figure2B__0_0__1_3em10	base
+15.0	PI3K_activity__2B	385.1492002322961	figure2B__0_0__1_5em08	base
+15.0	PI3K_activity__2B	152.22661978886282	figure2B__0_0__1_5em09	base
+15.0	PI3K_activity__2B	63.028281089205095	figure2B__0_0__1_5em10	base
+15.0	Glucose_uptake__2B	54.26270568526538	figure2B__0_0__1_5em11	base
+15.0	PI3K_activity__2B	478.1797713599504	figure2B__0_0__1em06	base
+15.0	Glucose_uptake__2B	243.91321420679748	figure2B__0_0__1em07	base
+15.0	PI3K_activity__2B	476.2257244653965	figure2B__0_0__1em07	base
+15.0	Glucose_uptake__2B	227.8561760633682	figure2B__0_0__1em08	base
+15.0	Cell_Bound_Ins__2B	63.69920733457063	figure2B__0_0__1em08	base
+15.0	Glucose_uptake__2B	180.57334652067428	figure2B__0_0__1em09	base
+15.0	Cell_Bound_Ins__2B	7.723689768468816	figure2B__0_0__1em09	base
+15.0	Glucose_uptake__2B	45.08464352517537	figure2B__0_0__1em14	base
+15.0	PI3K_activity__2B	0.014613635018033371	figure2B__0_0__1em14	base
+15.0	Cell_Bound_Ins__2B	15.24714462497046	figure2B__0_0__2em09	base
+15.0	Cell_Bound_Ins__2B	1.5455998035676903	figure2B__0_0__2em10	base
+15.0	Cell_Bound_Ins__2B	0.1541873954003061	figure2B__0_0__2em11	base
+15.0	Glucose_uptake__2B	149.63458477695482	figure2B__0_0__3_1em10	base
+15.0	PI3K_activity__2B	35.49298288324635	figure2B__0_0__3_5em11	base
+15.0	Glucose_uptake__2B	244.72154611254598	figure2B__0_0__3em07	base
+15.0	Cell_Bound_Ins__2B	157.74905543791982	figure2B__0_0__3em07	base
+15.0	PI3K_activity__2B	477.96235343185725	figure2B__0_0__3em07	base
+15.0	Glucose_uptake__2B	239.25877294291774	figure2B__0_0__3em08	base
+15.0	Cell_Bound_Ins__2B	123.50498503572283	figure2B__0_0__3em08	base
+15.0	Glucose_uptake__2B	205.72684376578897	figure2B__0_0__3em09	base
+15.0	Glucose_uptake__2B	80.91583888808901	figure2B__0_0__4_5em11	base
+15.0	Cell_Bound_Ins__2B	3.095189986333438	figure2B__0_0__4em10	base
+15.0	PI3K_activity__2B	465.8973234603777	figure2B__0_0__5em08	base
+15.0	PI3K_activity__2B	266.5853669116005	figure2B__0_0__5em09	base
+15.0	PI3K_activity__2B	88.82151272862069	figure2B__0_0__5em10	base
+15.0	Cell_Bound_Ins__2B	0.3856613167968422	figure2B__0_0__5em11	base
+0.0	IRSYp__2C	0.0	figure2C__0_0__500000	fig2A
+1.0	IRSYp__2C	175.12898926404594	figure2C__0_0__500000	fig2A
+1.25	IRSYp__2C	205.2106711891633	figure2C__0_0__500000	fig2A
+1.4	IRSYp__2C	213.44914260679107	figure2C__0_0__500000	fig2A
+2.2	IRSYp__2C	154.2962237072499	figure2C__0_0__500000	fig2A
+3.3	IRSYp__2C	68.42978010726243	figure2C__0_0__500000	fig2A
+5.25	IRSYp__2C	78.39309136876443	figure2C__0_0__500000	fig2A
+7.2	IRSYp__2C	107.1222729720301	figure2C__0_0__500000	fig2A
+10.0	IRSYp__2C	107.3232800888391	figure2C__0_0__500000	fig2A
+15.0	IRSYp__2C	105.04640933743244	figure2C__0_0__500000	fig2A
+0.0	PTP_activ__2D	0.16679544576889727	figure2D__0_0__500000	fig2A
+1.0	PTP_activ__2D	0.09190730543141891	figure2D__0_0__500000	fig2A
+5.0	PTP_activ__2D	0.01317231220615501	figure2D__0_0__500000	fig2A
+120.0	Glucose_uptake__120__3B	208.50565525444293	figure3B__0_0__0_0	Basal (time = 120)
+240.0	Glucose_uptake__240__3B	293.86624341346214	figure3B__0_0__0_0	Basal (time = 240)
+120.0	Glucose_uptake__120__3B	685.6274368978098	figure3B__0_0__5_0	Ins (time = 120)
+240.0	Glucose_uptake__240__3B	575.5945916731	figure3B__0_0__5_0	Ins (time = 240)
+120.0	Glucose_uptake__120__3B	208.50565546154652	figure3B__60_0__0_0	H2O2 (time = 120)
+240.0	Glucose_uptake__240__3B	293.8662434134627	figure3B__60_0__0_0	H2O2 (time = 240)
+120.0	Glucose_uptake__120__3B	360.92559353991174	figure3B__60_0__5_0	Ins+H2O2 (time = 120)
+240.0	Glucose_uptake__240__3B	327.02189188039756	figure3B__60_0__5_0	Ins+H2O2 (time = 240)
+960.0	FOXO4__3C	0.6982390501994565	figure3C__0_0__0_0	0.0
+960.0	MnSOD_fold_induction__3C	5.772770198421199	figure3C__0_0__0_0	0.0
+960.0	FOXO4__3C	1.079236756874233	figure3C__10_0__0_0	10.0
+960.0	MnSOD_fold_induction__3C	8.555936322404795	figure3C__10_0__0_0	10.0
+960.0	FOXO4__3C	0.7173690599284734	figure3C__20_0__0_0	20.0
+960.0	MnSOD_fold_induction__3C	6.487233166750794	figure3C__20_0__0_0	20.0
+960.0	FOXO4__3C	0.08295500746854687	figure3C__50_0__0_0	50.0
+960.0	MnSOD_fold_induction__3C	2.278796037796334	figure3C__50_0__0_0	50.0
+960.0	FOXO4__3C	1.0371757643459267	figure3C__5_0__0_0	5.0
+960.0	MnSOD_fold_induction__3C	8.551963802983742	figure3C__5_0__0_0	5.0

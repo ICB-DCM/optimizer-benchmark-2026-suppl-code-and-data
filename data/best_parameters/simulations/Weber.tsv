@@ -1,0 +1,136 @@
+observableId	preequilibrationConditionId	simulationConditionId	simulation	time	observableParameters	noiseParameters
+yPKDpN0	model1_data1	model1_data2	0.8888970359885032	0.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data2	1.3411919237780117	3.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data2	1.4212200352377877	6.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data2	0.8888970359885032	0.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data2	1.3411919237780117	3.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data2	1.4212200352377877	6.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data2	0.8888970359885032	0.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data2	1.3411919237780117	3.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data2	1.4212200352377877	6.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN24	model1_data1	model1_data2	1.0004408979496635	24.0	scale_yPKDpN24	std_yPKDpN24
+yPKDpN24	model1_data1	model1_data2	8.970447560408624	27.0	scale_yPKDpN24	std_yPKDpN24
+yPKDpN24	model1_data1	model1_data2	7.208156610837175	30.0	scale_yPKDpN24	std_yPKDpN24
+yPKDpN24	model1_data1	model1_data2	1.0004408979496635	24.0	scale_yPKDpN24	std_yPKDpN24
+yPKDpN24	model1_data1	model1_data2	8.970447560408624	27.0	scale_yPKDpN24	std_yPKDpN24
+yPKDpN24	model1_data1	model1_data2	7.208156610837175	30.0	scale_yPKDpN24	std_yPKDpN24
+yPKDpN24	model1_data1	model1_data2	1.0004408979496635	24.0	scale_yPKDpN24	std_yPKDpN24
+yPKDpN24	model1_data1	model1_data2	8.970447560408624	27.0	scale_yPKDpN24	std_yPKDpN24
+yPKDpN24	model1_data1	model1_data2	7.208156610837175	30.0	scale_yPKDpN24	std_yPKDpN24
+yPKDpN25	model1_data1	model1_data2	0.07045630894365665	24.0	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	0.8081856018452828	24.08	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.0395347747307728	24.17	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.1581496227997816	24.25	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.2131116271935491	24.5	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.0214574547255832	25.0	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	0.07045630894365665	24.0	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	0.8081856018452828	24.08	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.0395347747307728	24.17	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.1581496227997816	24.25	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.2131116271935491	24.5	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.0214574547255832	25.0	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	0.07045630894365665	24.0	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	0.8081856018452828	24.08	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.0395347747307728	24.17	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.1581496227997816	24.25	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.2131116271935491	24.5	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.0214574547255832	25.0	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	0.8081856018452828	24.08	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.0395347747307728	24.17	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.1581496227997816	24.25	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.2131116271935491	24.5	scale_yPKDpN25	std_yPKDpN25
+yPKDpN25	model1_data1	model1_data2	1.0214574547255832	25.0	scale_yPKDpN25	std_yPKDpN25
+yPI4K3BpRN24	model1_data1	model1_data2	1.0802206020101643	24.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	1.9387960210872421	24.08	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.296073282376317	24.17	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.378324001176725	24.25	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.4263300400817167	24.5	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.4132058810790267	25.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.309686661125061	27.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.236649449648754	30.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	1.0802206020101643	24.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	1.9387960210872421	24.08	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.296073282376317	24.17	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.378324001176725	24.25	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.4263300400817167	24.5	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.4132058810790267	25.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.309686661125061	27.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.236649449648754	30.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	1.0802206020101643	24.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.296073282376317	24.17	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.378324001176725	24.25	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.4263300400817167	24.5	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.4132058810790267	25.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.309686661125061	27.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.236649449648754	30.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	1.0802206020101643	24.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.378324001176725	24.25	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.4132058810790267	25.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	1.0802206020101643	24.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.378324001176725	24.25	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3BpRN24	model1_data1	model1_data2	2.4132058810790267	25.0	scale_yPI4K3BpRN24	std_yPI4K3BpRN24
+yPI4K3Bt	model1_data1	model1_data2	80032509.28711484	24.0		std_yPI4K3Bt
+yPI4K3Bt	model1_data1	model1_data2	80032509.28711484	24.0		std_yPI4K3Bt
+yPI4K3Bt	model1_data1	model1_data2	80032509.28711484	24.0		std_yPI4K3Bt
+yCERTt	model1_data1	model1_data2	74254398.45344667	0.0		std_yCERTt
+yCERTt	model1_data1	model1_data2	74254398.45344667	0.0		std_yCERTt
+yCERTt	model1_data1	model1_data2	74254398.45344667	0.0		std_yCERTt
+yPKDpN0	model1_data1	model1_data3	0.8888970359885032	0.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	1.4210142541984292	3.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	1.9103602167376657	6.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.8492295163590686	24.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.3703375268877753	24.25	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.2950209906983057	24.5	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.2211936554199485	25.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.1640204542458905	26.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.175929904009641	27.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	0.8888970359885032	0.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	1.4210142541984292	3.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	1.9103602167376657	6.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.8492295163590686	24.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.3703375268877753	24.25	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.2950209906983057	24.5	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.2211936554199485	25.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.1640204542458905	26.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.175929904009641	27.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	0.8888970359885032	0.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	1.4210142541984292	3.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	1.9103602167376657	6.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.8492295163590686	24.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.3703375268877753	24.25	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.2950209906983057	24.5	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.2211936554199485	25.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.1640204542458905	26.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	3.175929904009641	27.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	0.8888970359885032	0.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	1.4210142541984292	3.0	scale_yPKDpN0	std_yPKDpN0
+yPKDpN0	model1_data1	model1_data3	1.9103602167376657	6.0	scale_yPKDpN0	std_yPKDpN0
+yCERTpRN24	model1_data1	model1_data3	1.0073356662545716	24.0	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8975456365681277	24.25	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8747688435404675	24.5	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8589909028517904	25.0	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8484799527614642	26.0	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8529442164885851	27.0	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	1.0073356662545716	24.0	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8975456365681277	24.25	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8747688435404675	24.5	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8589909028517904	25.0	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8484799527614642	26.0	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8529442164885851	27.0	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	1.0073356662545716	24.0	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8975456365681277	24.25	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8747688435404675	24.5	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8589909028517904	25.0	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8484799527614642	26.0	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8529442164885851	27.0	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	1.0073356662545716	24.0	scale_yCERTpRN24	std_yCERTpRN24
+yCERTpRN24	model1_data1	model1_data3	0.8747688435404675	24.5	scale_yCERTpRN24	std_yCERTpRN24
+yPKDt	model1_data1	model1_data3	466241.7317810543	0.0		std_yPKDt
+yPKDt	model1_data1	model1_data3	466241.7317810543	0.0		std_yPKDt
+yPKDt	model1_data1	model1_data3	466241.7317810543	0.0		std_yPKDt
+yPI4K3Bt	model1_data1	model1_data3	1909568.1008469993	0.0		std_yPI4K3Bt
+yPI4K3Bt	model1_data1	model1_data3	1909568.1008469993	0.0		std_yPI4K3Bt
+yPI4K3Bt	model1_data1	model1_data3	1909568.1008469993	0.0		std_yPI4K3Bt
+yCERTt	model1_data1	model1_data3	450486768.79994273	24.0		std_yCERTt
+yCERTt	model1_data1	model1_data3	450486768.79994273	24.0		std_yCERTt
+yCERTt	model1_data1	model1_data3	450486768.79994273	24.0		std_yCERTt

@@ -1,0 +1,24 @@
+observableId	preequilibrationConditionId	simulationConditionId	simulation	time	observableParameters	noiseParameters	datasetId
+observable_prevalence		simCondition	0.20193254451694997	0		1	model1_data1_prevalence
+observable_prevalence		simCondition	0.5508727174041752	1		1	model1_data1_prevalence
+observable_prevalence		simCondition	1.1364149344279468	2		1	model1_data1_prevalence
+observable_prevalence		simCondition	2.030532596164278	3		1	model1_data1_prevalence
+observable_prevalence		simCondition	3.302956700434791	4		1	model1_data1_prevalence
+observable_prevalence		simCondition	4.97767540501026	5		1	model1_data1_prevalence
+observable_prevalence		simCondition	6.988173507230641	6		1	model1_data1_prevalence
+observable_prevalence		simCondition	9.171687033398214	7		1	model1_data1_prevalence
+observable_prevalence		simCondition	11.321324752342221	8		1	model1_data1_prevalence
+observable_prevalence		simCondition	13.259740785021364	9		1	model1_data1_prevalence
+observable_prevalence		simCondition	14.882903103364882	10		1	model1_data1_prevalence
+observable_prevalence		simCondition	16.160845468885796	11		1	model1_data1_prevalence
+observable_prevalence		simCondition	17.11510397340649	12		1	model1_data1_prevalence
+observable_prevalence		simCondition	17.79373757150951	13		1	model1_data1_prevalence
+observable_prevalence		simCondition	18.25313078512167	14		1	model1_data1_prevalence
+observable_prevalence		simCondition	18.547430663874607	15		1	model1_data1_prevalence
+observable_prevalence		simCondition	18.72351965766252	16		1	model1_data1_prevalence
+observable_prevalence		simCondition	18.819333199491652	17		1	model1_data1_prevalence
+observable_prevalence		simCondition	18.863982943285123	18		1	model1_data1_prevalence
+observable_prevalence		simCondition	18.878742313332268	19		1	model1_data1_prevalence
+observable_prevalence		simCondition	18.87836763874253	20		1	model1_data1_prevalence
+observable_prevalence		simCondition	18.872468521626644	21		1	model1_data1_prevalence
+observable_prevalence		simCondition	18.866780768697723	22		1	model1_data1_prevalence
